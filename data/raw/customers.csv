@@ -1,0 +1,5001 @@
+customer_id,customer_segment,region,tenure_months
+CUST_00001,Retail,Maharashtra,55
+CUST_00002,Corporate,Maharashtra,32
+CUST_00003,Student,Telangana,36
+CUST_00004,Premium,Maharashtra,50
+CUST_00005,Retail,Telangana,37
+CUST_00006,Retail,Tamil Nadu,48
+CUST_00007,Retail,West Bengal,14
+CUST_00008,Small Business,Kerala,27
+CUST_00009,Premium,Karnataka,59
+CUST_00010,Student,Maharashtra,19
+CUST_00011,Retail,Tamil Nadu,31
+CUST_00012,Corporate,Gujarat,46
+CUST_00013,Small Business,Delhi,9
+CUST_00014,Retail,Delhi,38
+CUST_00015,Retail,Karnataka,17
+CUST_00016,Retail,Karnataka,19
+CUST_00017,Retail,Tamil Nadu,44
+CUST_00018,Premium,Karnataka,4
+CUST_00019,Retail,Delhi,48
+CUST_00020,Retail,Telangana,57
+CUST_00021,Premium,Gujarat,11
+CUST_00022,Retail,Maharashtra,22
+CUST_00023,Retail,Uttar Pradesh,4
+CUST_00024,Retail,Gujarat,17
+CUST_00025,Premium,Uttar Pradesh,8
+CUST_00026,Student,Delhi,46
+CUST_00027,Retail,Karnataka,59
+CUST_00028,Premium,Tamil Nadu,34
+CUST_00029,Premium,West Bengal,11
+CUST_00030,Retail,Tamil Nadu,31
+CUST_00031,Premium,Karnataka,11
+CUST_00032,Retail,Delhi,56
+CUST_00033,Retail,Delhi,54
+CUST_00034,Small Business,Delhi,56
+CUST_00035,Corporate,Tamil Nadu,38
+CUST_00036,Student,Maharashtra,53
+CUST_00037,Retail,Delhi,21
+CUST_00038,Retail,Uttar Pradesh,46
+CUST_00039,Student,West Bengal,30
+CUST_00040,Retail,Uttar Pradesh,10
+CUST_00041,Retail,West Bengal,26
+CUST_00042,Premium,Delhi,27
+CUST_00043,Retail,Karnataka,8
+CUST_00044,Small Business,Gujarat,39
+CUST_00045,Retail,Delhi,8
+CUST_00046,Student,Delhi,60
+CUST_00047,Retail,Maharashtra,8
+CUST_00048,Premium,Delhi,55
+CUST_00049,Premium,Karnataka,34
+CUST_00050,Retail,Maharashtra,59
+CUST_00051,Corporate,Karnataka,16
+CUST_00052,Student,Kerala,41
+CUST_00053,Small Business,Karnataka,13
+CUST_00054,Small Business,Tamil Nadu,23
+CUST_00055,Premium,Maharashtra,12
+CUST_00056,Small Business,Gujarat,27
+CUST_00057,Retail,Maharashtra,22
+CUST_00058,Retail,Karnataka,32
+CUST_00059,Retail,Delhi,57
+CUST_00060,Retail,Maharashtra,49
+CUST_00061,Retail,Uttar Pradesh,27
+CUST_00062,Retail,Uttar Pradesh,2
+CUST_00063,Student,Maharashtra,45
+CUST_00064,Retail,Karnataka,33
+CUST_00065,Retail,West Bengal,26
+CUST_00066,Premium,Tamil Nadu,28
+CUST_00067,Retail,Maharashtra,19
+CUST_00068,Student,Karnataka,43
+CUST_00069,Retail,Uttar Pradesh,5
+CUST_00070,Corporate,Tamil Nadu,33
+CUST_00071,Student,Delhi,20
+CUST_00072,Retail,West Bengal,30
+CUST_00073,Retail,Maharashtra,45
+CUST_00074,Student,Tamil Nadu,8
+CUST_00075,Student,Rajasthan,38
+CUST_00076,Student,Maharashtra,17
+CUST_00077,Student,Delhi,44
+CUST_00078,Retail,Karnataka,1
+CUST_00079,Retail,Maharashtra,3
+CUST_00080,Retail,Maharashtra,46
+CUST_00081,Small Business,Tamil Nadu,26
+CUST_00082,Premium,Tamil Nadu,31
+CUST_00083,Retail,Kerala,8
+CUST_00084,Retail,Karnataka,43
+CUST_00085,Retail,Karnataka,59
+CUST_00086,Retail,Maharashtra,46
+CUST_00087,Student,West Bengal,8
+CUST_00088,Premium,Tamil Nadu,35
+CUST_00089,Small Business,Delhi,39
+CUST_00090,Premium,Tamil Nadu,28
+CUST_00091,Retail,Tamil Nadu,51
+CUST_00092,Student,Tamil Nadu,4
+CUST_00093,Student,Kerala,57
+CUST_00094,Premium,Tamil Nadu,16
+CUST_00095,Student,Tamil Nadu,13
+CUST_00096,Premium,Maharashtra,20
+CUST_00097,Premium,Kerala,51
+CUST_00098,Retail,Karnataka,5
+CUST_00099,Retail,Maharashtra,55
+CUST_00100,Retail,Tamil Nadu,37
+CUST_00101,Retail,Maharashtra,20
+CUST_00102,Premium,Delhi,24
+CUST_00103,Retail,Delhi,36
+CUST_00104,Premium,Karnataka,34
+CUST_00105,Small Business,Karnataka,58
+CUST_00106,Retail,Tamil Nadu,45
+CUST_00107,Retail,Maharashtra,48
+CUST_00108,Student,Tamil Nadu,54
+CUST_00109,Retail,West Bengal,34
+CUST_00110,Retail,Uttar Pradesh,19
+CUST_00111,Retail,Rajasthan,17
+CUST_00112,Retail,Telangana,5
+CUST_00113,Small Business,Delhi,25
+CUST_00114,Student,Gujarat,18
+CUST_00115,Premium,Karnataka,60
+CUST_00116,Small Business,Delhi,55
+CUST_00117,Student,Maharashtra,53
+CUST_00118,Retail,Maharashtra,50
+CUST_00119,Small Business,West Bengal,8
+CUST_00120,Premium,Karnataka,27
+CUST_00121,Student,Karnataka,15
+CUST_00122,Small Business,Uttar Pradesh,45
+CUST_00123,Retail,Tamil Nadu,13
+CUST_00124,Retail,Maharashtra,16
+CUST_00125,Retail,Telangana,22
+CUST_00126,Retail,Delhi,20
+CUST_00127,Student,Delhi,13
+CUST_00128,Small Business,Karnataka,20
+CUST_00129,Retail,Maharashtra,2
+CUST_00130,Premium,Telangana,35
+CUST_00131,Retail,Delhi,47
+CUST_00132,Retail,Maharashtra,55
+CUST_00133,Retail,Tamil Nadu,19
+CUST_00134,Retail,Tamil Nadu,45
+CUST_00135,Small Business,Uttar Pradesh,37
+CUST_00136,Retail,Maharashtra,58
+CUST_00137,Premium,Delhi,54
+CUST_00138,Student,Tamil Nadu,6
+CUST_00139,Retail,Gujarat,14
+CUST_00140,Corporate,Uttar Pradesh,4
+CUST_00141,Corporate,Delhi,22
+CUST_00142,Retail,Tamil Nadu,51
+CUST_00143,Premium,Delhi,55
+CUST_00144,Retail,West Bengal,39
+CUST_00145,Retail,Maharashtra,36
+CUST_00146,Retail,Telangana,34
+CUST_00147,Premium,Gujarat,27
+CUST_00148,Premium,Telangana,7
+CUST_00149,Retail,Delhi,3
+CUST_00150,Retail,Tamil Nadu,47
+CUST_00151,Small Business,Karnataka,33
+CUST_00152,Retail,Karnataka,2
+CUST_00153,Retail,Telangana,42
+CUST_00154,Premium,West Bengal,16
+CUST_00155,Corporate,Gujarat,25
+CUST_00156,Retail,Karnataka,60
+CUST_00157,Student,Karnataka,15
+CUST_00158,Student,West Bengal,24
+CUST_00159,Retail,Maharashtra,15
+CUST_00160,Student,Karnataka,31
+CUST_00161,Retail,Delhi,14
+CUST_00162,Premium,Tamil Nadu,54
+CUST_00163,Premium,Karnataka,14
+CUST_00164,Premium,Maharashtra,6
+CUST_00165,Retail,Tamil Nadu,14
+CUST_00166,Small Business,Rajasthan,17
+CUST_00167,Retail,Karnataka,18
+CUST_00168,Retail,Tamil Nadu,20
+CUST_00169,Retail,Karnataka,51
+CUST_00170,Premium,West Bengal,17
+CUST_00171,Student,Maharashtra,16
+CUST_00172,Retail,Delhi,40
+CUST_00173,Premium,Tamil Nadu,39
+CUST_00174,Retail,Tamil Nadu,52
+CUST_00175,Premium,Maharashtra,32
+CUST_00176,Retail,Kerala,60
+CUST_00177,Student,Telangana,44
+CUST_00178,Retail,Tamil Nadu,9
+CUST_00179,Small Business,Delhi,27
+CUST_00180,Retail,Telangana,46
+CUST_00181,Retail,Maharashtra,52
+CUST_00182,Retail,Kerala,33
+CUST_00183,Small Business,Tamil Nadu,10
+CUST_00184,Small Business,Uttar Pradesh,17
+CUST_00185,Retail,West Bengal,49
+CUST_00186,Student,Uttar Pradesh,49
+CUST_00187,Student,Gujarat,36
+CUST_00188,Premium,Maharashtra,17
+CUST_00189,Premium,Uttar Pradesh,18
+CUST_00190,Retail,Karnataka,52
+CUST_00191,Retail,Karnataka,23
+CUST_00192,Small Business,Gujarat,34
+CUST_00193,Small Business,West Bengal,8
+CUST_00194,Premium,Uttar Pradesh,13
+CUST_00195,Retail,Karnataka,23
+CUST_00196,Retail,Kerala,57
+CUST_00197,Student,West Bengal,54
+CUST_00198,Small Business,Tamil Nadu,20
+CUST_00199,Small Business,Maharashtra,22
+CUST_00200,Student,Karnataka,47
+CUST_00201,Premium,Karnataka,52
+CUST_00202,Retail,Rajasthan,23
+CUST_00203,Retail,Gujarat,41
+CUST_00204,Small Business,Gujarat,35
+CUST_00205,Premium,Rajasthan,3
+CUST_00206,Retail,Maharashtra,34
+CUST_00207,Retail,Kerala,33
+CUST_00208,Student,Maharashtra,46
+CUST_00209,Retail,Telangana,17
+CUST_00210,Retail,Karnataka,45
+CUST_00211,Premium,Uttar Pradesh,19
+CUST_00212,Student,Karnataka,30
+CUST_00213,Student,Karnataka,23
+CUST_00214,Retail,West Bengal,15
+CUST_00215,Student,Maharashtra,59
+CUST_00216,Retail,Delhi,57
+CUST_00217,Retail,Maharashtra,14
+CUST_00218,Student,West Bengal,2
+CUST_00219,Premium,Karnataka,39
+CUST_00220,Small Business,Tamil Nadu,49
+CUST_00221,Student,Karnataka,18
+CUST_00222,Premium,Maharashtra,6
+CUST_00223,Retail,Tamil Nadu,59
+CUST_00224,Retail,Maharashtra,32
+CUST_00225,Retail,Maharashtra,21
+CUST_00226,Retail,Tamil Nadu,40
+CUST_00227,Corporate,Delhi,28
+CUST_00228,Retail,Telangana,27
+CUST_00229,Small Business,Tamil Nadu,2
+CUST_00230,Premium,Delhi,33
+CUST_00231,Student,Gujarat,16
+CUST_00232,Premium,Maharashtra,39
+CUST_00233,Premium,Gujarat,22
+CUST_00234,Premium,Maharashtra,56
+CUST_00235,Retail,Maharashtra,43
+CUST_00236,Student,Tamil Nadu,47
+CUST_00237,Retail,Gujarat,13
+CUST_00238,Retail,Gujarat,56
+CUST_00239,Premium,Tamil Nadu,2
+CUST_00240,Retail,Maharashtra,14
+CUST_00241,Small Business,Rajasthan,56
+CUST_00242,Corporate,Maharashtra,38
+CUST_00243,Small Business,Maharashtra,41
+CUST_00244,Retail,Telangana,28
+CUST_00245,Retail,Gujarat,7
+CUST_00246,Small Business,Delhi,18
+CUST_00247,Retail,Kerala,56
+CUST_00248,Corporate,Telangana,41
+CUST_00249,Corporate,Maharashtra,55
+CUST_00250,Small Business,Maharashtra,36
+CUST_00251,Retail,Maharashtra,41
+CUST_00252,Retail,Uttar Pradesh,36
+CUST_00253,Small Business,Gujarat,44
+CUST_00254,Retail,Tamil Nadu,4
+CUST_00255,Retail,Telangana,57
+CUST_00256,Premium,Maharashtra,30
+CUST_00257,Small Business,Tamil Nadu,24
+CUST_00258,Student,Delhi,20
+CUST_00259,Premium,Maharashtra,46
+CUST_00260,Retail,Telangana,56
+CUST_00261,Premium,Karnataka,31
+CUST_00262,Corporate,Kerala,24
+CUST_00263,Retail,Delhi,7
+CUST_00264,Premium,Tamil Nadu,26
+CUST_00265,Small Business,Rajasthan,13
+CUST_00266,Student,Maharashtra,54
+CUST_00267,Student,Karnataka,8
+CUST_00268,Student,Maharashtra,55
+CUST_00269,Retail,Telangana,5
+CUST_00270,Retail,Karnataka,44
+CUST_00271,Student,Karnataka,13
+CUST_00272,Student,Tamil Nadu,29
+CUST_00273,Small Business,Karnataka,20
+CUST_00274,Small Business,West Bengal,14
+CUST_00275,Premium,Maharashtra,32
+CUST_00276,Premium,Karnataka,60
+CUST_00277,Student,Tamil Nadu,50
+CUST_00278,Premium,Karnataka,27
+CUST_00279,Student,Uttar Pradesh,56
+CUST_00280,Student,Maharashtra,25
+CUST_00281,Small Business,Rajasthan,52
+CUST_00282,Retail,Maharashtra,4
+CUST_00283,Retail,Tamil Nadu,21
+CUST_00284,Retail,Telangana,18
+CUST_00285,Premium,Maharashtra,39
+CUST_00286,Retail,Gujarat,15
+CUST_00287,Premium,Rajasthan,53
+CUST_00288,Premium,Tamil Nadu,38
+CUST_00289,Retail,Tamil Nadu,48
+CUST_00290,Premium,West Bengal,52
+CUST_00291,Retail,Karnataka,24
+CUST_00292,Retail,Karnataka,8
+CUST_00293,Student,Tamil Nadu,28
+CUST_00294,Retail,Tamil Nadu,21
+CUST_00295,Retail,West Bengal,16
+CUST_00296,Premium,Tamil Nadu,60
+CUST_00297,Student,Maharashtra,54
+CUST_00298,Retail,Delhi,16
+CUST_00299,Premium,Maharashtra,35
+CUST_00300,Retail,Tamil Nadu,17
+CUST_00301,Retail,West Bengal,9
+CUST_00302,Premium,Tamil Nadu,57
+CUST_00303,Premium,West Bengal,35
+CUST_00304,Premium,Telangana,52
+CUST_00305,Student,Maharashtra,29
+CUST_00306,Corporate,Delhi,39
+CUST_00307,Premium,Maharashtra,18
+CUST_00308,Retail,Maharashtra,12
+CUST_00309,Student,Telangana,19
+CUST_00310,Retail,Telangana,48
+CUST_00311,Retail,Karnataka,22
+CUST_00312,Retail,Delhi,59
+CUST_00313,Retail,Uttar Pradesh,56
+CUST_00314,Corporate,Uttar Pradesh,49
+CUST_00315,Small Business,Maharashtra,52
+CUST_00316,Student,Maharashtra,15
+CUST_00317,Retail,Karnataka,1
+CUST_00318,Retail,Uttar Pradesh,2
+CUST_00319,Retail,Tamil Nadu,8
+CUST_00320,Retail,Delhi,22
+CUST_00321,Premium,Karnataka,25
+CUST_00322,Student,Karnataka,2
+CUST_00323,Student,Maharashtra,51
+CUST_00324,Retail,Rajasthan,9
+CUST_00325,Corporate,Tamil Nadu,9
+CUST_00326,Student,Delhi,13
+CUST_00327,Premium,Tamil Nadu,6
+CUST_00328,Premium,Tamil Nadu,30
+CUST_00329,Retail,Maharashtra,15
+CUST_00330,Retail,Maharashtra,51
+CUST_00331,Retail,Karnataka,53
+CUST_00332,Student,Karnataka,15
+CUST_00333,Retail,Tamil Nadu,50
+CUST_00334,Retail,Karnataka,7
+CUST_00335,Retail,Uttar Pradesh,58
+CUST_00336,Retail,Uttar Pradesh,11
+CUST_00337,Small Business,Karnataka,40
+CUST_00338,Student,Delhi,38
+CUST_00339,Premium,Telangana,40
+CUST_00340,Retail,Tamil Nadu,2
+CUST_00341,Premium,Kerala,51
+CUST_00342,Premium,Uttar Pradesh,48
+CUST_00343,Retail,Tamil Nadu,39
+CUST_00344,Retail,Tamil Nadu,10
+CUST_00345,Retail,Uttar Pradesh,44
+CUST_00346,Premium,Delhi,17
+CUST_00347,Premium,Tamil Nadu,7
+CUST_00348,Retail,Karnataka,54
+CUST_00349,Retail,Maharashtra,40
+CUST_00350,Premium,Gujarat,39
+CUST_00351,Premium,West Bengal,4
+CUST_00352,Small Business,Rajasthan,35
+CUST_00353,Student,Karnataka,51
+CUST_00354,Retail,Delhi,47
+CUST_00355,Retail,Delhi,36
+CUST_00356,Premium,Maharashtra,31
+CUST_00357,Retail,Tamil Nadu,25
+CUST_00358,Premium,Rajasthan,41
+CUST_00359,Small Business,Telangana,13
+CUST_00360,Premium,Maharashtra,18
+CUST_00361,Retail,Delhi,21
+CUST_00362,Premium,Karnataka,48
+CUST_00363,Premium,Delhi,1
+CUST_00364,Premium,Gujarat,36
+CUST_00365,Small Business,Maharashtra,50
+CUST_00366,Retail,Rajasthan,8
+CUST_00367,Corporate,Delhi,52
+CUST_00368,Small Business,Maharashtra,48
+CUST_00369,Retail,West Bengal,21
+CUST_00370,Retail,Tamil Nadu,43
+CUST_00371,Retail,Maharashtra,52
+CUST_00372,Retail,Maharashtra,53
+CUST_00373,Retail,Maharashtra,53
+CUST_00374,Student,West Bengal,21
+CUST_00375,Retail,Maharashtra,27
+CUST_00376,Retail,Kerala,19
+CUST_00377,Small Business,Delhi,23
+CUST_00378,Retail,Maharashtra,51
+CUST_00379,Student,Kerala,50
+CUST_00380,Retail,Karnataka,51
+CUST_00381,Retail,Karnataka,43
+CUST_00382,Student,Maharashtra,35
+CUST_00383,Premium,Karnataka,40
+CUST_00384,Small Business,Tamil Nadu,52
+CUST_00385,Student,Gujarat,51
+CUST_00386,Student,Maharashtra,42
+CUST_00387,Retail,Maharashtra,48
+CUST_00388,Retail,Uttar Pradesh,5
+CUST_00389,Student,Delhi,52
+CUST_00390,Student,Telangana,41
+CUST_00391,Corporate,Tamil Nadu,8
+CUST_00392,Retail,Delhi,11
+CUST_00393,Retail,Telangana,16
+CUST_00394,Student,Delhi,39
+CUST_00395,Retail,Gujarat,47
+CUST_00396,Small Business,Maharashtra,24
+CUST_00397,Small Business,Tamil Nadu,21
+CUST_00398,Retail,Maharashtra,52
+CUST_00399,Student,Maharashtra,23
+CUST_00400,Student,Telangana,49
+CUST_00401,Retail,Karnataka,38
+CUST_00402,Small Business,Uttar Pradesh,47
+CUST_00403,Premium,Uttar Pradesh,8
+CUST_00404,Student,Karnataka,7
+CUST_00405,Retail,Maharashtra,2
+CUST_00406,Small Business,Telangana,30
+CUST_00407,Retail,Uttar Pradesh,13
+CUST_00408,Retail,Maharashtra,23
+CUST_00409,Small Business,Karnataka,29
+CUST_00410,Retail,Delhi,38
+CUST_00411,Retail,Gujarat,37
+CUST_00412,Corporate,Karnataka,20
+CUST_00413,Corporate,West Bengal,33
+CUST_00414,Premium,Tamil Nadu,29
+CUST_00415,Premium,Tamil Nadu,50
+CUST_00416,Retail,Maharashtra,15
+CUST_00417,Retail,Maharashtra,23
+CUST_00418,Retail,Karnataka,42
+CUST_00419,Student,Maharashtra,3
+CUST_00420,Student,Karnataka,37
+CUST_00421,Student,Karnataka,56
+CUST_00422,Student,Karnataka,29
+CUST_00423,Retail,Rajasthan,45
+CUST_00424,Premium,Maharashtra,8
+CUST_00425,Retail,Maharashtra,22
+CUST_00426,Premium,Delhi,53
+CUST_00427,Retail,Rajasthan,29
+CUST_00428,Small Business,Karnataka,2
+CUST_00429,Retail,Gujarat,41
+CUST_00430,Retail,Gujarat,49
+CUST_00431,Retail,Delhi,59
+CUST_00432,Student,Tamil Nadu,50
+CUST_00433,Premium,Gujarat,45
+CUST_00434,Retail,Tamil Nadu,1
+CUST_00435,Retail,Delhi,44
+CUST_00436,Student,West Bengal,20
+CUST_00437,Retail,Karnataka,52
+CUST_00438,Student,Kerala,21
+CUST_00439,Student,Tamil Nadu,37
+CUST_00440,Retail,Kerala,8
+CUST_00441,Retail,Maharashtra,27
+CUST_00442,Corporate,Karnataka,47
+CUST_00443,Retail,Tamil Nadu,59
+CUST_00444,Retail,Uttar Pradesh,35
+CUST_00445,Student,Tamil Nadu,6
+CUST_00446,Small Business,Karnataka,60
+CUST_00447,Corporate,Maharashtra,45
+CUST_00448,Student,Delhi,44
+CUST_00449,Retail,Delhi,19
+CUST_00450,Retail,Tamil Nadu,18
+CUST_00451,Student,Karnataka,56
+CUST_00452,Premium,Karnataka,1
+CUST_00453,Retail,Karnataka,25
+CUST_00454,Small Business,Maharashtra,27
+CUST_00455,Retail,Gujarat,7
+CUST_00456,Premium,Karnataka,44
+CUST_00457,Retail,Maharashtra,42
+CUST_00458,Premium,Maharashtra,29
+CUST_00459,Retail,Rajasthan,31
+CUST_00460,Retail,Uttar Pradesh,44
+CUST_00461,Retail,Kerala,43
+CUST_00462,Premium,Karnataka,36
+CUST_00463,Student,Tamil Nadu,19
+CUST_00464,Premium,Karnataka,6
+CUST_00465,Corporate,Karnataka,25
+CUST_00466,Retail,Maharashtra,31
+CUST_00467,Retail,West Bengal,9
+CUST_00468,Small Business,Telangana,20
+CUST_00469,Retail,Kerala,10
+CUST_00470,Corporate,Maharashtra,37
+CUST_00471,Retail,Gujarat,27
+CUST_00472,Corporate,Karnataka,13
+CUST_00473,Retail,Tamil Nadu,41
+CUST_00474,Small Business,Gujarat,2
+CUST_00475,Premium,Tamil Nadu,50
+CUST_00476,Corporate,Maharashtra,21
+CUST_00477,Retail,Karnataka,33
+CUST_00478,Premium,Gujarat,24
+CUST_00479,Corporate,West Bengal,53
+CUST_00480,Premium,Karnataka,44
+CUST_00481,Premium,Kerala,42
+CUST_00482,Student,Karnataka,34
+CUST_00483,Premium,Maharashtra,60
+CUST_00484,Premium,West Bengal,9
+CUST_00485,Premium,Gujarat,2
+CUST_00486,Small Business,Rajasthan,55
+CUST_00487,Retail,Karnataka,56
+CUST_00488,Retail,Gujarat,30
+CUST_00489,Corporate,Delhi,22
+CUST_00490,Small Business,Telangana,46
+CUST_00491,Premium,Tamil Nadu,11
+CUST_00492,Premium,West Bengal,55
+CUST_00493,Retail,Delhi,43
+CUST_00494,Retail,Karnataka,17
+CUST_00495,Premium,Maharashtra,36
+CUST_00496,Retail,Karnataka,13
+CUST_00497,Premium,Delhi,7
+CUST_00498,Retail,Telangana,16
+CUST_00499,Corporate,Delhi,33
+CUST_00500,Corporate,Delhi,45
+CUST_00501,Student,Maharashtra,1
+CUST_00502,Premium,Tamil Nadu,11
+CUST_00503,Retail,Karnataka,6
+CUST_00504,Student,Maharashtra,20
+CUST_00505,Student,Karnataka,35
+CUST_00506,Retail,Karnataka,44
+CUST_00507,Small Business,Maharashtra,37
+CUST_00508,Student,Karnataka,41
+CUST_00509,Small Business,Karnataka,26
+CUST_00510,Student,Maharashtra,58
+CUST_00511,Premium,Tamil Nadu,12
+CUST_00512,Retail,Uttar Pradesh,30
+CUST_00513,Small Business,Telangana,28
+CUST_00514,Small Business,Gujarat,27
+CUST_00515,Retail,Tamil Nadu,42
+CUST_00516,Retail,West Bengal,19
+CUST_00517,Retail,Kerala,5
+CUST_00518,Student,West Bengal,58
+CUST_00519,Corporate,Tamil Nadu,5
+CUST_00520,Retail,Gujarat,41
+CUST_00521,Premium,Kerala,27
+CUST_00522,Retail,Delhi,28
+CUST_00523,Corporate,Gujarat,26
+CUST_00524,Small Business,Maharashtra,27
+CUST_00525,Small Business,Delhi,52
+CUST_00526,Premium,Tamil Nadu,49
+CUST_00527,Retail,Delhi,42
+CUST_00528,Retail,Tamil Nadu,21
+CUST_00529,Retail,Maharashtra,1
+CUST_00530,Small Business,Karnataka,54
+CUST_00531,Student,Delhi,28
+CUST_00532,Corporate,Tamil Nadu,48
+CUST_00533,Corporate,Gujarat,58
+CUST_00534,Premium,Kerala,58
+CUST_00535,Student,Tamil Nadu,15
+CUST_00536,Small Business,Tamil Nadu,55
+CUST_00537,Small Business,Tamil Nadu,17
+CUST_00538,Retail,Telangana,26
+CUST_00539,Premium,Delhi,20
+CUST_00540,Retail,Maharashtra,25
+CUST_00541,Corporate,Tamil Nadu,13
+CUST_00542,Premium,Gujarat,33
+CUST_00543,Retail,Telangana,25
+CUST_00544,Student,Kerala,8
+CUST_00545,Premium,Delhi,5
+CUST_00546,Retail,Tamil Nadu,6
+CUST_00547,Retail,Tamil Nadu,23
+CUST_00548,Student,Tamil Nadu,52
+CUST_00549,Premium,Karnataka,30
+CUST_00550,Student,Tamil Nadu,14
+CUST_00551,Premium,Karnataka,54
+CUST_00552,Small Business,Maharashtra,23
+CUST_00553,Premium,Uttar Pradesh,11
+CUST_00554,Premium,Delhi,31
+CUST_00555,Small Business,Kerala,6
+CUST_00556,Retail,Gujarat,11
+CUST_00557,Retail,Tamil Nadu,13
+CUST_00558,Retail,West Bengal,12
+CUST_00559,Student,Karnataka,54
+CUST_00560,Premium,Delhi,2
+CUST_00561,Student,Maharashtra,53
+CUST_00562,Retail,Rajasthan,35
+CUST_00563,Retail,Karnataka,55
+CUST_00564,Retail,Karnataka,36
+CUST_00565,Retail,Uttar Pradesh,17
+CUST_00566,Premium,Tamil Nadu,28
+CUST_00567,Retail,Gujarat,28
+CUST_00568,Retail,West Bengal,22
+CUST_00569,Small Business,Kerala,38
+CUST_00570,Retail,Rajasthan,7
+CUST_00571,Premium,Rajasthan,15
+CUST_00572,Student,Tamil Nadu,32
+CUST_00573,Retail,Kerala,11
+CUST_00574,Premium,Gujarat,24
+CUST_00575,Small Business,Gujarat,3
+CUST_00576,Small Business,Tamil Nadu,30
+CUST_00577,Retail,Gujarat,6
+CUST_00578,Small Business,Rajasthan,58
+CUST_00579,Premium,Telangana,2
+CUST_00580,Retail,Maharashtra,14
+CUST_00581,Premium,Tamil Nadu,41
+CUST_00582,Corporate,Maharashtra,18
+CUST_00583,Premium,Kerala,51
+CUST_00584,Retail,Gujarat,44
+CUST_00585,Premium,Maharashtra,31
+CUST_00586,Retail,Tamil Nadu,13
+CUST_00587,Retail,Maharashtra,26
+CUST_00588,Retail,Maharashtra,44
+CUST_00589,Retail,Uttar Pradesh,12
+CUST_00590,Retail,Gujarat,18
+CUST_00591,Retail,Karnataka,9
+CUST_00592,Premium,Delhi,49
+CUST_00593,Retail,Tamil Nadu,21
+CUST_00594,Retail,Rajasthan,48
+CUST_00595,Small Business,Maharashtra,49
+CUST_00596,Premium,Maharashtra,53
+CUST_00597,Student,Maharashtra,56
+CUST_00598,Retail,Gujarat,40
+CUST_00599,Retail,Gujarat,43
+CUST_00600,Retail,Gujarat,24
+CUST_00601,Retail,Karnataka,34
+CUST_00602,Retail,Karnataka,8
+CUST_00603,Retail,Tamil Nadu,44
+CUST_00604,Retail,Gujarat,53
+CUST_00605,Retail,Tamil Nadu,33
+CUST_00606,Premium,Delhi,23
+CUST_00607,Retail,Telangana,13
+CUST_00608,Retail,Telangana,54
+CUST_00609,Premium,Maharashtra,53
+CUST_00610,Student,Maharashtra,49
+CUST_00611,Retail,Tamil Nadu,14
+CUST_00612,Student,Gujarat,14
+CUST_00613,Premium,Kerala,16
+CUST_00614,Retail,Karnataka,49
+CUST_00615,Small Business,Maharashtra,38
+CUST_00616,Small Business,Kerala,58
+CUST_00617,Retail,Telangana,60
+CUST_00618,Retail,Karnataka,39
+CUST_00619,Student,Delhi,26
+CUST_00620,Student,Karnataka,26
+CUST_00621,Retail,Tamil Nadu,1
+CUST_00622,Retail,Telangana,32
+CUST_00623,Retail,Kerala,57
+CUST_00624,Premium,West Bengal,15
+CUST_00625,Premium,Tamil Nadu,52
+CUST_00626,Retail,Kerala,21
+CUST_00627,Premium,Maharashtra,18
+CUST_00628,Student,Maharashtra,30
+CUST_00629,Retail,Delhi,60
+CUST_00630,Retail,Tamil Nadu,58
+CUST_00631,Student,West Bengal,13
+CUST_00632,Small Business,Delhi,24
+CUST_00633,Premium,Karnataka,30
+CUST_00634,Premium,Karnataka,2
+CUST_00635,Retail,Karnataka,19
+CUST_00636,Retail,Tamil Nadu,47
+CUST_00637,Premium,Delhi,44
+CUST_00638,Retail,Kerala,47
+CUST_00639,Retail,Tamil Nadu,25
+CUST_00640,Retail,Tamil Nadu,50
+CUST_00641,Retail,Delhi,14
+CUST_00642,Retail,Kerala,6
+CUST_00643,Retail,Karnataka,12
+CUST_00644,Retail,Maharashtra,20
+CUST_00645,Retail,Delhi,23
+CUST_00646,Small Business,Karnataka,30
+CUST_00647,Premium,Tamil Nadu,30
+CUST_00648,Student,West Bengal,38
+CUST_00649,Student,Delhi,58
+CUST_00650,Premium,Delhi,30
+CUST_00651,Retail,West Bengal,41
+CUST_00652,Premium,Gujarat,30
+CUST_00653,Premium,Karnataka,57
+CUST_00654,Student,Maharashtra,58
+CUST_00655,Retail,Tamil Nadu,36
+CUST_00656,Retail,Tamil Nadu,49
+CUST_00657,Retail,Gujarat,34
+CUST_00658,Retail,Telangana,16
+CUST_00659,Premium,Uttar Pradesh,24
+CUST_00660,Premium,Delhi,14
+CUST_00661,Retail,Karnataka,26
+CUST_00662,Corporate,Tamil Nadu,8
+CUST_00663,Premium,Kerala,14
+CUST_00664,Retail,Delhi,31
+CUST_00665,Retail,Delhi,2
+CUST_00666,Retail,West Bengal,48
+CUST_00667,Retail,Gujarat,4
+CUST_00668,Retail,Kerala,1
+CUST_00669,Retail,Tamil Nadu,55
+CUST_00670,Retail,West Bengal,20
+CUST_00671,Retail,Telangana,59
+CUST_00672,Small Business,Karnataka,14
+CUST_00673,Retail,Gujarat,40
+CUST_00674,Premium,Karnataka,25
+CUST_00675,Retail,Uttar Pradesh,60
+CUST_00676,Corporate,Tamil Nadu,25
+CUST_00677,Retail,Delhi,3
+CUST_00678,Retail,Tamil Nadu,5
+CUST_00679,Corporate,Gujarat,38
+CUST_00680,Small Business,Tamil Nadu,54
+CUST_00681,Student,Karnataka,26
+CUST_00682,Retail,Maharashtra,40
+CUST_00683,Retail,Telangana,38
+CUST_00684,Student,Karnataka,38
+CUST_00685,Small Business,Tamil Nadu,4
+CUST_00686,Premium,West Bengal,7
+CUST_00687,Premium,Maharashtra,30
+CUST_00688,Retail,Telangana,30
+CUST_00689,Student,Tamil Nadu,56
+CUST_00690,Retail,Gujarat,19
+CUST_00691,Retail,Karnataka,39
+CUST_00692,Retail,Tamil Nadu,35
+CUST_00693,Premium,Gujarat,40
+CUST_00694,Retail,Delhi,33
+CUST_00695,Retail,West Bengal,33
+CUST_00696,Premium,Karnataka,14
+CUST_00697,Retail,Maharashtra,38
+CUST_00698,Premium,Maharashtra,10
+CUST_00699,Retail,Rajasthan,57
+CUST_00700,Premium,Karnataka,28
+CUST_00701,Premium,Karnataka,14
+CUST_00702,Retail,Maharashtra,36
+CUST_00703,Retail,Delhi,38
+CUST_00704,Retail,Karnataka,16
+CUST_00705,Retail,Telangana,60
+CUST_00706,Corporate,Karnataka,21
+CUST_00707,Retail,Telangana,28
+CUST_00708,Student,Tamil Nadu,33
+CUST_00709,Retail,Gujarat,6
+CUST_00710,Student,Telangana,41
+CUST_00711,Student,Tamil Nadu,15
+CUST_00712,Premium,Uttar Pradesh,44
+CUST_00713,Premium,Maharashtra,3
+CUST_00714,Retail,Uttar Pradesh,43
+CUST_00715,Retail,Gujarat,47
+CUST_00716,Small Business,Karnataka,35
+CUST_00717,Small Business,Karnataka,14
+CUST_00718,Corporate,Karnataka,2
+CUST_00719,Retail,Tamil Nadu,29
+CUST_00720,Student,Tamil Nadu,4
+CUST_00721,Small Business,Tamil Nadu,26
+CUST_00722,Retail,Maharashtra,51
+CUST_00723,Retail,Kerala,12
+CUST_00724,Student,Tamil Nadu,2
+CUST_00725,Premium,Tamil Nadu,17
+CUST_00726,Small Business,Gujarat,35
+CUST_00727,Retail,Karnataka,10
+CUST_00728,Student,Tamil Nadu,48
+CUST_00729,Retail,Tamil Nadu,22
+CUST_00730,Retail,Uttar Pradesh,41
+CUST_00731,Retail,Kerala,43
+CUST_00732,Student,Maharashtra,21
+CUST_00733,Student,Gujarat,15
+CUST_00734,Premium,Delhi,35
+CUST_00735,Retail,Gujarat,48
+CUST_00736,Small Business,Gujarat,21
+CUST_00737,Retail,Delhi,21
+CUST_00738,Student,Karnataka,21
+CUST_00739,Retail,Tamil Nadu,60
+CUST_00740,Retail,Maharashtra,44
+CUST_00741,Premium,Telangana,32
+CUST_00742,Retail,Delhi,55
+CUST_00743,Student,Kerala,5
+CUST_00744,Premium,Rajasthan,39
+CUST_00745,Retail,Tamil Nadu,9
+CUST_00746,Small Business,Gujarat,53
+CUST_00747,Retail,Gujarat,18
+CUST_00748,Premium,Rajasthan,21
+CUST_00749,Small Business,Rajasthan,8
+CUST_00750,Premium,Gujarat,44
+CUST_00751,Retail,Karnataka,52
+CUST_00752,Small Business,Kerala,34
+CUST_00753,Premium,Tamil Nadu,10
+CUST_00754,Retail,West Bengal,51
+CUST_00755,Retail,Telangana,41
+CUST_00756,Student,Maharashtra,57
+CUST_00757,Premium,Delhi,24
+CUST_00758,Premium,Maharashtra,40
+CUST_00759,Small Business,Maharashtra,24
+CUST_00760,Student,Karnataka,56
+CUST_00761,Retail,West Bengal,32
+CUST_00762,Retail,Uttar Pradesh,56
+CUST_00763,Retail,Uttar Pradesh,33
+CUST_00764,Student,Tamil Nadu,38
+CUST_00765,Retail,Telangana,44
+CUST_00766,Premium,West Bengal,57
+CUST_00767,Student,Karnataka,56
+CUST_00768,Small Business,Tamil Nadu,51
+CUST_00769,Retail,Karnataka,59
+CUST_00770,Student,Telangana,49
+CUST_00771,Retail,Delhi,34
+CUST_00772,Small Business,West Bengal,11
+CUST_00773,Retail,Karnataka,31
+CUST_00774,Retail,Gujarat,18
+CUST_00775,Student,Tamil Nadu,23
+CUST_00776,Retail,Maharashtra,60
+CUST_00777,Retail,Delhi,22
+CUST_00778,Student,Tamil Nadu,43
+CUST_00779,Student,Kerala,18
+CUST_00780,Premium,Karnataka,40
+CUST_00781,Student,Gujarat,47
+CUST_00782,Premium,Maharashtra,41
+CUST_00783,Retail,Delhi,47
+CUST_00784,Retail,Tamil Nadu,39
+CUST_00785,Retail,Tamil Nadu,20
+CUST_00786,Small Business,Telangana,13
+CUST_00787,Premium,Karnataka,45
+CUST_00788,Retail,Kerala,1
+CUST_00789,Premium,Rajasthan,52
+CUST_00790,Small Business,Karnataka,4
+CUST_00791,Retail,Karnataka,24
+CUST_00792,Premium,Gujarat,36
+CUST_00793,Premium,Uttar Pradesh,36
+CUST_00794,Premium,Telangana,45
+CUST_00795,Retail,Maharashtra,2
+CUST_00796,Small Business,Kerala,28
+CUST_00797,Small Business,Tamil Nadu,26
+CUST_00798,Premium,Rajasthan,23
+CUST_00799,Student,Uttar Pradesh,15
+CUST_00800,Small Business,Tamil Nadu,36
+CUST_00801,Student,Karnataka,27
+CUST_00802,Retail,Tamil Nadu,6
+CUST_00803,Premium,Karnataka,35
+CUST_00804,Premium,Kerala,39
+CUST_00805,Retail,Maharashtra,38
+CUST_00806,Student,Tamil Nadu,35
+CUST_00807,Small Business,Maharashtra,36
+CUST_00808,Small Business,Rajasthan,10
+CUST_00809,Premium,Delhi,30
+CUST_00810,Retail,Maharashtra,53
+CUST_00811,Corporate,Tamil Nadu,41
+CUST_00812,Small Business,Rajasthan,38
+CUST_00813,Retail,Kerala,29
+CUST_00814,Small Business,Karnataka,52
+CUST_00815,Small Business,Tamil Nadu,59
+CUST_00816,Premium,Tamil Nadu,43
+CUST_00817,Premium,Tamil Nadu,39
+CUST_00818,Retail,Delhi,50
+CUST_00819,Retail,Uttar Pradesh,4
+CUST_00820,Retail,Maharashtra,5
+CUST_00821,Student,Kerala,4
+CUST_00822,Retail,Maharashtra,36
+CUST_00823,Retail,Gujarat,59
+CUST_00824,Retail,West Bengal,45
+CUST_00825,Premium,Tamil Nadu,16
+CUST_00826,Small Business,Maharashtra,25
+CUST_00827,Retail,Delhi,14
+CUST_00828,Retail,Tamil Nadu,11
+CUST_00829,Student,Maharashtra,29
+CUST_00830,Premium,Delhi,34
+CUST_00831,Retail,Rajasthan,22
+CUST_00832,Premium,Maharashtra,14
+CUST_00833,Retail,Kerala,56
+CUST_00834,Retail,Maharashtra,24
+CUST_00835,Premium,Kerala,59
+CUST_00836,Retail,Delhi,39
+CUST_00837,Small Business,Telangana,26
+CUST_00838,Retail,Maharashtra,43
+CUST_00839,Premium,Delhi,36
+CUST_00840,Premium,Delhi,39
+CUST_00841,Retail,Maharashtra,16
+CUST_00842,Student,Tamil Nadu,58
+CUST_00843,Retail,Tamil Nadu,38
+CUST_00844,Corporate,Tamil Nadu,59
+CUST_00845,Retail,Telangana,32
+CUST_00846,Retail,Karnataka,6
+CUST_00847,Retail,Karnataka,34
+CUST_00848,Corporate,West Bengal,56
+CUST_00849,Premium,Karnataka,8
+CUST_00850,Premium,Maharashtra,30
+CUST_00851,Retail,Tamil Nadu,27
+CUST_00852,Student,Uttar Pradesh,7
+CUST_00853,Retail,Telangana,27
+CUST_00854,Small Business,Telangana,25
+CUST_00855,Retail,Maharashtra,56
+CUST_00856,Retail,West Bengal,46
+CUST_00857,Retail,Tamil Nadu,41
+CUST_00858,Premium,Tamil Nadu,15
+CUST_00859,Premium,Tamil Nadu,25
+CUST_00860,Retail,Delhi,22
+CUST_00861,Student,Maharashtra,18
+CUST_00862,Premium,Maharashtra,12
+CUST_00863,Premium,Tamil Nadu,23
+CUST_00864,Retail,Maharashtra,51
+CUST_00865,Retail,Gujarat,45
+CUST_00866,Premium,Maharashtra,39
+CUST_00867,Retail,West Bengal,25
+CUST_00868,Retail,Karnataka,10
+CUST_00869,Small Business,Kerala,30
+CUST_00870,Small Business,Delhi,10
+CUST_00871,Retail,Karnataka,34
+CUST_00872,Retail,Karnataka,46
+CUST_00873,Premium,Delhi,13
+CUST_00874,Retail,Kerala,54
+CUST_00875,Retail,Maharashtra,29
+CUST_00876,Retail,Karnataka,38
+CUST_00877,Student,Telangana,41
+CUST_00878,Student,Gujarat,45
+CUST_00879,Retail,Maharashtra,9
+CUST_00880,Retail,Maharashtra,13
+CUST_00881,Retail,Karnataka,37
+CUST_00882,Student,Delhi,14
+CUST_00883,Retail,Maharashtra,37
+CUST_00884,Retail,Rajasthan,9
+CUST_00885,Student,Maharashtra,8
+CUST_00886,Retail,Maharashtra,39
+CUST_00887,Student,Delhi,40
+CUST_00888,Retail,Telangana,54
+CUST_00889,Retail,Kerala,3
+CUST_00890,Retail,Maharashtra,55
+CUST_00891,Student,Gujarat,56
+CUST_00892,Small Business,Delhi,47
+CUST_00893,Small Business,Maharashtra,40
+CUST_00894,Retail,Karnataka,33
+CUST_00895,Student,Maharashtra,32
+CUST_00896,Retail,Karnataka,7
+CUST_00897,Retail,Telangana,19
+CUST_00898,Small Business,Karnataka,34
+CUST_00899,Retail,Uttar Pradesh,14
+CUST_00900,Retail,Delhi,50
+CUST_00901,Retail,Delhi,47
+CUST_00902,Retail,Delhi,46
+CUST_00903,Retail,Tamil Nadu,56
+CUST_00904,Premium,Maharashtra,57
+CUST_00905,Retail,Tamil Nadu,19
+CUST_00906,Small Business,Delhi,51
+CUST_00907,Student,Maharashtra,54
+CUST_00908,Retail,West Bengal,59
+CUST_00909,Retail,Karnataka,26
+CUST_00910,Retail,Tamil Nadu,17
+CUST_00911,Premium,Maharashtra,54
+CUST_00912,Retail,Uttar Pradesh,28
+CUST_00913,Premium,Gujarat,19
+CUST_00914,Retail,Maharashtra,27
+CUST_00915,Premium,Maharashtra,48
+CUST_00916,Retail,Tamil Nadu,52
+CUST_00917,Retail,Rajasthan,57
+CUST_00918,Small Business,Gujarat,19
+CUST_00919,Student,Karnataka,33
+CUST_00920,Retail,Delhi,51
+CUST_00921,Small Business,Tamil Nadu,7
+CUST_00922,Premium,Uttar Pradesh,29
+CUST_00923,Small Business,Tamil Nadu,55
+CUST_00924,Student,Gujarat,43
+CUST_00925,Retail,Karnataka,5
+CUST_00926,Retail,Gujarat,30
+CUST_00927,Retail,West Bengal,49
+CUST_00928,Premium,Gujarat,43
+CUST_00929,Premium,Delhi,56
+CUST_00930,Retail,Telangana,58
+CUST_00931,Retail,Tamil Nadu,8
+CUST_00932,Small Business,Karnataka,42
+CUST_00933,Corporate,Karnataka,12
+CUST_00934,Premium,Rajasthan,42
+CUST_00935,Retail,Maharashtra,13
+CUST_00936,Retail,West Bengal,26
+CUST_00937,Retail,Gujarat,18
+CUST_00938,Small Business,Karnataka,42
+CUST_00939,Retail,Karnataka,51
+CUST_00940,Premium,Karnataka,52
+CUST_00941,Retail,Maharashtra,49
+CUST_00942,Premium,Karnataka,20
+CUST_00943,Student,Tamil Nadu,16
+CUST_00944,Student,Telangana,37
+CUST_00945,Retail,Uttar Pradesh,3
+CUST_00946,Retail,Maharashtra,27
+CUST_00947,Retail,Karnataka,15
+CUST_00948,Small Business,Tamil Nadu,58
+CUST_00949,Small Business,Gujarat,34
+CUST_00950,Premium,Kerala,45
+CUST_00951,Premium,Tamil Nadu,22
+CUST_00952,Student,Tamil Nadu,40
+CUST_00953,Retail,Kerala,23
+CUST_00954,Small Business,Delhi,59
+CUST_00955,Retail,Tamil Nadu,49
+CUST_00956,Retail,Delhi,4
+CUST_00957,Premium,Karnataka,51
+CUST_00958,Retail,Maharashtra,54
+CUST_00959,Retail,West Bengal,57
+CUST_00960,Student,Kerala,41
+CUST_00961,Retail,Maharashtra,23
+CUST_00962,Premium,Uttar Pradesh,47
+CUST_00963,Retail,Maharashtra,60
+CUST_00964,Retail,West Bengal,9
+CUST_00965,Retail,Maharashtra,24
+CUST_00966,Retail,Telangana,21
+CUST_00967,Student,Telangana,41
+CUST_00968,Retail,Tamil Nadu,46
+CUST_00969,Premium,Uttar Pradesh,55
+CUST_00970,Premium,Kerala,53
+CUST_00971,Student,Kerala,16
+CUST_00972,Small Business,Karnataka,56
+CUST_00973,Student,Kerala,55
+CUST_00974,Retail,Telangana,25
+CUST_00975,Retail,Karnataka,26
+CUST_00976,Retail,Uttar Pradesh,49
+CUST_00977,Premium,Tamil Nadu,45
+CUST_00978,Retail,Tamil Nadu,9
+CUST_00979,Premium,Delhi,15
+CUST_00980,Premium,Delhi,39
+CUST_00981,Retail,Gujarat,33
+CUST_00982,Student,Tamil Nadu,1
+CUST_00983,Retail,Uttar Pradesh,5
+CUST_00984,Retail,Tamil Nadu,56
+CUST_00985,Student,Tamil Nadu,9
+CUST_00986,Premium,Tamil Nadu,44
+CUST_00987,Student,Delhi,6
+CUST_00988,Retail,Uttar Pradesh,28
+CUST_00989,Retail,Gujarat,45
+CUST_00990,Student,Kerala,26
+CUST_00991,Student,Tamil Nadu,28
+CUST_00992,Student,Delhi,40
+CUST_00993,Retail,Maharashtra,15
+CUST_00994,Premium,Maharashtra,6
+CUST_00995,Retail,Tamil Nadu,27
+CUST_00996,Retail,Gujarat,38
+CUST_00997,Small Business,Maharashtra,4
+CUST_00998,Retail,West Bengal,11
+CUST_00999,Corporate,Maharashtra,21
+CUST_01000,Retail,Tamil Nadu,30
+CUST_01001,Retail,Gujarat,18
+CUST_01002,Premium,Tamil Nadu,35
+CUST_01003,Small Business,Telangana,3
+CUST_01004,Student,Delhi,12
+CUST_01005,Student,Tamil Nadu,27
+CUST_01006,Student,Uttar Pradesh,53
+CUST_01007,Student,Maharashtra,30
+CUST_01008,Small Business,Tamil Nadu,21
+CUST_01009,Retail,Delhi,38
+CUST_01010,Premium,Karnataka,21
+CUST_01011,Retail,Kerala,60
+CUST_01012,Corporate,Kerala,38
+CUST_01013,Small Business,Rajasthan,40
+CUST_01014,Retail,Maharashtra,15
+CUST_01015,Student,Maharashtra,18
+CUST_01016,Small Business,West Bengal,52
+CUST_01017,Retail,Tamil Nadu,29
+CUST_01018,Premium,Delhi,48
+CUST_01019,Small Business,Delhi,38
+CUST_01020,Retail,Tamil Nadu,60
+CUST_01021,Student,Maharashtra,21
+CUST_01022,Retail,Telangana,17
+CUST_01023,Small Business,Telangana,41
+CUST_01024,Corporate,Tamil Nadu,51
+CUST_01025,Small Business,Tamil Nadu,18
+CUST_01026,Premium,Karnataka,57
+CUST_01027,Small Business,Telangana,55
+CUST_01028,Small Business,Tamil Nadu,37
+CUST_01029,Retail,Gujarat,60
+CUST_01030,Student,Tamil Nadu,38
+CUST_01031,Retail,Delhi,12
+CUST_01032,Premium,Maharashtra,11
+CUST_01033,Retail,West Bengal,48
+CUST_01034,Retail,Karnataka,52
+CUST_01035,Retail,Delhi,49
+CUST_01036,Student,Karnataka,20
+CUST_01037,Retail,Gujarat,9
+CUST_01038,Student,Telangana,1
+CUST_01039,Retail,Tamil Nadu,58
+CUST_01040,Retail,Telangana,3
+CUST_01041,Premium,Delhi,21
+CUST_01042,Student,Tamil Nadu,23
+CUST_01043,Retail,Maharashtra,9
+CUST_01044,Premium,Tamil Nadu,54
+CUST_01045,Small Business,Gujarat,19
+CUST_01046,Premium,West Bengal,45
+CUST_01047,Retail,Tamil Nadu,55
+CUST_01048,Retail,Maharashtra,46
+CUST_01049,Small Business,Kerala,52
+CUST_01050,Retail,Uttar Pradesh,19
+CUST_01051,Small Business,Maharashtra,23
+CUST_01052,Premium,Uttar Pradesh,27
+CUST_01053,Small Business,Delhi,27
+CUST_01054,Student,Maharashtra,39
+CUST_01055,Corporate,Kerala,36
+CUST_01056,Retail,Maharashtra,12
+CUST_01057,Student,Maharashtra,55
+CUST_01058,Retail,Maharashtra,27
+CUST_01059,Premium,Kerala,46
+CUST_01060,Premium,Kerala,34
+CUST_01061,Small Business,Maharashtra,33
+CUST_01062,Corporate,Karnataka,28
+CUST_01063,Student,Maharashtra,31
+CUST_01064,Retail,Delhi,32
+CUST_01065,Retail,Karnataka,50
+CUST_01066,Student,Kerala,20
+CUST_01067,Retail,Maharashtra,40
+CUST_01068,Retail,Karnataka,35
+CUST_01069,Retail,Tamil Nadu,31
+CUST_01070,Retail,Karnataka,58
+CUST_01071,Retail,Uttar Pradesh,31
+CUST_01072,Retail,Karnataka,38
+CUST_01073,Retail,Tamil Nadu,22
+CUST_01074,Retail,Maharashtra,45
+CUST_01075,Corporate,Karnataka,41
+CUST_01076,Retail,Tamil Nadu,9
+CUST_01077,Retail,Karnataka,52
+CUST_01078,Student,Delhi,9
+CUST_01079,Retail,Delhi,15
+CUST_01080,Small Business,Maharashtra,13
+CUST_01081,Student,Maharashtra,22
+CUST_01082,Retail,Uttar Pradesh,16
+CUST_01083,Retail,Maharashtra,32
+CUST_01084,Small Business,Karnataka,2
+CUST_01085,Small Business,Karnataka,26
+CUST_01086,Premium,Maharashtra,14
+CUST_01087,Premium,West Bengal,59
+CUST_01088,Retail,Karnataka,38
+CUST_01089,Corporate,Gujarat,34
+CUST_01090,Retail,Tamil Nadu,8
+CUST_01091,Small Business,Maharashtra,36
+CUST_01092,Premium,West Bengal,21
+CUST_01093,Premium,Karnataka,56
+CUST_01094,Premium,Delhi,46
+CUST_01095,Retail,Karnataka,43
+CUST_01096,Retail,West Bengal,56
+CUST_01097,Retail,Tamil Nadu,28
+CUST_01098,Retail,Telangana,46
+CUST_01099,Student,Karnataka,44
+CUST_01100,Retail,Telangana,48
+CUST_01101,Retail,Maharashtra,6
+CUST_01102,Corporate,West Bengal,20
+CUST_01103,Small Business,Karnataka,31
+CUST_01104,Small Business,Telangana,33
+CUST_01105,Corporate,Tamil Nadu,44
+CUST_01106,Retail,Tamil Nadu,7
+CUST_01107,Retail,Maharashtra,8
+CUST_01108,Student,Tamil Nadu,9
+CUST_01109,Student,Karnataka,2
+CUST_01110,Retail,Uttar Pradesh,17
+CUST_01111,Student,Rajasthan,52
+CUST_01112,Retail,Maharashtra,45
+CUST_01113,Retail,Uttar Pradesh,37
+CUST_01114,Premium,Delhi,42
+CUST_01115,Premium,Karnataka,44
+CUST_01116,Premium,Gujarat,17
+CUST_01117,Retail,Gujarat,53
+CUST_01118,Small Business,Rajasthan,38
+CUST_01119,Retail,Karnataka,35
+CUST_01120,Retail,Gujarat,60
+CUST_01121,Small Business,Tamil Nadu,47
+CUST_01122,Corporate,Tamil Nadu,39
+CUST_01123,Small Business,Tamil Nadu,30
+CUST_01124,Student,Rajasthan,6
+CUST_01125,Student,Kerala,4
+CUST_01126,Premium,West Bengal,51
+CUST_01127,Retail,Maharashtra,37
+CUST_01128,Retail,Karnataka,35
+CUST_01129,Retail,Tamil Nadu,58
+CUST_01130,Retail,Karnataka,57
+CUST_01131,Student,Maharashtra,9
+CUST_01132,Premium,West Bengal,6
+CUST_01133,Retail,Delhi,13
+CUST_01134,Retail,Tamil Nadu,59
+CUST_01135,Student,Tamil Nadu,22
+CUST_01136,Retail,Tamil Nadu,28
+CUST_01137,Small Business,Maharashtra,30
+CUST_01138,Premium,Uttar Pradesh,52
+CUST_01139,Premium,Delhi,36
+CUST_01140,Premium,Kerala,2
+CUST_01141,Student,Maharashtra,58
+CUST_01142,Retail,Maharashtra,36
+CUST_01143,Student,Tamil Nadu,8
+CUST_01144,Premium,Telangana,45
+CUST_01145,Retail,West Bengal,42
+CUST_01146,Small Business,Tamil Nadu,50
+CUST_01147,Student,Maharashtra,9
+CUST_01148,Student,Maharashtra,1
+CUST_01149,Small Business,Delhi,13
+CUST_01150,Small Business,Uttar Pradesh,50
+CUST_01151,Student,Delhi,15
+CUST_01152,Small Business,Delhi,32
+CUST_01153,Student,Tamil Nadu,34
+CUST_01154,Student,Tamil Nadu,43
+CUST_01155,Premium,Karnataka,31
+CUST_01156,Student,Tamil Nadu,14
+CUST_01157,Retail,West Bengal,54
+CUST_01158,Small Business,West Bengal,47
+CUST_01159,Small Business,Tamil Nadu,14
+CUST_01160,Retail,Kerala,48
+CUST_01161,Student,Tamil Nadu,55
+CUST_01162,Retail,Karnataka,29
+CUST_01163,Retail,Karnataka,47
+CUST_01164,Student,Maharashtra,19
+CUST_01165,Retail,Karnataka,27
+CUST_01166,Student,Maharashtra,9
+CUST_01167,Small Business,Maharashtra,37
+CUST_01168,Premium,Rajasthan,37
+CUST_01169,Retail,Tamil Nadu,43
+CUST_01170,Retail,Tamil Nadu,28
+CUST_01171,Premium,Tamil Nadu,52
+CUST_01172,Corporate,Delhi,57
+CUST_01173,Premium,Tamil Nadu,24
+CUST_01174,Retail,Kerala,28
+CUST_01175,Premium,Maharashtra,36
+CUST_01176,Premium,Delhi,52
+CUST_01177,Student,Delhi,18
+CUST_01178,Retail,Tamil Nadu,25
+CUST_01179,Student,Karnataka,35
+CUST_01180,Premium,Karnataka,4
+CUST_01181,Corporate,Delhi,14
+CUST_01182,Retail,Karnataka,39
+CUST_01183,Premium,Tamil Nadu,26
+CUST_01184,Small Business,Rajasthan,8
+CUST_01185,Retail,Tamil Nadu,24
+CUST_01186,Small Business,Kerala,16
+CUST_01187,Student,West Bengal,20
+CUST_01188,Retail,Karnataka,15
+CUST_01189,Retail,Tamil Nadu,7
+CUST_01190,Student,Tamil Nadu,58
+CUST_01191,Retail,Gujarat,17
+CUST_01192,Premium,Gujarat,22
+CUST_01193,Retail,West Bengal,22
+CUST_01194,Premium,Uttar Pradesh,54
+CUST_01195,Retail,Gujarat,12
+CUST_01196,Small Business,Tamil Nadu,18
+CUST_01197,Corporate,Karnataka,56
+CUST_01198,Corporate,Kerala,46
+CUST_01199,Student,Karnataka,47
+CUST_01200,Retail,Tamil Nadu,15
+CUST_01201,Student,Gujarat,37
+CUST_01202,Retail,Maharashtra,16
+CUST_01203,Retail,Uttar Pradesh,5
+CUST_01204,Retail,Gujarat,2
+CUST_01205,Premium,Tamil Nadu,52
+CUST_01206,Student,Uttar Pradesh,28
+CUST_01207,Student,Karnataka,57
+CUST_01208,Retail,Karnataka,41
+CUST_01209,Retail,Maharashtra,54
+CUST_01210,Corporate,Tamil Nadu,27
+CUST_01211,Retail,Maharashtra,31
+CUST_01212,Premium,Tamil Nadu,41
+CUST_01213,Retail,Maharashtra,36
+CUST_01214,Student,Maharashtra,47
+CUST_01215,Student,West Bengal,43
+CUST_01216,Retail,Kerala,1
+CUST_01217,Retail,Tamil Nadu,50
+CUST_01218,Student,Maharashtra,29
+CUST_01219,Student,Maharashtra,1
+CUST_01220,Retail,Tamil Nadu,8
+CUST_01221,Corporate,Kerala,57
+CUST_01222,Retail,Gujarat,16
+CUST_01223,Retail,Karnataka,58
+CUST_01224,Small Business,Maharashtra,28
+CUST_01225,Retail,Tamil Nadu,22
+CUST_01226,Premium,Delhi,18
+CUST_01227,Retail,Tamil Nadu,22
+CUST_01228,Retail,Rajasthan,41
+CUST_01229,Corporate,West Bengal,12
+CUST_01230,Retail,Maharashtra,19
+CUST_01231,Small Business,Delhi,25
+CUST_01232,Retail,Telangana,50
+CUST_01233,Retail,Delhi,59
+CUST_01234,Retail,Tamil Nadu,5
+CUST_01235,Student,Maharashtra,59
+CUST_01236,Retail,Kerala,34
+CUST_01237,Small Business,Gujarat,39
+CUST_01238,Premium,Gujarat,59
+CUST_01239,Corporate,Telangana,10
+CUST_01240,Retail,Telangana,47
+CUST_01241,Small Business,Telangana,57
+CUST_01242,Student,Tamil Nadu,7
+CUST_01243,Student,Delhi,60
+CUST_01244,Small Business,West Bengal,37
+CUST_01245,Student,West Bengal,47
+CUST_01246,Premium,Delhi,52
+CUST_01247,Retail,Tamil Nadu,60
+CUST_01248,Retail,Kerala,52
+CUST_01249,Small Business,West Bengal,15
+CUST_01250,Premium,Tamil Nadu,42
+CUST_01251,Student,Maharashtra,24
+CUST_01252,Premium,Tamil Nadu,26
+CUST_01253,Retail,Karnataka,26
+CUST_01254,Retail,Tamil Nadu,46
+CUST_01255,Student,Maharashtra,26
+CUST_01256,Retail,Delhi,58
+CUST_01257,Retail,Delhi,10
+CUST_01258,Premium,Gujarat,17
+CUST_01259,Retail,Kerala,53
+CUST_01260,Premium,Karnataka,14
+CUST_01261,Retail,Tamil Nadu,2
+CUST_01262,Student,Telangana,48
+CUST_01263,Retail,Tamil Nadu,13
+CUST_01264,Premium,Rajasthan,27
+CUST_01265,Retail,Kerala,9
+CUST_01266,Retail,Maharashtra,7
+CUST_01267,Retail,Rajasthan,48
+CUST_01268,Premium,Tamil Nadu,10
+CUST_01269,Premium,Karnataka,56
+CUST_01270,Retail,Delhi,54
+CUST_01271,Student,Maharashtra,9
+CUST_01272,Small Business,Uttar Pradesh,22
+CUST_01273,Student,Tamil Nadu,23
+CUST_01274,Retail,Delhi,7
+CUST_01275,Premium,Delhi,48
+CUST_01276,Retail,Gujarat,9
+CUST_01277,Retail,Karnataka,27
+CUST_01278,Corporate,Maharashtra,24
+CUST_01279,Retail,Kerala,29
+CUST_01280,Premium,Karnataka,17
+CUST_01281,Premium,Kerala,20
+CUST_01282,Student,Delhi,7
+CUST_01283,Premium,West Bengal,43
+CUST_01284,Retail,Gujarat,40
+CUST_01285,Retail,Karnataka,7
+CUST_01286,Premium,Delhi,28
+CUST_01287,Retail,Telangana,19
+CUST_01288,Retail,Maharashtra,20
+CUST_01289,Retail,Uttar Pradesh,44
+CUST_01290,Retail,Maharashtra,39
+CUST_01291,Retail,Tamil Nadu,40
+CUST_01292,Retail,Maharashtra,7
+CUST_01293,Premium,Uttar Pradesh,6
+CUST_01294,Student,Karnataka,25
+CUST_01295,Student,Telangana,41
+CUST_01296,Retail,Telangana,59
+CUST_01297,Retail,Maharashtra,13
+CUST_01298,Retail,Tamil Nadu,39
+CUST_01299,Premium,West Bengal,40
+CUST_01300,Student,Karnataka,22
+CUST_01301,Retail,West Bengal,49
+CUST_01302,Small Business,Maharashtra,17
+CUST_01303,Retail,Maharashtra,48
+CUST_01304,Premium,West Bengal,22
+CUST_01305,Student,Maharashtra,34
+CUST_01306,Small Business,Maharashtra,8
+CUST_01307,Student,Maharashtra,49
+CUST_01308,Student,Maharashtra,45
+CUST_01309,Retail,Delhi,18
+CUST_01310,Student,Kerala,24
+CUST_01311,Retail,Maharashtra,60
+CUST_01312,Small Business,Delhi,54
+CUST_01313,Premium,Gujarat,60
+CUST_01314,Student,Karnataka,42
+CUST_01315,Premium,Karnataka,2
+CUST_01316,Premium,Uttar Pradesh,2
+CUST_01317,Premium,West Bengal,27
+CUST_01318,Student,Delhi,14
+CUST_01319,Retail,Gujarat,48
+CUST_01320,Retail,Tamil Nadu,39
+CUST_01321,Retail,Delhi,53
+CUST_01322,Retail,Maharashtra,53
+CUST_01323,Small Business,Delhi,56
+CUST_01324,Retail,Maharashtra,12
+CUST_01325,Corporate,Tamil Nadu,32
+CUST_01326,Retail,Karnataka,28
+CUST_01327,Retail,Uttar Pradesh,55
+CUST_01328,Student,Maharashtra,28
+CUST_01329,Student,Maharashtra,46
+CUST_01330,Premium,Tamil Nadu,25
+CUST_01331,Premium,Tamil Nadu,4
+CUST_01332,Student,Gujarat,26
+CUST_01333,Retail,Delhi,36
+CUST_01334,Corporate,Maharashtra,50
+CUST_01335,Corporate,Karnataka,3
+CUST_01336,Student,West Bengal,1
+CUST_01337,Retail,Tamil Nadu,17
+CUST_01338,Student,Karnataka,7
+CUST_01339,Retail,Maharashtra,48
+CUST_01340,Retail,Karnataka,5
+CUST_01341,Retail,Karnataka,19
+CUST_01342,Premium,Gujarat,39
+CUST_01343,Small Business,Gujarat,46
+CUST_01344,Student,Kerala,34
+CUST_01345,Student,Maharashtra,35
+CUST_01346,Retail,Tamil Nadu,49
+CUST_01347,Retail,Karnataka,16
+CUST_01348,Retail,Rajasthan,40
+CUST_01349,Corporate,Delhi,50
+CUST_01350,Retail,Gujarat,47
+CUST_01351,Small Business,Tamil Nadu,39
+CUST_01352,Premium,Maharashtra,27
+CUST_01353,Retail,Tamil Nadu,41
+CUST_01354,Student,Delhi,38
+CUST_01355,Premium,Uttar Pradesh,50
+CUST_01356,Small Business,Uttar Pradesh,50
+CUST_01357,Small Business,Delhi,25
+CUST_01358,Retail,Maharashtra,26
+CUST_01359,Retail,Uttar Pradesh,56
+CUST_01360,Premium,Gujarat,14
+CUST_01361,Small Business,Tamil Nadu,14
+CUST_01362,Retail,Maharashtra,14
+CUST_01363,Premium,Karnataka,25
+CUST_01364,Premium,Maharashtra,36
+CUST_01365,Student,Maharashtra,4
+CUST_01366,Retail,Delhi,47
+CUST_01367,Student,Maharashtra,15
+CUST_01368,Small Business,Tamil Nadu,32
+CUST_01369,Retail,Maharashtra,18
+CUST_01370,Retail,Kerala,14
+CUST_01371,Corporate,Gujarat,58
+CUST_01372,Retail,Karnataka,1
+CUST_01373,Small Business,Uttar Pradesh,42
+CUST_01374,Premium,Telangana,20
+CUST_01375,Retail,Karnataka,10
+CUST_01376,Small Business,Tamil Nadu,10
+CUST_01377,Retail,West Bengal,59
+CUST_01378,Premium,Kerala,24
+CUST_01379,Retail,Uttar Pradesh,34
+CUST_01380,Premium,Telangana,28
+CUST_01381,Retail,Delhi,27
+CUST_01382,Retail,Delhi,40
+CUST_01383,Corporate,Tamil Nadu,1
+CUST_01384,Retail,Karnataka,33
+CUST_01385,Student,Maharashtra,4
+CUST_01386,Retail,Delhi,7
+CUST_01387,Student,Delhi,9
+CUST_01388,Retail,West Bengal,16
+CUST_01389,Corporate,Karnataka,5
+CUST_01390,Premium,Delhi,34
+CUST_01391,Retail,Tamil Nadu,60
+CUST_01392,Retail,Maharashtra,23
+CUST_01393,Retail,West Bengal,43
+CUST_01394,Premium,Gujarat,50
+CUST_01395,Retail,Rajasthan,25
+CUST_01396,Student,Karnataka,57
+CUST_01397,Retail,Maharashtra,51
+CUST_01398,Retail,Karnataka,13
+CUST_01399,Premium,Maharashtra,24
+CUST_01400,Student,Telangana,11
+CUST_01401,Retail,Gujarat,52
+CUST_01402,Retail,Telangana,51
+CUST_01403,Retail,Karnataka,17
+CUST_01404,Student,Telangana,37
+CUST_01405,Student,Tamil Nadu,13
+CUST_01406,Premium,Telangana,27
+CUST_01407,Small Business,Karnataka,20
+CUST_01408,Student,Karnataka,33
+CUST_01409,Premium,Maharashtra,42
+CUST_01410,Small Business,Uttar Pradesh,32
+CUST_01411,Retail,Tamil Nadu,8
+CUST_01412,Retail,Maharashtra,56
+CUST_01413,Retail,Telangana,29
+CUST_01414,Retail,Maharashtra,40
+CUST_01415,Premium,Karnataka,19
+CUST_01416,Small Business,Maharashtra,6
+CUST_01417,Retail,Maharashtra,44
+CUST_01418,Retail,Telangana,60
+CUST_01419,Premium,West Bengal,39
+CUST_01420,Small Business,Maharashtra,48
+CUST_01421,Retail,Rajasthan,41
+CUST_01422,Premium,Maharashtra,21
+CUST_01423,Retail,Tamil Nadu,57
+CUST_01424,Retail,Karnataka,22
+CUST_01425,Corporate,Maharashtra,42
+CUST_01426,Corporate,Tamil Nadu,10
+CUST_01427,Retail,Uttar Pradesh,10
+CUST_01428,Corporate,West Bengal,52
+CUST_01429,Premium,Karnataka,29
+CUST_01430,Small Business,Delhi,16
+CUST_01431,Premium,West Bengal,1
+CUST_01432,Premium,Uttar Pradesh,17
+CUST_01433,Premium,Telangana,30
+CUST_01434,Student,Maharashtra,26
+CUST_01435,Retail,West Bengal,53
+CUST_01436,Retail,Delhi,46
+CUST_01437,Retail,Delhi,19
+CUST_01438,Student,Tamil Nadu,53
+CUST_01439,Retail,Tamil Nadu,21
+CUST_01440,Student,Delhi,17
+CUST_01441,Corporate,Karnataka,46
+CUST_01442,Retail,Tamil Nadu,40
+CUST_01443,Student,West Bengal,21
+CUST_01444,Retail,Tamil Nadu,53
+CUST_01445,Small Business,Delhi,41
+CUST_01446,Retail,Delhi,40
+CUST_01447,Student,Uttar Pradesh,45
+CUST_01448,Small Business,Maharashtra,49
+CUST_01449,Small Business,Tamil Nadu,19
+CUST_01450,Student,Delhi,60
+CUST_01451,Premium,Kerala,7
+CUST_01452,Premium,Rajasthan,17
+CUST_01453,Small Business,Maharashtra,1
+CUST_01454,Premium,Karnataka,37
+CUST_01455,Retail,Telangana,57
+CUST_01456,Small Business,Karnataka,6
+CUST_01457,Student,Delhi,26
+CUST_01458,Student,Maharashtra,2
+CUST_01459,Retail,Tamil Nadu,59
+CUST_01460,Student,Maharashtra,32
+CUST_01461,Retail,Karnataka,57
+CUST_01462,Student,Gujarat,48
+CUST_01463,Retail,Uttar Pradesh,54
+CUST_01464,Student,Karnataka,5
+CUST_01465,Corporate,Kerala,37
+CUST_01466,Retail,Tamil Nadu,31
+CUST_01467,Corporate,Delhi,12
+CUST_01468,Retail,Tamil Nadu,35
+CUST_01469,Small Business,Uttar Pradesh,30
+CUST_01470,Student,West Bengal,48
+CUST_01471,Premium,Gujarat,6
+CUST_01472,Student,Kerala,15
+CUST_01473,Small Business,Gujarat,15
+CUST_01474,Retail,Uttar Pradesh,16
+CUST_01475,Retail,Gujarat,20
+CUST_01476,Student,Uttar Pradesh,13
+CUST_01477,Student,Maharashtra,44
+CUST_01478,Student,Tamil Nadu,42
+CUST_01479,Student,Delhi,46
+CUST_01480,Retail,Tamil Nadu,31
+CUST_01481,Student,Delhi,34
+CUST_01482,Retail,Maharashtra,29
+CUST_01483,Premium,Delhi,3
+CUST_01484,Retail,Tamil Nadu,9
+CUST_01485,Retail,Karnataka,11
+CUST_01486,Retail,Maharashtra,11
+CUST_01487,Retail,Uttar Pradesh,25
+CUST_01488,Student,Maharashtra,22
+CUST_01489,Retail,Maharashtra,42
+CUST_01490,Retail,Gujarat,58
+CUST_01491,Retail,Delhi,46
+CUST_01492,Retail,Karnataka,9
+CUST_01493,Retail,Maharashtra,20
+CUST_01494,Retail,Karnataka,59
+CUST_01495,Premium,Uttar Pradesh,21
+CUST_01496,Student,Tamil Nadu,10
+CUST_01497,Premium,Maharashtra,22
+CUST_01498,Premium,Tamil Nadu,29
+CUST_01499,Retail,Karnataka,9
+CUST_01500,Small Business,West Bengal,5
+CUST_01501,Premium,Karnataka,40
+CUST_01502,Premium,Tamil Nadu,11
+CUST_01503,Retail,Maharashtra,1
+CUST_01504,Retail,Tamil Nadu,53
+CUST_01505,Retail,Tamil Nadu,42
+CUST_01506,Retail,Kerala,1
+CUST_01507,Premium,West Bengal,58
+CUST_01508,Premium,Telangana,54
+CUST_01509,Premium,Telangana,39
+CUST_01510,Student,Gujarat,60
+CUST_01511,Student,Tamil Nadu,46
+CUST_01512,Student,West Bengal,5
+CUST_01513,Corporate,Kerala,49
+CUST_01514,Retail,Kerala,22
+CUST_01515,Retail,Maharashtra,26
+CUST_01516,Retail,Karnataka,53
+CUST_01517,Premium,Kerala,6
+CUST_01518,Small Business,West Bengal,32
+CUST_01519,Retail,Rajasthan,48
+CUST_01520,Small Business,Tamil Nadu,11
+CUST_01521,Retail,Karnataka,10
+CUST_01522,Small Business,Karnataka,47
+CUST_01523,Retail,Kerala,39
+CUST_01524,Retail,Karnataka,55
+CUST_01525,Premium,Tamil Nadu,34
+CUST_01526,Retail,Rajasthan,31
+CUST_01527,Retail,Tamil Nadu,12
+CUST_01528,Retail,Kerala,51
+CUST_01529,Student,Maharashtra,44
+CUST_01530,Premium,Kerala,16
+CUST_01531,Retail,Delhi,38
+CUST_01532,Premium,Telangana,3
+CUST_01533,Student,Uttar Pradesh,2
+CUST_01534,Retail,Tamil Nadu,52
+CUST_01535,Retail,Tamil Nadu,5
+CUST_01536,Retail,Karnataka,11
+CUST_01537,Retail,Gujarat,58
+CUST_01538,Student,Telangana,25
+CUST_01539,Retail,Maharashtra,35
+CUST_01540,Premium,Delhi,35
+CUST_01541,Student,Karnataka,22
+CUST_01542,Retail,Kerala,37
+CUST_01543,Premium,Uttar Pradesh,22
+CUST_01544,Retail,Karnataka,55
+CUST_01545,Corporate,Maharashtra,11
+CUST_01546,Premium,Tamil Nadu,32
+CUST_01547,Student,Delhi,35
+CUST_01548,Premium,Maharashtra,31
+CUST_01549,Retail,Tamil Nadu,45
+CUST_01550,Premium,Maharashtra,53
+CUST_01551,Corporate,Karnataka,8
+CUST_01552,Premium,Delhi,20
+CUST_01553,Student,Delhi,42
+CUST_01554,Small Business,Tamil Nadu,34
+CUST_01555,Retail,West Bengal,4
+CUST_01556,Retail,Gujarat,18
+CUST_01557,Premium,Maharashtra,51
+CUST_01558,Retail,Tamil Nadu,4
+CUST_01559,Small Business,West Bengal,20
+CUST_01560,Small Business,Uttar Pradesh,58
+CUST_01561,Retail,Karnataka,9
+CUST_01562,Retail,Karnataka,16
+CUST_01563,Student,Karnataka,26
+CUST_01564,Retail,Delhi,38
+CUST_01565,Student,Tamil Nadu,25
+CUST_01566,Retail,Maharashtra,4
+CUST_01567,Student,Gujarat,41
+CUST_01568,Retail,Delhi,59
+CUST_01569,Premium,Maharashtra,45
+CUST_01570,Premium,Maharashtra,41
+CUST_01571,Premium,Delhi,38
+CUST_01572,Retail,Tamil Nadu,53
+CUST_01573,Student,Tamil Nadu,19
+CUST_01574,Small Business,Telangana,14
+CUST_01575,Retail,Tamil Nadu,21
+CUST_01576,Retail,Gujarat,15
+CUST_01577,Retail,Uttar Pradesh,3
+CUST_01578,Premium,Karnataka,37
+CUST_01579,Premium,Maharashtra,53
+CUST_01580,Premium,Delhi,50
+CUST_01581,Retail,Telangana,46
+CUST_01582,Retail,Uttar Pradesh,16
+CUST_01583,Premium,West Bengal,14
+CUST_01584,Premium,Tamil Nadu,9
+CUST_01585,Corporate,Gujarat,47
+CUST_01586,Retail,Maharashtra,7
+CUST_01587,Student,Maharashtra,14
+CUST_01588,Retail,Tamil Nadu,6
+CUST_01589,Retail,Karnataka,21
+CUST_01590,Student,Kerala,15
+CUST_01591,Student,Maharashtra,52
+CUST_01592,Corporate,Karnataka,8
+CUST_01593,Retail,Maharashtra,34
+CUST_01594,Retail,Telangana,40
+CUST_01595,Student,West Bengal,1
+CUST_01596,Premium,Karnataka,32
+CUST_01597,Retail,Tamil Nadu,58
+CUST_01598,Retail,Karnataka,49
+CUST_01599,Retail,Uttar Pradesh,51
+CUST_01600,Small Business,Delhi,5
+CUST_01601,Retail,Delhi,30
+CUST_01602,Retail,Delhi,22
+CUST_01603,Retail,Maharashtra,20
+CUST_01604,Retail,Kerala,16
+CUST_01605,Retail,Delhi,7
+CUST_01606,Premium,Tamil Nadu,7
+CUST_01607,Retail,Tamil Nadu,50
+CUST_01608,Student,Delhi,50
+CUST_01609,Retail,Uttar Pradesh,2
+CUST_01610,Premium,Karnataka,47
+CUST_01611,Small Business,Telangana,14
+CUST_01612,Student,West Bengal,31
+CUST_01613,Premium,Karnataka,50
+CUST_01614,Retail,Tamil Nadu,41
+CUST_01615,Retail,Tamil Nadu,14
+CUST_01616,Student,West Bengal,5
+CUST_01617,Corporate,Karnataka,11
+CUST_01618,Student,Maharashtra,40
+CUST_01619,Premium,Maharashtra,5
+CUST_01620,Student,West Bengal,29
+CUST_01621,Premium,Tamil Nadu,11
+CUST_01622,Retail,Maharashtra,5
+CUST_01623,Premium,Maharashtra,49
+CUST_01624,Corporate,Delhi,54
+CUST_01625,Retail,Kerala,32
+CUST_01626,Student,Tamil Nadu,36
+CUST_01627,Retail,Kerala,15
+CUST_01628,Premium,Gujarat,19
+CUST_01629,Retail,Delhi,22
+CUST_01630,Premium,Gujarat,34
+CUST_01631,Student,Maharashtra,56
+CUST_01632,Retail,Tamil Nadu,17
+CUST_01633,Student,Gujarat,12
+CUST_01634,Student,Delhi,25
+CUST_01635,Small Business,Delhi,56
+CUST_01636,Retail,Karnataka,17
+CUST_01637,Retail,Telangana,10
+CUST_01638,Retail,Delhi,28
+CUST_01639,Corporate,Tamil Nadu,57
+CUST_01640,Small Business,Maharashtra,18
+CUST_01641,Premium,West Bengal,51
+CUST_01642,Small Business,Kerala,18
+CUST_01643,Premium,Maharashtra,45
+CUST_01644,Premium,Telangana,32
+CUST_01645,Retail,Karnataka,14
+CUST_01646,Student,Maharashtra,56
+CUST_01647,Retail,Telangana,16
+CUST_01648,Student,Telangana,50
+CUST_01649,Student,Gujarat,58
+CUST_01650,Student,Telangana,18
+CUST_01651,Retail,Tamil Nadu,16
+CUST_01652,Retail,Telangana,17
+CUST_01653,Retail,Karnataka,7
+CUST_01654,Retail,Tamil Nadu,12
+CUST_01655,Retail,Karnataka,34
+CUST_01656,Small Business,Maharashtra,10
+CUST_01657,Premium,Karnataka,5
+CUST_01658,Retail,Karnataka,21
+CUST_01659,Retail,Tamil Nadu,3
+CUST_01660,Retail,Karnataka,19
+CUST_01661,Premium,Delhi,45
+CUST_01662,Premium,Maharashtra,44
+CUST_01663,Small Business,Maharashtra,35
+CUST_01664,Premium,West Bengal,6
+CUST_01665,Corporate,Telangana,14
+CUST_01666,Small Business,West Bengal,4
+CUST_01667,Retail,Karnataka,45
+CUST_01668,Small Business,West Bengal,51
+CUST_01669,Retail,Tamil Nadu,18
+CUST_01670,Student,Tamil Nadu,29
+CUST_01671,Retail,Maharashtra,35
+CUST_01672,Small Business,Kerala,52
+CUST_01673,Small Business,Karnataka,38
+CUST_01674,Student,Tamil Nadu,16
+CUST_01675,Student,Tamil Nadu,20
+CUST_01676,Retail,Telangana,24
+CUST_01677,Retail,Delhi,35
+CUST_01678,Retail,Karnataka,44
+CUST_01679,Retail,Delhi,51
+CUST_01680,Student,Delhi,19
+CUST_01681,Retail,Gujarat,56
+CUST_01682,Corporate,Karnataka,4
+CUST_01683,Premium,Telangana,33
+CUST_01684,Student,Karnataka,2
+CUST_01685,Retail,Gujarat,13
+CUST_01686,Small Business,Tamil Nadu,58
+CUST_01687,Small Business,Maharashtra,45
+CUST_01688,Premium,Maharashtra,30
+CUST_01689,Premium,Delhi,34
+CUST_01690,Student,Tamil Nadu,30
+CUST_01691,Retail,Kerala,51
+CUST_01692,Premium,Karnataka,54
+CUST_01693,Retail,Gujarat,24
+CUST_01694,Retail,Kerala,48
+CUST_01695,Retail,Delhi,44
+CUST_01696,Retail,West Bengal,33
+CUST_01697,Retail,Gujarat,41
+CUST_01698,Retail,Maharashtra,49
+CUST_01699,Corporate,Kerala,10
+CUST_01700,Premium,Karnataka,18
+CUST_01701,Corporate,Delhi,19
+CUST_01702,Retail,West Bengal,7
+CUST_01703,Retail,Maharashtra,57
+CUST_01704,Premium,Karnataka,19
+CUST_01705,Retail,Maharashtra,24
+CUST_01706,Retail,Kerala,15
+CUST_01707,Premium,Uttar Pradesh,41
+CUST_01708,Retail,Delhi,42
+CUST_01709,Premium,Gujarat,23
+CUST_01710,Student,Telangana,52
+CUST_01711,Retail,Tamil Nadu,52
+CUST_01712,Retail,Karnataka,4
+CUST_01713,Student,Gujarat,38
+CUST_01714,Premium,Kerala,4
+CUST_01715,Retail,Telangana,5
+CUST_01716,Corporate,Maharashtra,41
+CUST_01717,Retail,Tamil Nadu,44
+CUST_01718,Student,Maharashtra,23
+CUST_01719,Corporate,Karnataka,40
+CUST_01720,Retail,Karnataka,53
+CUST_01721,Retail,West Bengal,37
+CUST_01722,Retail,Tamil Nadu,11
+CUST_01723,Retail,Kerala,55
+CUST_01724,Retail,Maharashtra,11
+CUST_01725,Student,Delhi,13
+CUST_01726,Retail,Tamil Nadu,14
+CUST_01727,Premium,Karnataka,60
+CUST_01728,Corporate,Tamil Nadu,8
+CUST_01729,Student,Uttar Pradesh,25
+CUST_01730,Premium,Kerala,18
+CUST_01731,Retail,Maharashtra,51
+CUST_01732,Premium,Karnataka,44
+CUST_01733,Premium,Uttar Pradesh,44
+CUST_01734,Retail,Maharashtra,18
+CUST_01735,Retail,Tamil Nadu,10
+CUST_01736,Small Business,Delhi,7
+CUST_01737,Retail,Uttar Pradesh,60
+CUST_01738,Retail,Tamil Nadu,50
+CUST_01739,Retail,Karnataka,44
+CUST_01740,Retail,Uttar Pradesh,14
+CUST_01741,Student,Tamil Nadu,15
+CUST_01742,Student,Tamil Nadu,16
+CUST_01743,Student,Delhi,2
+CUST_01744,Retail,Telangana,30
+CUST_01745,Retail,Maharashtra,30
+CUST_01746,Premium,Rajasthan,18
+CUST_01747,Retail,Gujarat,31
+CUST_01748,Retail,Tamil Nadu,44
+CUST_01749,Student,Rajasthan,48
+CUST_01750,Retail,Maharashtra,13
+CUST_01751,Premium,Karnataka,20
+CUST_01752,Retail,Delhi,49
+CUST_01753,Retail,Karnataka,50
+CUST_01754,Retail,Tamil Nadu,35
+CUST_01755,Corporate,Tamil Nadu,23
+CUST_01756,Student,Maharashtra,42
+CUST_01757,Corporate,Kerala,33
+CUST_01758,Premium,Delhi,38
+CUST_01759,Retail,Rajasthan,35
+CUST_01760,Premium,Karnataka,51
+CUST_01761,Premium,Karnataka,36
+CUST_01762,Small Business,Tamil Nadu,20
+CUST_01763,Retail,Tamil Nadu,55
+CUST_01764,Premium,Karnataka,3
+CUST_01765,Retail,Kerala,8
+CUST_01766,Retail,Telangana,40
+CUST_01767,Student,Rajasthan,59
+CUST_01768,Premium,Karnataka,32
+CUST_01769,Retail,Telangana,29
+CUST_01770,Retail,Karnataka,7
+CUST_01771,Premium,Tamil Nadu,2
+CUST_01772,Student,Telangana,21
+CUST_01773,Small Business,Delhi,6
+CUST_01774,Corporate,Tamil Nadu,28
+CUST_01775,Student,Maharashtra,48
+CUST_01776,Retail,Karnataka,42
+CUST_01777,Student,West Bengal,36
+CUST_01778,Retail,Maharashtra,32
+CUST_01779,Retail,Rajasthan,45
+CUST_01780,Small Business,Tamil Nadu,42
+CUST_01781,Retail,Maharashtra,53
+CUST_01782,Small Business,Maharashtra,46
+CUST_01783,Premium,Maharashtra,9
+CUST_01784,Premium,Karnataka,11
+CUST_01785,Student,West Bengal,23
+CUST_01786,Small Business,Telangana,50
+CUST_01787,Premium,Uttar Pradesh,11
+CUST_01788,Premium,Kerala,49
+CUST_01789,Retail,Telangana,2
+CUST_01790,Premium,Delhi,3
+CUST_01791,Retail,Kerala,11
+CUST_01792,Student,Karnataka,50
+CUST_01793,Premium,Maharashtra,59
+CUST_01794,Student,Karnataka,35
+CUST_01795,Retail,Maharashtra,58
+CUST_01796,Retail,Karnataka,15
+CUST_01797,Student,Uttar Pradesh,43
+CUST_01798,Retail,Karnataka,11
+CUST_01799,Retail,Tamil Nadu,31
+CUST_01800,Retail,Delhi,28
+CUST_01801,Corporate,Tamil Nadu,28
+CUST_01802,Student,Tamil Nadu,32
+CUST_01803,Retail,Karnataka,25
+CUST_01804,Retail,Maharashtra,20
+CUST_01805,Retail,Maharashtra,28
+CUST_01806,Student,Kerala,25
+CUST_01807,Student,West Bengal,11
+CUST_01808,Retail,Maharashtra,19
+CUST_01809,Retail,Karnataka,28
+CUST_01810,Retail,Karnataka,1
+CUST_01811,Student,West Bengal,59
+CUST_01812,Student,Tamil Nadu,5
+CUST_01813,Retail,Tamil Nadu,10
+CUST_01814,Retail,Kerala,42
+CUST_01815,Retail,Maharashtra,46
+CUST_01816,Corporate,Tamil Nadu,34
+CUST_01817,Retail,Karnataka,36
+CUST_01818,Student,Uttar Pradesh,2
+CUST_01819,Premium,Telangana,18
+CUST_01820,Retail,Gujarat,13
+CUST_01821,Retail,Maharashtra,51
+CUST_01822,Retail,Delhi,5
+CUST_01823,Premium,Rajasthan,20
+CUST_01824,Student,Uttar Pradesh,2
+CUST_01825,Premium,Karnataka,11
+CUST_01826,Premium,Kerala,30
+CUST_01827,Retail,Karnataka,32
+CUST_01828,Corporate,Karnataka,32
+CUST_01829,Student,Gujarat,58
+CUST_01830,Retail,Maharashtra,50
+CUST_01831,Corporate,Uttar Pradesh,38
+CUST_01832,Premium,Tamil Nadu,55
+CUST_01833,Premium,Maharashtra,28
+CUST_01834,Student,Telangana,10
+CUST_01835,Student,Telangana,22
+CUST_01836,Student,Tamil Nadu,55
+CUST_01837,Retail,Maharashtra,17
+CUST_01838,Retail,Delhi,22
+CUST_01839,Small Business,Tamil Nadu,43
+CUST_01840,Retail,Uttar Pradesh,19
+CUST_01841,Retail,Telangana,17
+CUST_01842,Retail,Tamil Nadu,24
+CUST_01843,Retail,Tamil Nadu,36
+CUST_01844,Premium,Tamil Nadu,32
+CUST_01845,Small Business,Telangana,58
+CUST_01846,Retail,Karnataka,56
+CUST_01847,Retail,Maharashtra,58
+CUST_01848,Retail,Maharashtra,46
+CUST_01849,Small Business,Delhi,59
+CUST_01850,Premium,Tamil Nadu,52
+CUST_01851,Retail,Karnataka,36
+CUST_01852,Student,Uttar Pradesh,28
+CUST_01853,Small Business,Telangana,14
+CUST_01854,Small Business,West Bengal,58
+CUST_01855,Small Business,Tamil Nadu,36
+CUST_01856,Retail,Karnataka,6
+CUST_01857,Student,Delhi,9
+CUST_01858,Premium,Karnataka,21
+CUST_01859,Small Business,Telangana,12
+CUST_01860,Student,Delhi,58
+CUST_01861,Student,Tamil Nadu,30
+CUST_01862,Student,Telangana,31
+CUST_01863,Retail,Uttar Pradesh,40
+CUST_01864,Premium,Tamil Nadu,56
+CUST_01865,Corporate,Delhi,4
+CUST_01866,Small Business,Karnataka,31
+CUST_01867,Retail,Maharashtra,27
+CUST_01868,Retail,Tamil Nadu,58
+CUST_01869,Retail,Delhi,57
+CUST_01870,Student,Uttar Pradesh,25
+CUST_01871,Student,Maharashtra,5
+CUST_01872,Retail,Tamil Nadu,6
+CUST_01873,Premium,Delhi,5
+CUST_01874,Small Business,Maharashtra,51
+CUST_01875,Student,Telangana,27
+CUST_01876,Premium,Maharashtra,8
+CUST_01877,Premium,Karnataka,9
+CUST_01878,Premium,Karnataka,15
+CUST_01879,Retail,West Bengal,36
+CUST_01880,Premium,Karnataka,57
+CUST_01881,Student,West Bengal,41
+CUST_01882,Small Business,Karnataka,7
+CUST_01883,Premium,Karnataka,32
+CUST_01884,Student,Maharashtra,8
+CUST_01885,Retail,Uttar Pradesh,47
+CUST_01886,Premium,Uttar Pradesh,51
+CUST_01887,Retail,Karnataka,15
+CUST_01888,Retail,Maharashtra,37
+CUST_01889,Student,Tamil Nadu,19
+CUST_01890,Corporate,Maharashtra,39
+CUST_01891,Retail,Maharashtra,6
+CUST_01892,Retail,Telangana,59
+CUST_01893,Student,Uttar Pradesh,19
+CUST_01894,Retail,Maharashtra,57
+CUST_01895,Premium,Maharashtra,28
+CUST_01896,Student,Telangana,17
+CUST_01897,Premium,Kerala,42
+CUST_01898,Retail,Tamil Nadu,19
+CUST_01899,Retail,Karnataka,31
+CUST_01900,Student,Maharashtra,11
+CUST_01901,Premium,Karnataka,15
+CUST_01902,Retail,Karnataka,10
+CUST_01903,Student,Tamil Nadu,43
+CUST_01904,Retail,Gujarat,23
+CUST_01905,Student,Karnataka,3
+CUST_01906,Retail,Tamil Nadu,3
+CUST_01907,Corporate,Karnataka,18
+CUST_01908,Retail,Kerala,25
+CUST_01909,Retail,Telangana,43
+CUST_01910,Retail,Maharashtra,20
+CUST_01911,Retail,Maharashtra,58
+CUST_01912,Small Business,Rajasthan,29
+CUST_01913,Corporate,Karnataka,22
+CUST_01914,Retail,Karnataka,50
+CUST_01915,Retail,Karnataka,57
+CUST_01916,Student,Tamil Nadu,15
+CUST_01917,Small Business,Maharashtra,39
+CUST_01918,Premium,Telangana,10
+CUST_01919,Retail,Delhi,21
+CUST_01920,Retail,Maharashtra,55
+CUST_01921,Student,Uttar Pradesh,52
+CUST_01922,Retail,Tamil Nadu,29
+CUST_01923,Premium,Karnataka,32
+CUST_01924,Retail,Delhi,10
+CUST_01925,Student,Delhi,13
+CUST_01926,Retail,Tamil Nadu,47
+CUST_01927,Premium,Maharashtra,23
+CUST_01928,Premium,Gujarat,50
+CUST_01929,Premium,Gujarat,23
+CUST_01930,Retail,Delhi,31
+CUST_01931,Premium,Karnataka,4
+CUST_01932,Premium,Tamil Nadu,52
+CUST_01933,Premium,Maharashtra,49
+CUST_01934,Premium,Tamil Nadu,60
+CUST_01935,Student,Uttar Pradesh,3
+CUST_01936,Student,Maharashtra,21
+CUST_01937,Retail,Karnataka,53
+CUST_01938,Student,West Bengal,2
+CUST_01939,Premium,Maharashtra,4
+CUST_01940,Retail,Karnataka,1
+CUST_01941,Retail,Kerala,15
+CUST_01942,Retail,Telangana,57
+CUST_01943,Student,Gujarat,33
+CUST_01944,Student,Tamil Nadu,6
+CUST_01945,Student,Delhi,7
+CUST_01946,Premium,West Bengal,19
+CUST_01947,Retail,Tamil Nadu,44
+CUST_01948,Retail,Karnataka,1
+CUST_01949,Retail,Telangana,39
+CUST_01950,Retail,Tamil Nadu,19
+CUST_01951,Retail,West Bengal,45
+CUST_01952,Retail,Maharashtra,26
+CUST_01953,Premium,Maharashtra,44
+CUST_01954,Student,Tamil Nadu,12
+CUST_01955,Corporate,Kerala,22
+CUST_01956,Small Business,Maharashtra,13
+CUST_01957,Premium,Delhi,28
+CUST_01958,Retail,Gujarat,14
+CUST_01959,Premium,Gujarat,22
+CUST_01960,Student,Uttar Pradesh,30
+CUST_01961,Retail,Delhi,44
+CUST_01962,Retail,Maharashtra,20
+CUST_01963,Small Business,Uttar Pradesh,44
+CUST_01964,Retail,Gujarat,27
+CUST_01965,Premium,Karnataka,38
+CUST_01966,Premium,Tamil Nadu,59
+CUST_01967,Retail,Kerala,42
+CUST_01968,Retail,Maharashtra,52
+CUST_01969,Retail,Gujarat,56
+CUST_01970,Retail,Maharashtra,41
+CUST_01971,Retail,Karnataka,34
+CUST_01972,Small Business,Delhi,39
+CUST_01973,Retail,Tamil Nadu,41
+CUST_01974,Premium,Maharashtra,57
+CUST_01975,Retail,Delhi,44
+CUST_01976,Small Business,Maharashtra,37
+CUST_01977,Retail,West Bengal,1
+CUST_01978,Retail,Kerala,54
+CUST_01979,Small Business,West Bengal,15
+CUST_01980,Small Business,Tamil Nadu,32
+CUST_01981,Retail,Karnataka,8
+CUST_01982,Student,Delhi,33
+CUST_01983,Premium,Uttar Pradesh,18
+CUST_01984,Premium,Kerala,45
+CUST_01985,Retail,Kerala,29
+CUST_01986,Retail,Karnataka,32
+CUST_01987,Student,Maharashtra,33
+CUST_01988,Premium,Maharashtra,5
+CUST_01989,Retail,Tamil Nadu,18
+CUST_01990,Student,Tamil Nadu,48
+CUST_01991,Student,Uttar Pradesh,58
+CUST_01992,Retail,Karnataka,10
+CUST_01993,Premium,Karnataka,36
+CUST_01994,Retail,Tamil Nadu,33
+CUST_01995,Student,Uttar Pradesh,23
+CUST_01996,Student,Delhi,40
+CUST_01997,Corporate,Gujarat,5
+CUST_01998,Retail,Telangana,34
+CUST_01999,Retail,Maharashtra,24
+CUST_02000,Retail,Delhi,17
+CUST_02001,Retail,Tamil Nadu,31
+CUST_02002,Retail,Karnataka,7
+CUST_02003,Small Business,Kerala,17
+CUST_02004,Retail,West Bengal,28
+CUST_02005,Retail,Maharashtra,38
+CUST_02006,Student,Maharashtra,22
+CUST_02007,Retail,Delhi,15
+CUST_02008,Student,Tamil Nadu,37
+CUST_02009,Retail,Karnataka,15
+CUST_02010,Premium,Karnataka,50
+CUST_02011,Retail,Karnataka,50
+CUST_02012,Retail,Kerala,25
+CUST_02013,Small Business,Karnataka,53
+CUST_02014,Retail,Karnataka,21
+CUST_02015,Premium,Maharashtra,55
+CUST_02016,Retail,Telangana,38
+CUST_02017,Retail,Karnataka,2
+CUST_02018,Small Business,Tamil Nadu,27
+CUST_02019,Retail,Maharashtra,49
+CUST_02020,Student,West Bengal,32
+CUST_02021,Corporate,Delhi,21
+CUST_02022,Premium,Kerala,4
+CUST_02023,Small Business,Uttar Pradesh,44
+CUST_02024,Retail,Kerala,19
+CUST_02025,Retail,Delhi,2
+CUST_02026,Retail,Maharashtra,26
+CUST_02027,Student,Tamil Nadu,34
+CUST_02028,Corporate,Rajasthan,14
+CUST_02029,Retail,Maharashtra,15
+CUST_02030,Student,Tamil Nadu,20
+CUST_02031,Retail,Gujarat,34
+CUST_02032,Premium,Karnataka,36
+CUST_02033,Premium,Delhi,19
+CUST_02034,Corporate,Delhi,9
+CUST_02035,Premium,Maharashtra,7
+CUST_02036,Retail,Kerala,30
+CUST_02037,Retail,Karnataka,13
+CUST_02038,Retail,Maharashtra,27
+CUST_02039,Retail,Delhi,44
+CUST_02040,Retail,Gujarat,35
+CUST_02041,Small Business,West Bengal,13
+CUST_02042,Premium,Maharashtra,15
+CUST_02043,Premium,Gujarat,46
+CUST_02044,Retail,Tamil Nadu,56
+CUST_02045,Small Business,Uttar Pradesh,9
+CUST_02046,Student,Maharashtra,45
+CUST_02047,Retail,West Bengal,23
+CUST_02048,Student,Tamil Nadu,54
+CUST_02049,Premium,Karnataka,36
+CUST_02050,Retail,Maharashtra,53
+CUST_02051,Premium,Telangana,40
+CUST_02052,Premium,Delhi,3
+CUST_02053,Retail,Uttar Pradesh,34
+CUST_02054,Small Business,Maharashtra,19
+CUST_02055,Small Business,Maharashtra,28
+CUST_02056,Student,Tamil Nadu,23
+CUST_02057,Premium,Kerala,40
+CUST_02058,Retail,Karnataka,49
+CUST_02059,Student,Telangana,45
+CUST_02060,Premium,Telangana,7
+CUST_02061,Retail,Uttar Pradesh,41
+CUST_02062,Premium,Delhi,12
+CUST_02063,Student,Gujarat,14
+CUST_02064,Premium,West Bengal,46
+CUST_02065,Retail,Tamil Nadu,15
+CUST_02066,Student,Delhi,3
+CUST_02067,Retail,Tamil Nadu,15
+CUST_02068,Retail,Maharashtra,51
+CUST_02069,Retail,Tamil Nadu,24
+CUST_02070,Retail,Karnataka,52
+CUST_02071,Student,Maharashtra,46
+CUST_02072,Premium,Maharashtra,8
+CUST_02073,Retail,Delhi,5
+CUST_02074,Small Business,Tamil Nadu,51
+CUST_02075,Small Business,Maharashtra,4
+CUST_02076,Small Business,Karnataka,14
+CUST_02077,Retail,Delhi,16
+CUST_02078,Premium,Delhi,20
+CUST_02079,Corporate,Delhi,24
+CUST_02080,Student,West Bengal,6
+CUST_02081,Retail,Karnataka,55
+CUST_02082,Retail,West Bengal,57
+CUST_02083,Premium,Maharashtra,31
+CUST_02084,Small Business,Maharashtra,6
+CUST_02085,Premium,Gujarat,35
+CUST_02086,Premium,Tamil Nadu,15
+CUST_02087,Retail,Gujarat,29
+CUST_02088,Student,Delhi,3
+CUST_02089,Student,Karnataka,11
+CUST_02090,Retail,Tamil Nadu,3
+CUST_02091,Student,Tamil Nadu,28
+CUST_02092,Corporate,Uttar Pradesh,10
+CUST_02093,Retail,Gujarat,50
+CUST_02094,Premium,Tamil Nadu,33
+CUST_02095,Retail,Maharashtra,48
+CUST_02096,Student,Delhi,16
+CUST_02097,Premium,Kerala,59
+CUST_02098,Premium,Tamil Nadu,10
+CUST_02099,Student,Karnataka,33
+CUST_02100,Retail,Telangana,36
+CUST_02101,Small Business,Tamil Nadu,3
+CUST_02102,Premium,Karnataka,5
+CUST_02103,Retail,Uttar Pradesh,12
+CUST_02104,Student,Delhi,57
+CUST_02105,Student,Karnataka,44
+CUST_02106,Retail,Tamil Nadu,13
+CUST_02107,Small Business,Tamil Nadu,24
+CUST_02108,Small Business,Karnataka,44
+CUST_02109,Retail,Telangana,57
+CUST_02110,Corporate,Maharashtra,32
+CUST_02111,Retail,West Bengal,16
+CUST_02112,Retail,Telangana,32
+CUST_02113,Retail,Maharashtra,45
+CUST_02114,Small Business,Karnataka,37
+CUST_02115,Student,Maharashtra,56
+CUST_02116,Retail,Telangana,36
+CUST_02117,Retail,Kerala,21
+CUST_02118,Premium,Tamil Nadu,47
+CUST_02119,Retail,Gujarat,12
+CUST_02120,Small Business,Delhi,51
+CUST_02121,Student,Telangana,21
+CUST_02122,Premium,Tamil Nadu,60
+CUST_02123,Corporate,Delhi,51
+CUST_02124,Retail,Telangana,21
+CUST_02125,Corporate,Maharashtra,43
+CUST_02126,Student,Maharashtra,53
+CUST_02127,Premium,Tamil Nadu,6
+CUST_02128,Retail,Karnataka,9
+CUST_02129,Small Business,Karnataka,1
+CUST_02130,Retail,Uttar Pradesh,12
+CUST_02131,Retail,Karnataka,58
+CUST_02132,Retail,Maharashtra,14
+CUST_02133,Premium,Gujarat,6
+CUST_02134,Premium,Tamil Nadu,1
+CUST_02135,Student,Maharashtra,22
+CUST_02136,Small Business,West Bengal,34
+CUST_02137,Retail,Telangana,56
+CUST_02138,Student,Delhi,11
+CUST_02139,Retail,Gujarat,3
+CUST_02140,Small Business,Tamil Nadu,42
+CUST_02141,Student,Uttar Pradesh,6
+CUST_02142,Premium,Tamil Nadu,6
+CUST_02143,Student,West Bengal,20
+CUST_02144,Retail,Karnataka,21
+CUST_02145,Premium,Uttar Pradesh,2
+CUST_02146,Student,Gujarat,26
+CUST_02147,Premium,West Bengal,31
+CUST_02148,Retail,Karnataka,26
+CUST_02149,Premium,Maharashtra,56
+CUST_02150,Student,Delhi,32
+CUST_02151,Retail,West Bengal,10
+CUST_02152,Retail,Tamil Nadu,23
+CUST_02153,Student,Uttar Pradesh,58
+CUST_02154,Student,Telangana,6
+CUST_02155,Retail,Karnataka,23
+CUST_02156,Retail,Kerala,28
+CUST_02157,Retail,Maharashtra,49
+CUST_02158,Retail,Maharashtra,30
+CUST_02159,Premium,Karnataka,14
+CUST_02160,Student,Delhi,37
+CUST_02161,Student,West Bengal,55
+CUST_02162,Premium,Maharashtra,32
+CUST_02163,Retail,Delhi,49
+CUST_02164,Small Business,Gujarat,34
+CUST_02165,Premium,Gujarat,41
+CUST_02166,Corporate,Tamil Nadu,44
+CUST_02167,Premium,Telangana,51
+CUST_02168,Retail,Maharashtra,22
+CUST_02169,Student,Karnataka,31
+CUST_02170,Retail,Karnataka,7
+CUST_02171,Student,Maharashtra,41
+CUST_02172,Retail,Telangana,21
+CUST_02173,Retail,Maharashtra,16
+CUST_02174,Small Business,West Bengal,20
+CUST_02175,Retail,Tamil Nadu,43
+CUST_02176,Small Business,Maharashtra,44
+CUST_02177,Retail,Rajasthan,47
+CUST_02178,Premium,West Bengal,50
+CUST_02179,Student,Karnataka,19
+CUST_02180,Premium,Maharashtra,48
+CUST_02181,Retail,Karnataka,32
+CUST_02182,Retail,Maharashtra,15
+CUST_02183,Retail,West Bengal,5
+CUST_02184,Retail,West Bengal,11
+CUST_02185,Student,Karnataka,15
+CUST_02186,Small Business,Uttar Pradesh,29
+CUST_02187,Small Business,Delhi,50
+CUST_02188,Student,Maharashtra,45
+CUST_02189,Student,Maharashtra,4
+CUST_02190,Student,Delhi,49
+CUST_02191,Retail,Delhi,36
+CUST_02192,Small Business,Maharashtra,48
+CUST_02193,Student,Maharashtra,23
+CUST_02194,Premium,Tamil Nadu,15
+CUST_02195,Retail,Kerala,46
+CUST_02196,Retail,Delhi,44
+CUST_02197,Premium,Tamil Nadu,3
+CUST_02198,Small Business,West Bengal,32
+CUST_02199,Premium,Uttar Pradesh,10
+CUST_02200,Retail,Uttar Pradesh,40
+CUST_02201,Corporate,Maharashtra,38
+CUST_02202,Retail,Tamil Nadu,22
+CUST_02203,Retail,Maharashtra,14
+CUST_02204,Retail,Tamil Nadu,17
+CUST_02205,Student,Uttar Pradesh,21
+CUST_02206,Small Business,Karnataka,51
+CUST_02207,Retail,Karnataka,48
+CUST_02208,Small Business,Maharashtra,15
+CUST_02209,Retail,Maharashtra,58
+CUST_02210,Small Business,Kerala,15
+CUST_02211,Student,Maharashtra,1
+CUST_02212,Student,Tamil Nadu,24
+CUST_02213,Retail,Karnataka,55
+CUST_02214,Corporate,Maharashtra,55
+CUST_02215,Student,Tamil Nadu,12
+CUST_02216,Retail,Delhi,10
+CUST_02217,Student,Delhi,46
+CUST_02218,Retail,Gujarat,42
+CUST_02219,Small Business,Uttar Pradesh,42
+CUST_02220,Retail,Telangana,52
+CUST_02221,Student,Uttar Pradesh,31
+CUST_02222,Premium,Karnataka,11
+CUST_02223,Retail,Tamil Nadu,54
+CUST_02224,Retail,Karnataka,16
+CUST_02225,Retail,Telangana,9
+CUST_02226,Premium,Rajasthan,47
+CUST_02227,Retail,Telangana,14
+CUST_02228,Premium,Tamil Nadu,19
+CUST_02229,Retail,Uttar Pradesh,31
+CUST_02230,Retail,Maharashtra,9
+CUST_02231,Student,Tamil Nadu,36
+CUST_02232,Retail,Maharashtra,53
+CUST_02233,Small Business,Tamil Nadu,39
+CUST_02234,Small Business,Delhi,54
+CUST_02235,Student,Karnataka,26
+CUST_02236,Premium,Maharashtra,8
+CUST_02237,Small Business,Delhi,24
+CUST_02238,Retail,Telangana,8
+CUST_02239,Retail,Gujarat,19
+CUST_02240,Retail,Maharashtra,47
+CUST_02241,Student,Kerala,48
+CUST_02242,Retail,Telangana,30
+CUST_02243,Premium,Tamil Nadu,58
+CUST_02244,Corporate,Delhi,22
+CUST_02245,Small Business,Karnataka,55
+CUST_02246,Premium,Tamil Nadu,9
+CUST_02247,Retail,Gujarat,58
+CUST_02248,Small Business,Telangana,58
+CUST_02249,Premium,Tamil Nadu,44
+CUST_02250,Retail,Kerala,48
+CUST_02251,Retail,Telangana,4
+CUST_02252,Small Business,Telangana,37
+CUST_02253,Student,Karnataka,8
+CUST_02254,Student,Telangana,1
+CUST_02255,Small Business,Karnataka,28
+CUST_02256,Premium,Delhi,6
+CUST_02257,Premium,Tamil Nadu,47
+CUST_02258,Retail,Tamil Nadu,36
+CUST_02259,Retail,West Bengal,53
+CUST_02260,Retail,Maharashtra,11
+CUST_02261,Student,Karnataka,5
+CUST_02262,Premium,Karnataka,50
+CUST_02263,Small Business,Gujarat,24
+CUST_02264,Retail,Tamil Nadu,47
+CUST_02265,Premium,Kerala,18
+CUST_02266,Premium,Tamil Nadu,20
+CUST_02267,Premium,Karnataka,28
+CUST_02268,Student,Maharashtra,13
+CUST_02269,Retail,Maharashtra,5
+CUST_02270,Premium,Maharashtra,30
+CUST_02271,Retail,Karnataka,1
+CUST_02272,Retail,Uttar Pradesh,22
+CUST_02273,Premium,Gujarat,18
+CUST_02274,Student,Tamil Nadu,46
+CUST_02275,Corporate,Maharashtra,5
+CUST_02276,Premium,Telangana,31
+CUST_02277,Student,Karnataka,6
+CUST_02278,Premium,Tamil Nadu,27
+CUST_02279,Premium,West Bengal,56
+CUST_02280,Retail,Delhi,25
+CUST_02281,Retail,Delhi,29
+CUST_02282,Retail,Tamil Nadu,28
+CUST_02283,Premium,Tamil Nadu,16
+CUST_02284,Retail,Delhi,54
+CUST_02285,Retail,Karnataka,53
+CUST_02286,Retail,Maharashtra,12
+CUST_02287,Corporate,Delhi,20
+CUST_02288,Retail,Karnataka,18
+CUST_02289,Premium,Uttar Pradesh,34
+CUST_02290,Retail,Kerala,55
+CUST_02291,Premium,West Bengal,53
+CUST_02292,Retail,Tamil Nadu,23
+CUST_02293,Retail,Tamil Nadu,45
+CUST_02294,Premium,Maharashtra,27
+CUST_02295,Retail,Tamil Nadu,49
+CUST_02296,Retail,Rajasthan,17
+CUST_02297,Retail,Tamil Nadu,48
+CUST_02298,Retail,Maharashtra,21
+CUST_02299,Retail,Maharashtra,50
+CUST_02300,Retail,Delhi,40
+CUST_02301,Student,Tamil Nadu,31
+CUST_02302,Premium,Maharashtra,3
+CUST_02303,Premium,Karnataka,17
+CUST_02304,Retail,Telangana,50
+CUST_02305,Small Business,Tamil Nadu,58
+CUST_02306,Retail,Telangana,26
+CUST_02307,Retail,Kerala,23
+CUST_02308,Premium,Karnataka,6
+CUST_02309,Retail,West Bengal,28
+CUST_02310,Retail,Tamil Nadu,8
+CUST_02311,Premium,Uttar Pradesh,55
+CUST_02312,Small Business,Delhi,58
+CUST_02313,Premium,Karnataka,45
+CUST_02314,Student,Maharashtra,8
+CUST_02315,Corporate,Tamil Nadu,19
+CUST_02316,Retail,Rajasthan,38
+CUST_02317,Retail,Tamil Nadu,29
+CUST_02318,Retail,Gujarat,23
+CUST_02319,Retail,Maharashtra,47
+CUST_02320,Retail,Uttar Pradesh,32
+CUST_02321,Small Business,Karnataka,10
+CUST_02322,Student,Delhi,27
+CUST_02323,Premium,Maharashtra,49
+CUST_02324,Retail,Gujarat,1
+CUST_02325,Student,Tamil Nadu,39
+CUST_02326,Corporate,Karnataka,29
+CUST_02327,Student,Karnataka,59
+CUST_02328,Retail,West Bengal,45
+CUST_02329,Premium,Karnataka,3
+CUST_02330,Retail,Delhi,51
+CUST_02331,Retail,Karnataka,47
+CUST_02332,Retail,Telangana,37
+CUST_02333,Premium,Uttar Pradesh,31
+CUST_02334,Student,Maharashtra,11
+CUST_02335,Retail,Maharashtra,22
+CUST_02336,Retail,Karnataka,18
+CUST_02337,Premium,Tamil Nadu,35
+CUST_02338,Retail,Karnataka,6
+CUST_02339,Retail,Gujarat,3
+CUST_02340,Retail,Delhi,5
+CUST_02341,Student,Uttar Pradesh,9
+CUST_02342,Retail,Maharashtra,28
+CUST_02343,Retail,Gujarat,19
+CUST_02344,Retail,Maharashtra,28
+CUST_02345,Small Business,Maharashtra,27
+CUST_02346,Student,Karnataka,13
+CUST_02347,Student,Maharashtra,38
+CUST_02348,Retail,Maharashtra,43
+CUST_02349,Premium,Gujarat,53
+CUST_02350,Retail,Uttar Pradesh,21
+CUST_02351,Premium,Karnataka,27
+CUST_02352,Small Business,Tamil Nadu,46
+CUST_02353,Premium,Maharashtra,6
+CUST_02354,Small Business,Delhi,38
+CUST_02355,Student,Tamil Nadu,49
+CUST_02356,Retail,West Bengal,11
+CUST_02357,Small Business,Rajasthan,47
+CUST_02358,Retail,Uttar Pradesh,41
+CUST_02359,Premium,Karnataka,53
+CUST_02360,Retail,Telangana,17
+CUST_02361,Retail,Gujarat,56
+CUST_02362,Retail,Maharashtra,39
+CUST_02363,Retail,Delhi,7
+CUST_02364,Premium,Kerala,30
+CUST_02365,Premium,Maharashtra,21
+CUST_02366,Retail,Maharashtra,1
+CUST_02367,Retail,Maharashtra,25
+CUST_02368,Premium,Delhi,32
+CUST_02369,Retail,Karnataka,59
+CUST_02370,Student,Telangana,57
+CUST_02371,Student,Gujarat,8
+CUST_02372,Small Business,Delhi,5
+CUST_02373,Student,Tamil Nadu,30
+CUST_02374,Retail,Delhi,51
+CUST_02375,Student,Tamil Nadu,8
+CUST_02376,Retail,Tamil Nadu,49
+CUST_02377,Retail,Delhi,19
+CUST_02378,Student,Maharashtra,44
+CUST_02379,Retail,Delhi,59
+CUST_02380,Student,Tamil Nadu,55
+CUST_02381,Student,Maharashtra,30
+CUST_02382,Small Business,Tamil Nadu,15
+CUST_02383,Small Business,Rajasthan,36
+CUST_02384,Retail,Delhi,55
+CUST_02385,Retail,Gujarat,44
+CUST_02386,Premium,Karnataka,27
+CUST_02387,Retail,Tamil Nadu,13
+CUST_02388,Premium,Rajasthan,14
+CUST_02389,Student,Karnataka,37
+CUST_02390,Student,Maharashtra,54
+CUST_02391,Retail,Gujarat,48
+CUST_02392,Retail,Tamil Nadu,30
+CUST_02393,Retail,Kerala,39
+CUST_02394,Retail,Delhi,47
+CUST_02395,Small Business,Karnataka,13
+CUST_02396,Retail,Tamil Nadu,58
+CUST_02397,Retail,Tamil Nadu,16
+CUST_02398,Retail,Telangana,44
+CUST_02399,Premium,Gujarat,7
+CUST_02400,Premium,Karnataka,48
+CUST_02401,Retail,Tamil Nadu,55
+CUST_02402,Retail,Gujarat,55
+CUST_02403,Retail,Delhi,27
+CUST_02404,Retail,Maharashtra,45
+CUST_02405,Student,Maharashtra,55
+CUST_02406,Premium,Karnataka,35
+CUST_02407,Retail,Gujarat,15
+CUST_02408,Retail,Rajasthan,28
+CUST_02409,Corporate,Tamil Nadu,35
+CUST_02410,Premium,Delhi,7
+CUST_02411,Student,Maharashtra,50
+CUST_02412,Retail,Maharashtra,46
+CUST_02413,Premium,Karnataka,50
+CUST_02414,Retail,Kerala,51
+CUST_02415,Premium,Maharashtra,46
+CUST_02416,Corporate,Delhi,20
+CUST_02417,Retail,Karnataka,32
+CUST_02418,Retail,Karnataka,38
+CUST_02419,Retail,Tamil Nadu,40
+CUST_02420,Retail,Gujarat,32
+CUST_02421,Retail,Karnataka,26
+CUST_02422,Retail,Gujarat,58
+CUST_02423,Student,Maharashtra,39
+CUST_02424,Premium,Maharashtra,20
+CUST_02425,Retail,Maharashtra,18
+CUST_02426,Small Business,Maharashtra,50
+CUST_02427,Retail,Tamil Nadu,15
+CUST_02428,Corporate,Karnataka,52
+CUST_02429,Retail,Gujarat,22
+CUST_02430,Small Business,Gujarat,51
+CUST_02431,Premium,Karnataka,22
+CUST_02432,Student,Maharashtra,53
+CUST_02433,Corporate,Karnataka,21
+CUST_02434,Retail,Karnataka,2
+CUST_02435,Corporate,Tamil Nadu,40
+CUST_02436,Retail,Telangana,53
+CUST_02437,Retail,Karnataka,43
+CUST_02438,Retail,Karnataka,18
+CUST_02439,Premium,Karnataka,23
+CUST_02440,Retail,Tamil Nadu,13
+CUST_02441,Premium,Delhi,41
+CUST_02442,Premium,Tamil Nadu,9
+CUST_02443,Student,Tamil Nadu,49
+CUST_02444,Small Business,Gujarat,7
+CUST_02445,Retail,Karnataka,41
+CUST_02446,Retail,Gujarat,54
+CUST_02447,Retail,Delhi,1
+CUST_02448,Retail,Karnataka,2
+CUST_02449,Retail,Gujarat,4
+CUST_02450,Retail,Tamil Nadu,14
+CUST_02451,Retail,Delhi,32
+CUST_02452,Corporate,Maharashtra,36
+CUST_02453,Premium,Karnataka,2
+CUST_02454,Retail,Delhi,40
+CUST_02455,Premium,Telangana,50
+CUST_02456,Retail,Rajasthan,51
+CUST_02457,Retail,Delhi,14
+CUST_02458,Premium,Maharashtra,20
+CUST_02459,Premium,Karnataka,25
+CUST_02460,Retail,Karnataka,42
+CUST_02461,Corporate,Maharashtra,49
+CUST_02462,Small Business,Maharashtra,8
+CUST_02463,Premium,Telangana,28
+CUST_02464,Premium,Maharashtra,46
+CUST_02465,Premium,Maharashtra,21
+CUST_02466,Retail,Maharashtra,23
+CUST_02467,Retail,Kerala,32
+CUST_02468,Retail,Gujarat,8
+CUST_02469,Premium,Delhi,31
+CUST_02470,Premium,Karnataka,37
+CUST_02471,Retail,Kerala,16
+CUST_02472,Corporate,Tamil Nadu,40
+CUST_02473,Small Business,Telangana,42
+CUST_02474,Student,Maharashtra,27
+CUST_02475,Premium,Maharashtra,40
+CUST_02476,Small Business,Maharashtra,41
+CUST_02477,Retail,Gujarat,18
+CUST_02478,Student,Tamil Nadu,35
+CUST_02479,Retail,Telangana,49
+CUST_02480,Student,Maharashtra,52
+CUST_02481,Retail,Maharashtra,15
+CUST_02482,Small Business,Tamil Nadu,53
+CUST_02483,Small Business,Maharashtra,27
+CUST_02484,Retail,Maharashtra,17
+CUST_02485,Premium,Maharashtra,40
+CUST_02486,Corporate,Gujarat,2
+CUST_02487,Premium,Maharashtra,49
+CUST_02488,Small Business,Uttar Pradesh,50
+CUST_02489,Premium,Delhi,31
+CUST_02490,Retail,Kerala,37
+CUST_02491,Retail,Tamil Nadu,41
+CUST_02492,Retail,Maharashtra,41
+CUST_02493,Student,Karnataka,34
+CUST_02494,Retail,Delhi,34
+CUST_02495,Premium,Telangana,51
+CUST_02496,Premium,Tamil Nadu,55
+CUST_02497,Premium,Tamil Nadu,59
+CUST_02498,Small Business,Telangana,3
+CUST_02499,Corporate,Karnataka,17
+CUST_02500,Retail,Gujarat,14
+CUST_02501,Student,Delhi,14
+CUST_02502,Student,Kerala,46
+CUST_02503,Premium,Tamil Nadu,38
+CUST_02504,Corporate,Tamil Nadu,35
+CUST_02505,Retail,Delhi,1
+CUST_02506,Retail,Uttar Pradesh,48
+CUST_02507,Small Business,Maharashtra,29
+CUST_02508,Retail,Karnataka,4
+CUST_02509,Small Business,Delhi,33
+CUST_02510,Small Business,Uttar Pradesh,17
+CUST_02511,Retail,Kerala,28
+CUST_02512,Small Business,Rajasthan,50
+CUST_02513,Retail,Tamil Nadu,26
+CUST_02514,Premium,Tamil Nadu,8
+CUST_02515,Premium,Delhi,34
+CUST_02516,Small Business,Kerala,59
+CUST_02517,Retail,Karnataka,18
+CUST_02518,Premium,Karnataka,31
+CUST_02519,Student,West Bengal,59
+CUST_02520,Student,Tamil Nadu,27
+CUST_02521,Student,Maharashtra,16
+CUST_02522,Retail,Maharashtra,58
+CUST_02523,Retail,Delhi,10
+CUST_02524,Retail,West Bengal,40
+CUST_02525,Student,Maharashtra,12
+CUST_02526,Retail,Delhi,22
+CUST_02527,Retail,Delhi,16
+CUST_02528,Corporate,Delhi,12
+CUST_02529,Retail,Gujarat,11
+CUST_02530,Corporate,Karnataka,20
+CUST_02531,Student,Tamil Nadu,51
+CUST_02532,Student,Tamil Nadu,1
+CUST_02533,Retail,Karnataka,27
+CUST_02534,Retail,Maharashtra,3
+CUST_02535,Student,Kerala,12
+CUST_02536,Small Business,Gujarat,30
+CUST_02537,Student,West Bengal,9
+CUST_02538,Retail,Maharashtra,53
+CUST_02539,Student,Maharashtra,54
+CUST_02540,Student,Maharashtra,37
+CUST_02541,Student,Karnataka,1
+CUST_02542,Student,Tamil Nadu,42
+CUST_02543,Small Business,Delhi,49
+CUST_02544,Premium,Rajasthan,4
+CUST_02545,Retail,Tamil Nadu,15
+CUST_02546,Premium,Tamil Nadu,51
+CUST_02547,Retail,West Bengal,27
+CUST_02548,Retail,Karnataka,8
+CUST_02549,Retail,Kerala,60
+CUST_02550,Retail,Gujarat,60
+CUST_02551,Retail,Uttar Pradesh,23
+CUST_02552,Retail,Maharashtra,15
+CUST_02553,Student,Gujarat,27
+CUST_02554,Small Business,Maharashtra,31
+CUST_02555,Retail,Delhi,39
+CUST_02556,Corporate,Maharashtra,47
+CUST_02557,Premium,Karnataka,8
+CUST_02558,Retail,Maharashtra,30
+CUST_02559,Retail,Delhi,58
+CUST_02560,Premium,Kerala,55
+CUST_02561,Student,West Bengal,42
+CUST_02562,Student,Gujarat,18
+CUST_02563,Retail,Tamil Nadu,4
+CUST_02564,Retail,West Bengal,47
+CUST_02565,Retail,Maharashtra,43
+CUST_02566,Retail,Telangana,22
+CUST_02567,Retail,Telangana,3
+CUST_02568,Retail,Tamil Nadu,15
+CUST_02569,Student,Kerala,35
+CUST_02570,Small Business,Tamil Nadu,47
+CUST_02571,Retail,Maharashtra,38
+CUST_02572,Small Business,Delhi,33
+CUST_02573,Retail,Tamil Nadu,14
+CUST_02574,Premium,West Bengal,48
+CUST_02575,Retail,Tamil Nadu,1
+CUST_02576,Premium,Tamil Nadu,53
+CUST_02577,Corporate,Delhi,49
+CUST_02578,Premium,Gujarat,26
+CUST_02579,Retail,Telangana,8
+CUST_02580,Premium,Gujarat,50
+CUST_02581,Retail,Gujarat,16
+CUST_02582,Small Business,Maharashtra,38
+CUST_02583,Premium,Tamil Nadu,10
+CUST_02584,Retail,Tamil Nadu,42
+CUST_02585,Premium,Delhi,37
+CUST_02586,Premium,Gujarat,26
+CUST_02587,Retail,Maharashtra,28
+CUST_02588,Student,West Bengal,12
+CUST_02589,Retail,Delhi,20
+CUST_02590,Student,Tamil Nadu,49
+CUST_02591,Student,Karnataka,14
+CUST_02592,Student,Kerala,46
+CUST_02593,Premium,West Bengal,35
+CUST_02594,Premium,Telangana,29
+CUST_02595,Retail,Tamil Nadu,12
+CUST_02596,Student,Rajasthan,52
+CUST_02597,Retail,Karnataka,18
+CUST_02598,Premium,Tamil Nadu,44
+CUST_02599,Retail,Rajasthan,2
+CUST_02600,Retail,Karnataka,2
+CUST_02601,Premium,Gujarat,59
+CUST_02602,Retail,Tamil Nadu,17
+CUST_02603,Student,Delhi,10
+CUST_02604,Retail,Telangana,18
+CUST_02605,Retail,Karnataka,22
+CUST_02606,Premium,Gujarat,19
+CUST_02607,Retail,Karnataka,58
+CUST_02608,Retail,Delhi,53
+CUST_02609,Student,Karnataka,1
+CUST_02610,Retail,Karnataka,24
+CUST_02611,Small Business,Karnataka,36
+CUST_02612,Retail,Tamil Nadu,25
+CUST_02613,Retail,Telangana,36
+CUST_02614,Student,Maharashtra,31
+CUST_02615,Retail,Karnataka,31
+CUST_02616,Retail,Maharashtra,2
+CUST_02617,Retail,Karnataka,19
+CUST_02618,Retail,West Bengal,53
+CUST_02619,Small Business,Rajasthan,12
+CUST_02620,Retail,Maharashtra,10
+CUST_02621,Student,Telangana,31
+CUST_02622,Small Business,Delhi,45
+CUST_02623,Retail,Tamil Nadu,22
+CUST_02624,Small Business,Gujarat,23
+CUST_02625,Retail,Maharashtra,52
+CUST_02626,Corporate,Gujarat,23
+CUST_02627,Retail,Telangana,15
+CUST_02628,Student,Maharashtra,26
+CUST_02629,Premium,Telangana,3
+CUST_02630,Retail,West Bengal,23
+CUST_02631,Premium,Maharashtra,20
+CUST_02632,Student,Delhi,45
+CUST_02633,Retail,Karnataka,40
+CUST_02634,Retail,Rajasthan,57
+CUST_02635,Student,Gujarat,39
+CUST_02636,Student,Tamil Nadu,56
+CUST_02637,Corporate,Karnataka,8
+CUST_02638,Student,Delhi,18
+CUST_02639,Corporate,Tamil Nadu,41
+CUST_02640,Student,Tamil Nadu,6
+CUST_02641,Retail,Maharashtra,27
+CUST_02642,Retail,Karnataka,36
+CUST_02643,Student,Maharashtra,15
+CUST_02644,Premium,Karnataka,37
+CUST_02645,Retail,Tamil Nadu,58
+CUST_02646,Retail,Gujarat,5
+CUST_02647,Corporate,Maharashtra,39
+CUST_02648,Premium,Karnataka,9
+CUST_02649,Retail,Karnataka,7
+CUST_02650,Premium,Delhi,41
+CUST_02651,Retail,Tamil Nadu,20
+CUST_02652,Retail,Tamil Nadu,10
+CUST_02653,Retail,Tamil Nadu,26
+CUST_02654,Retail,Kerala,4
+CUST_02655,Student,West Bengal,38
+CUST_02656,Retail,West Bengal,24
+CUST_02657,Student,Gujarat,14
+CUST_02658,Small Business,Gujarat,41
+CUST_02659,Retail,Maharashtra,1
+CUST_02660,Student,Gujarat,17
+CUST_02661,Premium,Tamil Nadu,45
+CUST_02662,Small Business,Delhi,24
+CUST_02663,Retail,West Bengal,27
+CUST_02664,Student,Maharashtra,7
+CUST_02665,Premium,Maharashtra,9
+CUST_02666,Retail,Karnataka,43
+CUST_02667,Retail,Gujarat,35
+CUST_02668,Student,Gujarat,58
+CUST_02669,Student,Telangana,12
+CUST_02670,Retail,Maharashtra,21
+CUST_02671,Premium,West Bengal,3
+CUST_02672,Retail,Delhi,15
+CUST_02673,Student,Telangana,21
+CUST_02674,Retail,Delhi,10
+CUST_02675,Small Business,Maharashtra,33
+CUST_02676,Retail,Delhi,46
+CUST_02677,Retail,West Bengal,59
+CUST_02678,Retail,Uttar Pradesh,52
+CUST_02679,Retail,Tamil Nadu,6
+CUST_02680,Premium,Tamil Nadu,2
+CUST_02681,Retail,Uttar Pradesh,29
+CUST_02682,Small Business,Delhi,55
+CUST_02683,Retail,Delhi,40
+CUST_02684,Retail,Maharashtra,33
+CUST_02685,Retail,Tamil Nadu,4
+CUST_02686,Retail,West Bengal,59
+CUST_02687,Retail,West Bengal,4
+CUST_02688,Retail,Karnataka,29
+CUST_02689,Premium,Karnataka,37
+CUST_02690,Retail,Kerala,60
+CUST_02691,Premium,Tamil Nadu,60
+CUST_02692,Premium,Telangana,20
+CUST_02693,Retail,Karnataka,41
+CUST_02694,Premium,Delhi,23
+CUST_02695,Corporate,Uttar Pradesh,45
+CUST_02696,Premium,Gujarat,18
+CUST_02697,Student,Maharashtra,49
+CUST_02698,Retail,Gujarat,25
+CUST_02699,Student,Maharashtra,1
+CUST_02700,Student,Karnataka,54
+CUST_02701,Premium,Rajasthan,15
+CUST_02702,Corporate,West Bengal,34
+CUST_02703,Retail,Gujarat,48
+CUST_02704,Retail,Maharashtra,20
+CUST_02705,Student,Tamil Nadu,54
+CUST_02706,Student,Tamil Nadu,37
+CUST_02707,Retail,Delhi,27
+CUST_02708,Retail,West Bengal,22
+CUST_02709,Retail,Delhi,51
+CUST_02710,Retail,Kerala,5
+CUST_02711,Student,Tamil Nadu,34
+CUST_02712,Premium,Maharashtra,39
+CUST_02713,Retail,Karnataka,3
+CUST_02714,Retail,Maharashtra,17
+CUST_02715,Retail,Tamil Nadu,24
+CUST_02716,Retail,Uttar Pradesh,24
+CUST_02717,Premium,Karnataka,3
+CUST_02718,Corporate,Uttar Pradesh,45
+CUST_02719,Small Business,Maharashtra,7
+CUST_02720,Retail,Rajasthan,25
+CUST_02721,Small Business,Delhi,56
+CUST_02722,Student,Uttar Pradesh,3
+CUST_02723,Student,Tamil Nadu,15
+CUST_02724,Premium,West Bengal,29
+CUST_02725,Retail,Telangana,50
+CUST_02726,Retail,Tamil Nadu,29
+CUST_02727,Retail,Tamil Nadu,10
+CUST_02728,Retail,Maharashtra,32
+CUST_02729,Retail,Uttar Pradesh,23
+CUST_02730,Premium,Delhi,39
+CUST_02731,Student,Delhi,9
+CUST_02732,Premium,Tamil Nadu,37
+CUST_02733,Retail,Tamil Nadu,52
+CUST_02734,Corporate,Kerala,40
+CUST_02735,Small Business,Tamil Nadu,14
+CUST_02736,Student,Delhi,4
+CUST_02737,Corporate,Telangana,20
+CUST_02738,Premium,Karnataka,28
+CUST_02739,Corporate,Gujarat,14
+CUST_02740,Retail,Tamil Nadu,44
+CUST_02741,Retail,Delhi,34
+CUST_02742,Retail,Tamil Nadu,13
+CUST_02743,Retail,West Bengal,31
+CUST_02744,Retail,Karnataka,33
+CUST_02745,Premium,Maharashtra,52
+CUST_02746,Student,Delhi,39
+CUST_02747,Premium,Tamil Nadu,28
+CUST_02748,Retail,West Bengal,25
+CUST_02749,Student,Karnataka,32
+CUST_02750,Premium,Gujarat,9
+CUST_02751,Retail,Tamil Nadu,28
+CUST_02752,Student,Gujarat,58
+CUST_02753,Retail,Tamil Nadu,31
+CUST_02754,Retail,Maharashtra,17
+CUST_02755,Small Business,Karnataka,53
+CUST_02756,Retail,West Bengal,23
+CUST_02757,Premium,Karnataka,13
+CUST_02758,Small Business,Telangana,55
+CUST_02759,Student,Telangana,10
+CUST_02760,Retail,Karnataka,16
+CUST_02761,Retail,Delhi,6
+CUST_02762,Retail,Tamil Nadu,48
+CUST_02763,Premium,Maharashtra,11
+CUST_02764,Retail,Gujarat,58
+CUST_02765,Retail,Gujarat,52
+CUST_02766,Corporate,Delhi,3
+CUST_02767,Premium,Karnataka,28
+CUST_02768,Retail,Maharashtra,41
+CUST_02769,Premium,Tamil Nadu,15
+CUST_02770,Student,Gujarat,60
+CUST_02771,Retail,Maharashtra,13
+CUST_02772,Retail,Gujarat,42
+CUST_02773,Student,Karnataka,52
+CUST_02774,Premium,Karnataka,56
+CUST_02775,Premium,Karnataka,45
+CUST_02776,Retail,Tamil Nadu,17
+CUST_02777,Retail,Maharashtra,7
+CUST_02778,Retail,Kerala,28
+CUST_02779,Retail,Telangana,38
+CUST_02780,Retail,Maharashtra,13
+CUST_02781,Retail,Maharashtra,60
+CUST_02782,Small Business,Tamil Nadu,17
+CUST_02783,Corporate,Telangana,15
+CUST_02784,Student,Tamil Nadu,36
+CUST_02785,Small Business,Uttar Pradesh,28
+CUST_02786,Retail,Maharashtra,15
+CUST_02787,Corporate,Maharashtra,46
+CUST_02788,Retail,Uttar Pradesh,53
+CUST_02789,Corporate,Tamil Nadu,11
+CUST_02790,Corporate,Delhi,56
+CUST_02791,Student,Delhi,31
+CUST_02792,Corporate,Karnataka,4
+CUST_02793,Premium,Maharashtra,35
+CUST_02794,Retail,Gujarat,34
+CUST_02795,Retail,West Bengal,52
+CUST_02796,Premium,Tamil Nadu,27
+CUST_02797,Retail,Uttar Pradesh,10
+CUST_02798,Premium,Tamil Nadu,30
+CUST_02799,Corporate,Karnataka,45
+CUST_02800,Retail,Karnataka,20
+CUST_02801,Student,Tamil Nadu,29
+CUST_02802,Small Business,Tamil Nadu,58
+CUST_02803,Small Business,Rajasthan,53
+CUST_02804,Corporate,Karnataka,29
+CUST_02805,Premium,Tamil Nadu,23
+CUST_02806,Corporate,Tamil Nadu,57
+CUST_02807,Student,Gujarat,50
+CUST_02808,Retail,Telangana,21
+CUST_02809,Premium,Karnataka,48
+CUST_02810,Student,Tamil Nadu,43
+CUST_02811,Retail,Karnataka,10
+CUST_02812,Premium,Tamil Nadu,41
+CUST_02813,Student,Tamil Nadu,12
+CUST_02814,Retail,Maharashtra,30
+CUST_02815,Premium,Karnataka,51
+CUST_02816,Student,Maharashtra,33
+CUST_02817,Premium,Karnataka,18
+CUST_02818,Retail,Uttar Pradesh,14
+CUST_02819,Retail,Telangana,22
+CUST_02820,Retail,Delhi,21
+CUST_02821,Small Business,Maharashtra,1
+CUST_02822,Retail,Maharashtra,49
+CUST_02823,Premium,Maharashtra,43
+CUST_02824,Retail,West Bengal,52
+CUST_02825,Retail,Maharashtra,60
+CUST_02826,Small Business,Telangana,15
+CUST_02827,Student,Uttar Pradesh,36
+CUST_02828,Retail,Karnataka,47
+CUST_02829,Retail,Delhi,54
+CUST_02830,Retail,Tamil Nadu,22
+CUST_02831,Premium,Karnataka,32
+CUST_02832,Student,Maharashtra,58
+CUST_02833,Retail,Karnataka,46
+CUST_02834,Retail,Telangana,54
+CUST_02835,Retail,Tamil Nadu,33
+CUST_02836,Small Business,Maharashtra,58
+CUST_02837,Corporate,Delhi,41
+CUST_02838,Retail,Gujarat,59
+CUST_02839,Student,Maharashtra,39
+CUST_02840,Retail,Telangana,23
+CUST_02841,Retail,Delhi,43
+CUST_02842,Student,Maharashtra,55
+CUST_02843,Small Business,Tamil Nadu,2
+CUST_02844,Corporate,Maharashtra,2
+CUST_02845,Premium,Kerala,38
+CUST_02846,Retail,Delhi,55
+CUST_02847,Student,Kerala,51
+CUST_02848,Retail,Maharashtra,29
+CUST_02849,Premium,Tamil Nadu,52
+CUST_02850,Retail,Tamil Nadu,46
+CUST_02851,Student,Karnataka,60
+CUST_02852,Retail,Gujarat,3
+CUST_02853,Retail,Kerala,39
+CUST_02854,Small Business,Karnataka,7
+CUST_02855,Retail,Maharashtra,36
+CUST_02856,Premium,Maharashtra,29
+CUST_02857,Retail,Maharashtra,55
+CUST_02858,Retail,Karnataka,37
+CUST_02859,Retail,Tamil Nadu,49
+CUST_02860,Retail,Karnataka,58
+CUST_02861,Small Business,Tamil Nadu,36
+CUST_02862,Retail,Karnataka,23
+CUST_02863,Corporate,Tamil Nadu,45
+CUST_02864,Premium,Delhi,16
+CUST_02865,Retail,Karnataka,48
+CUST_02866,Premium,Rajasthan,31
+CUST_02867,Premium,Karnataka,34
+CUST_02868,Student,Maharashtra,50
+CUST_02869,Retail,Maharashtra,1
+CUST_02870,Retail,Tamil Nadu,18
+CUST_02871,Small Business,Kerala,58
+CUST_02872,Small Business,Tamil Nadu,40
+CUST_02873,Small Business,Uttar Pradesh,43
+CUST_02874,Retail,Telangana,56
+CUST_02875,Student,Delhi,56
+CUST_02876,Premium,Delhi,15
+CUST_02877,Premium,Gujarat,48
+CUST_02878,Retail,Maharashtra,49
+CUST_02879,Premium,Gujarat,17
+CUST_02880,Retail,Tamil Nadu,44
+CUST_02881,Retail,Tamil Nadu,10
+CUST_02882,Small Business,Maharashtra,20
+CUST_02883,Retail,Delhi,6
+CUST_02884,Retail,Telangana,8
+CUST_02885,Retail,Tamil Nadu,45
+CUST_02886,Small Business,Kerala,34
+CUST_02887,Premium,Karnataka,32
+CUST_02888,Retail,Maharashtra,51
+CUST_02889,Student,Karnataka,54
+CUST_02890,Small Business,Maharashtra,42
+CUST_02891,Retail,Tamil Nadu,4
+CUST_02892,Student,Maharashtra,44
+CUST_02893,Student,Kerala,50
+CUST_02894,Student,Maharashtra,39
+CUST_02895,Retail,Maharashtra,20
+CUST_02896,Small Business,Kerala,24
+CUST_02897,Premium,Gujarat,24
+CUST_02898,Retail,Maharashtra,55
+CUST_02899,Retail,Karnataka,26
+CUST_02900,Retail,Telangana,25
+CUST_02901,Retail,Delhi,36
+CUST_02902,Student,Karnataka,7
+CUST_02903,Retail,Karnataka,10
+CUST_02904,Retail,Kerala,58
+CUST_02905,Premium,Tamil Nadu,47
+CUST_02906,Retail,Rajasthan,12
+CUST_02907,Corporate,Tamil Nadu,1
+CUST_02908,Retail,Kerala,52
+CUST_02909,Retail,Maharashtra,50
+CUST_02910,Retail,Maharashtra,25
+CUST_02911,Retail,Telangana,16
+CUST_02912,Retail,Maharashtra,5
+CUST_02913,Student,Delhi,19
+CUST_02914,Corporate,Tamil Nadu,4
+CUST_02915,Retail,Tamil Nadu,6
+CUST_02916,Student,Karnataka,26
+CUST_02917,Student,Gujarat,49
+CUST_02918,Small Business,Tamil Nadu,39
+CUST_02919,Retail,Tamil Nadu,56
+CUST_02920,Retail,Maharashtra,55
+CUST_02921,Retail,Gujarat,39
+CUST_02922,Student,Gujarat,9
+CUST_02923,Student,Tamil Nadu,45
+CUST_02924,Retail,Tamil Nadu,52
+CUST_02925,Retail,Uttar Pradesh,14
+CUST_02926,Small Business,Karnataka,48
+CUST_02927,Student,Telangana,55
+CUST_02928,Corporate,Telangana,9
+CUST_02929,Student,West Bengal,15
+CUST_02930,Retail,Tamil Nadu,37
+CUST_02931,Premium,Kerala,50
+CUST_02932,Student,West Bengal,53
+CUST_02933,Retail,Delhi,20
+CUST_02934,Premium,Karnataka,8
+CUST_02935,Student,Karnataka,32
+CUST_02936,Retail,Tamil Nadu,47
+CUST_02937,Student,Maharashtra,21
+CUST_02938,Premium,Delhi,57
+CUST_02939,Corporate,Maharashtra,41
+CUST_02940,Retail,Maharashtra,19
+CUST_02941,Retail,Maharashtra,29
+CUST_02942,Premium,Gujarat,58
+CUST_02943,Retail,Telangana,31
+CUST_02944,Student,Tamil Nadu,54
+CUST_02945,Student,Maharashtra,6
+CUST_02946,Retail,Tamil Nadu,4
+CUST_02947,Premium,Delhi,43
+CUST_02948,Premium,West Bengal,29
+CUST_02949,Retail,Uttar Pradesh,42
+CUST_02950,Small Business,Karnataka,3
+CUST_02951,Student,Uttar Pradesh,1
+CUST_02952,Student,Tamil Nadu,44
+CUST_02953,Student,Delhi,55
+CUST_02954,Premium,Tamil Nadu,15
+CUST_02955,Small Business,Telangana,47
+CUST_02956,Student,Delhi,21
+CUST_02957,Student,Gujarat,46
+CUST_02958,Small Business,Kerala,58
+CUST_02959,Retail,Tamil Nadu,31
+CUST_02960,Student,Tamil Nadu,7
+CUST_02961,Retail,Telangana,17
+CUST_02962,Retail,Karnataka,56
+CUST_02963,Retail,Tamil Nadu,19
+CUST_02964,Corporate,Maharashtra,39
+CUST_02965,Small Business,Delhi,60
+CUST_02966,Student,Tamil Nadu,3
+CUST_02967,Student,Karnataka,30
+CUST_02968,Premium,Tamil Nadu,35
+CUST_02969,Small Business,Maharashtra,58
+CUST_02970,Premium,Telangana,57
+CUST_02971,Retail,Rajasthan,29
+CUST_02972,Retail,Delhi,50
+CUST_02973,Student,Tamil Nadu,52
+CUST_02974,Student,Telangana,54
+CUST_02975,Retail,Maharashtra,14
+CUST_02976,Retail,Tamil Nadu,35
+CUST_02977,Small Business,Uttar Pradesh,28
+CUST_02978,Retail,West Bengal,58
+CUST_02979,Student,West Bengal,30
+CUST_02980,Corporate,Gujarat,26
+CUST_02981,Retail,Karnataka,7
+CUST_02982,Retail,Karnataka,39
+CUST_02983,Student,Gujarat,31
+CUST_02984,Student,Karnataka,5
+CUST_02985,Premium,Maharashtra,35
+CUST_02986,Corporate,West Bengal,50
+CUST_02987,Retail,West Bengal,47
+CUST_02988,Premium,Maharashtra,52
+CUST_02989,Student,Kerala,14
+CUST_02990,Small Business,Kerala,36
+CUST_02991,Retail,Gujarat,27
+CUST_02992,Student,Karnataka,24
+CUST_02993,Premium,Karnataka,40
+CUST_02994,Retail,Karnataka,29
+CUST_02995,Retail,Tamil Nadu,53
+CUST_02996,Small Business,Karnataka,45
+CUST_02997,Retail,Karnataka,22
+CUST_02998,Retail,Maharashtra,8
+CUST_02999,Retail,Telangana,15
+CUST_03000,Small Business,Tamil Nadu,49
+CUST_03001,Student,West Bengal,5
+CUST_03002,Student,Gujarat,52
+CUST_03003,Retail,Tamil Nadu,4
+CUST_03004,Premium,Uttar Pradesh,11
+CUST_03005,Premium,Delhi,18
+CUST_03006,Small Business,Maharashtra,42
+CUST_03007,Small Business,West Bengal,49
+CUST_03008,Retail,Karnataka,30
+CUST_03009,Student,Gujarat,15
+CUST_03010,Retail,Tamil Nadu,6
+CUST_03011,Premium,Kerala,55
+CUST_03012,Retail,Maharashtra,53
+CUST_03013,Retail,Delhi,16
+CUST_03014,Retail,Karnataka,47
+CUST_03015,Premium,Gujarat,40
+CUST_03016,Retail,West Bengal,9
+CUST_03017,Student,Maharashtra,43
+CUST_03018,Retail,Delhi,59
+CUST_03019,Retail,Maharashtra,34
+CUST_03020,Student,Telangana,27
+CUST_03021,Retail,Maharashtra,13
+CUST_03022,Retail,Kerala,36
+CUST_03023,Student,Kerala,27
+CUST_03024,Retail,Maharashtra,9
+CUST_03025,Retail,Karnataka,5
+CUST_03026,Retail,Maharashtra,51
+CUST_03027,Small Business,Kerala,22
+CUST_03028,Premium,Karnataka,31
+CUST_03029,Student,Delhi,3
+CUST_03030,Premium,Kerala,30
+CUST_03031,Retail,Maharashtra,21
+CUST_03032,Retail,Gujarat,35
+CUST_03033,Student,Karnataka,6
+CUST_03034,Retail,Tamil Nadu,28
+CUST_03035,Retail,Kerala,32
+CUST_03036,Retail,Tamil Nadu,42
+CUST_03037,Retail,Karnataka,37
+CUST_03038,Corporate,Telangana,25
+CUST_03039,Retail,Maharashtra,32
+CUST_03040,Premium,Rajasthan,35
+CUST_03041,Retail,Rajasthan,22
+CUST_03042,Corporate,Karnataka,24
+CUST_03043,Retail,Tamil Nadu,39
+CUST_03044,Retail,Gujarat,54
+CUST_03045,Student,Maharashtra,30
+CUST_03046,Student,Tamil Nadu,50
+CUST_03047,Retail,Gujarat,32
+CUST_03048,Retail,Tamil Nadu,31
+CUST_03049,Retail,Telangana,23
+CUST_03050,Retail,Tamil Nadu,40
+CUST_03051,Retail,Tamil Nadu,33
+CUST_03052,Premium,Tamil Nadu,25
+CUST_03053,Retail,Uttar Pradesh,36
+CUST_03054,Retail,Gujarat,24
+CUST_03055,Student,Kerala,31
+CUST_03056,Corporate,Maharashtra,58
+CUST_03057,Premium,Karnataka,39
+CUST_03058,Retail,Karnataka,46
+CUST_03059,Retail,Maharashtra,13
+CUST_03060,Corporate,Delhi,10
+CUST_03061,Retail,Delhi,23
+CUST_03062,Retail,Karnataka,18
+CUST_03063,Premium,Uttar Pradesh,32
+CUST_03064,Premium,Tamil Nadu,33
+CUST_03065,Premium,Uttar Pradesh,36
+CUST_03066,Retail,Tamil Nadu,28
+CUST_03067,Retail,Maharashtra,16
+CUST_03068,Corporate,Karnataka,16
+CUST_03069,Retail,Maharashtra,18
+CUST_03070,Student,Delhi,8
+CUST_03071,Student,Maharashtra,42
+CUST_03072,Premium,Maharashtra,16
+CUST_03073,Retail,West Bengal,55
+CUST_03074,Retail,Gujarat,56
+CUST_03075,Premium,Kerala,11
+CUST_03076,Small Business,Karnataka,6
+CUST_03077,Small Business,Delhi,1
+CUST_03078,Retail,Delhi,12
+CUST_03079,Retail,Maharashtra,57
+CUST_03080,Small Business,Maharashtra,38
+CUST_03081,Student,Karnataka,28
+CUST_03082,Small Business,Tamil Nadu,45
+CUST_03083,Retail,Karnataka,58
+CUST_03084,Premium,Tamil Nadu,17
+CUST_03085,Student,Gujarat,1
+CUST_03086,Student,Gujarat,32
+CUST_03087,Retail,Uttar Pradesh,8
+CUST_03088,Retail,West Bengal,54
+CUST_03089,Premium,Tamil Nadu,40
+CUST_03090,Retail,Telangana,56
+CUST_03091,Premium,Telangana,43
+CUST_03092,Corporate,Maharashtra,46
+CUST_03093,Retail,Delhi,24
+CUST_03094,Small Business,Rajasthan,10
+CUST_03095,Retail,Delhi,47
+CUST_03096,Student,Telangana,39
+CUST_03097,Corporate,Tamil Nadu,39
+CUST_03098,Retail,Karnataka,10
+CUST_03099,Retail,Maharashtra,36
+CUST_03100,Retail,Delhi,25
+CUST_03101,Retail,Kerala,60
+CUST_03102,Student,Rajasthan,50
+CUST_03103,Small Business,Maharashtra,59
+CUST_03104,Retail,Tamil Nadu,57
+CUST_03105,Retail,Kerala,10
+CUST_03106,Retail,Delhi,19
+CUST_03107,Student,Karnataka,46
+CUST_03108,Retail,Maharashtra,45
+CUST_03109,Premium,West Bengal,15
+CUST_03110,Premium,West Bengal,16
+CUST_03111,Premium,Maharashtra,2
+CUST_03112,Retail,Karnataka,29
+CUST_03113,Student,Rajasthan,4
+CUST_03114,Retail,Gujarat,53
+CUST_03115,Retail,Maharashtra,50
+CUST_03116,Small Business,Karnataka,29
+CUST_03117,Student,West Bengal,31
+CUST_03118,Retail,Karnataka,17
+CUST_03119,Retail,Tamil Nadu,10
+CUST_03120,Retail,Delhi,27
+CUST_03121,Retail,Karnataka,53
+CUST_03122,Retail,Delhi,41
+CUST_03123,Retail,Tamil Nadu,15
+CUST_03124,Premium,Gujarat,60
+CUST_03125,Student,Karnataka,44
+CUST_03126,Premium,Tamil Nadu,31
+CUST_03127,Student,Tamil Nadu,21
+CUST_03128,Retail,Uttar Pradesh,60
+CUST_03129,Corporate,Telangana,59
+CUST_03130,Small Business,Karnataka,58
+CUST_03131,Student,West Bengal,41
+CUST_03132,Student,Delhi,46
+CUST_03133,Small Business,Rajasthan,45
+CUST_03134,Premium,Maharashtra,60
+CUST_03135,Retail,Gujarat,26
+CUST_03136,Premium,Tamil Nadu,38
+CUST_03137,Student,Maharashtra,51
+CUST_03138,Student,Uttar Pradesh,36
+CUST_03139,Premium,Delhi,52
+CUST_03140,Retail,Karnataka,17
+CUST_03141,Retail,Tamil Nadu,51
+CUST_03142,Small Business,Gujarat,3
+CUST_03143,Premium,Gujarat,14
+CUST_03144,Premium,Maharashtra,49
+CUST_03145,Retail,Uttar Pradesh,13
+CUST_03146,Retail,Tamil Nadu,41
+CUST_03147,Small Business,Karnataka,27
+CUST_03148,Student,Uttar Pradesh,1
+CUST_03149,Student,Karnataka,57
+CUST_03150,Premium,Karnataka,17
+CUST_03151,Premium,Delhi,48
+CUST_03152,Retail,Kerala,50
+CUST_03153,Student,Tamil Nadu,34
+CUST_03154,Retail,Uttar Pradesh,14
+CUST_03155,Retail,Kerala,54
+CUST_03156,Premium,Karnataka,55
+CUST_03157,Small Business,Gujarat,59
+CUST_03158,Retail,Maharashtra,17
+CUST_03159,Student,Maharashtra,3
+CUST_03160,Retail,West Bengal,34
+CUST_03161,Retail,Uttar Pradesh,40
+CUST_03162,Retail,Tamil Nadu,25
+CUST_03163,Retail,Maharashtra,2
+CUST_03164,Premium,Maharashtra,34
+CUST_03165,Retail,Maharashtra,26
+CUST_03166,Premium,Maharashtra,31
+CUST_03167,Small Business,Tamil Nadu,9
+CUST_03168,Retail,Gujarat,30
+CUST_03169,Student,Maharashtra,20
+CUST_03170,Retail,Karnataka,21
+CUST_03171,Student,Kerala,29
+CUST_03172,Retail,Kerala,59
+CUST_03173,Retail,Maharashtra,25
+CUST_03174,Retail,Karnataka,38
+CUST_03175,Retail,Delhi,58
+CUST_03176,Retail,Karnataka,44
+CUST_03177,Student,Karnataka,25
+CUST_03178,Small Business,West Bengal,9
+CUST_03179,Student,Tamil Nadu,39
+CUST_03180,Student,Tamil Nadu,44
+CUST_03181,Retail,Tamil Nadu,26
+CUST_03182,Retail,Tamil Nadu,57
+CUST_03183,Retail,Tamil Nadu,37
+CUST_03184,Retail,Rajasthan,16
+CUST_03185,Premium,Karnataka,37
+CUST_03186,Premium,Tamil Nadu,12
+CUST_03187,Retail,Karnataka,24
+CUST_03188,Retail,Uttar Pradesh,26
+CUST_03189,Student,Delhi,20
+CUST_03190,Student,Maharashtra,9
+CUST_03191,Retail,Telangana,23
+CUST_03192,Small Business,Maharashtra,39
+CUST_03193,Corporate,Karnataka,29
+CUST_03194,Retail,Karnataka,31
+CUST_03195,Retail,Maharashtra,19
+CUST_03196,Premium,Karnataka,20
+CUST_03197,Small Business,Gujarat,23
+CUST_03198,Small Business,Karnataka,43
+CUST_03199,Retail,Delhi,27
+CUST_03200,Retail,Tamil Nadu,30
+CUST_03201,Premium,Karnataka,21
+CUST_03202,Premium,Maharashtra,44
+CUST_03203,Retail,Uttar Pradesh,35
+CUST_03204,Small Business,Maharashtra,49
+CUST_03205,Student,Gujarat,7
+CUST_03206,Small Business,Karnataka,22
+CUST_03207,Small Business,Tamil Nadu,10
+CUST_03208,Student,Tamil Nadu,23
+CUST_03209,Retail,Karnataka,15
+CUST_03210,Premium,Tamil Nadu,30
+CUST_03211,Retail,Tamil Nadu,34
+CUST_03212,Student,West Bengal,13
+CUST_03213,Retail,Tamil Nadu,60
+CUST_03214,Student,Delhi,4
+CUST_03215,Retail,Maharashtra,18
+CUST_03216,Retail,Maharashtra,56
+CUST_03217,Retail,Delhi,23
+CUST_03218,Retail,Karnataka,33
+CUST_03219,Student,Karnataka,34
+CUST_03220,Student,West Bengal,34
+CUST_03221,Premium,Telangana,36
+CUST_03222,Retail,Karnataka,35
+CUST_03223,Retail,Tamil Nadu,17
+CUST_03224,Retail,Telangana,28
+CUST_03225,Retail,Maharashtra,14
+CUST_03226,Small Business,Delhi,34
+CUST_03227,Retail,Maharashtra,48
+CUST_03228,Retail,Tamil Nadu,11
+CUST_03229,Retail,Delhi,57
+CUST_03230,Retail,Delhi,13
+CUST_03231,Premium,Karnataka,33
+CUST_03232,Premium,Maharashtra,57
+CUST_03233,Retail,Kerala,55
+CUST_03234,Retail,Delhi,2
+CUST_03235,Retail,Tamil Nadu,34
+CUST_03236,Retail,Delhi,53
+CUST_03237,Retail,Gujarat,29
+CUST_03238,Corporate,Kerala,37
+CUST_03239,Premium,Delhi,4
+CUST_03240,Premium,Tamil Nadu,12
+CUST_03241,Retail,Gujarat,26
+CUST_03242,Retail,Gujarat,58
+CUST_03243,Premium,Tamil Nadu,28
+CUST_03244,Student,Maharashtra,3
+CUST_03245,Student,Karnataka,20
+CUST_03246,Retail,Gujarat,10
+CUST_03247,Premium,Karnataka,52
+CUST_03248,Retail,Delhi,18
+CUST_03249,Small Business,Telangana,53
+CUST_03250,Premium,Kerala,53
+CUST_03251,Premium,Uttar Pradesh,53
+CUST_03252,Retail,Rajasthan,27
+CUST_03253,Premium,Tamil Nadu,31
+CUST_03254,Retail,Delhi,27
+CUST_03255,Retail,Maharashtra,42
+CUST_03256,Retail,Telangana,1
+CUST_03257,Student,Karnataka,6
+CUST_03258,Retail,Rajasthan,11
+CUST_03259,Retail,Delhi,34
+CUST_03260,Small Business,Kerala,39
+CUST_03261,Retail,Tamil Nadu,20
+CUST_03262,Premium,Karnataka,53
+CUST_03263,Retail,West Bengal,21
+CUST_03264,Retail,Tamil Nadu,21
+CUST_03265,Student,Kerala,18
+CUST_03266,Retail,Tamil Nadu,21
+CUST_03267,Premium,Gujarat,19
+CUST_03268,Premium,Maharashtra,4
+CUST_03269,Premium,Delhi,13
+CUST_03270,Student,Gujarat,18
+CUST_03271,Retail,Maharashtra,52
+CUST_03272,Retail,Tamil Nadu,29
+CUST_03273,Student,Tamil Nadu,25
+CUST_03274,Premium,Delhi,56
+CUST_03275,Small Business,Delhi,13
+CUST_03276,Student,West Bengal,27
+CUST_03277,Small Business,Maharashtra,60
+CUST_03278,Premium,Maharashtra,19
+CUST_03279,Retail,Maharashtra,49
+CUST_03280,Student,Tamil Nadu,1
+CUST_03281,Premium,Karnataka,38
+CUST_03282,Retail,Rajasthan,19
+CUST_03283,Small Business,Telangana,52
+CUST_03284,Small Business,Karnataka,1
+CUST_03285,Premium,Delhi,40
+CUST_03286,Retail,Kerala,17
+CUST_03287,Retail,Maharashtra,21
+CUST_03288,Student,Tamil Nadu,22
+CUST_03289,Small Business,Tamil Nadu,15
+CUST_03290,Retail,Maharashtra,50
+CUST_03291,Retail,Uttar Pradesh,39
+CUST_03292,Small Business,Gujarat,48
+CUST_03293,Retail,Tamil Nadu,39
+CUST_03294,Premium,Karnataka,32
+CUST_03295,Corporate,West Bengal,49
+CUST_03296,Retail,Kerala,4
+CUST_03297,Premium,Delhi,44
+CUST_03298,Retail,Gujarat,45
+CUST_03299,Retail,Tamil Nadu,32
+CUST_03300,Student,Kerala,4
+CUST_03301,Retail,West Bengal,53
+CUST_03302,Corporate,Karnataka,1
+CUST_03303,Premium,Gujarat,33
+CUST_03304,Retail,Karnataka,7
+CUST_03305,Retail,Tamil Nadu,9
+CUST_03306,Retail,Karnataka,1
+CUST_03307,Retail,Tamil Nadu,16
+CUST_03308,Retail,Karnataka,18
+CUST_03309,Retail,Maharashtra,54
+CUST_03310,Premium,Maharashtra,47
+CUST_03311,Student,Maharashtra,6
+CUST_03312,Student,Karnataka,2
+CUST_03313,Student,Tamil Nadu,9
+CUST_03314,Retail,Delhi,4
+CUST_03315,Retail,Maharashtra,45
+CUST_03316,Student,Karnataka,23
+CUST_03317,Premium,Telangana,54
+CUST_03318,Retail,West Bengal,43
+CUST_03319,Student,Telangana,45
+CUST_03320,Student,Maharashtra,43
+CUST_03321,Premium,Tamil Nadu,51
+CUST_03322,Retail,Gujarat,8
+CUST_03323,Student,Karnataka,39
+CUST_03324,Premium,Maharashtra,25
+CUST_03325,Student,Tamil Nadu,16
+CUST_03326,Student,Kerala,35
+CUST_03327,Student,Tamil Nadu,17
+CUST_03328,Premium,Telangana,18
+CUST_03329,Retail,Telangana,60
+CUST_03330,Student,Maharashtra,27
+CUST_03331,Premium,West Bengal,15
+CUST_03332,Student,Delhi,60
+CUST_03333,Retail,Kerala,17
+CUST_03334,Retail,Maharashtra,43
+CUST_03335,Small Business,West Bengal,5
+CUST_03336,Student,Maharashtra,16
+CUST_03337,Small Business,Uttar Pradesh,15
+CUST_03338,Student,Maharashtra,42
+CUST_03339,Premium,Maharashtra,46
+CUST_03340,Student,West Bengal,34
+CUST_03341,Small Business,Kerala,48
+CUST_03342,Premium,Delhi,19
+CUST_03343,Premium,Tamil Nadu,8
+CUST_03344,Retail,Maharashtra,47
+CUST_03345,Premium,Uttar Pradesh,10
+CUST_03346,Student,West Bengal,5
+CUST_03347,Retail,Kerala,52
+CUST_03348,Retail,Tamil Nadu,48
+CUST_03349,Retail,Maharashtra,53
+CUST_03350,Retail,Gujarat,26
+CUST_03351,Retail,Kerala,22
+CUST_03352,Retail,Tamil Nadu,44
+CUST_03353,Small Business,Telangana,23
+CUST_03354,Premium,Delhi,13
+CUST_03355,Retail,Karnataka,9
+CUST_03356,Retail,Karnataka,49
+CUST_03357,Student,Karnataka,20
+CUST_03358,Retail,Delhi,28
+CUST_03359,Student,Tamil Nadu,44
+CUST_03360,Student,Tamil Nadu,57
+CUST_03361,Student,Kerala,37
+CUST_03362,Retail,Tamil Nadu,24
+CUST_03363,Student,Karnataka,44
+CUST_03364,Retail,Maharashtra,33
+CUST_03365,Small Business,Maharashtra,20
+CUST_03366,Premium,West Bengal,60
+CUST_03367,Retail,Maharashtra,48
+CUST_03368,Retail,West Bengal,30
+CUST_03369,Retail,Delhi,44
+CUST_03370,Student,Tamil Nadu,9
+CUST_03371,Retail,Tamil Nadu,45
+CUST_03372,Premium,Maharashtra,49
+CUST_03373,Retail,Maharashtra,17
+CUST_03374,Student,West Bengal,36
+CUST_03375,Student,Delhi,14
+CUST_03376,Student,Maharashtra,19
+CUST_03377,Student,Tamil Nadu,7
+CUST_03378,Retail,Karnataka,59
+CUST_03379,Retail,Delhi,3
+CUST_03380,Student,Maharashtra,33
+CUST_03381,Retail,Maharashtra,44
+CUST_03382,Retail,Tamil Nadu,32
+CUST_03383,Retail,Gujarat,47
+CUST_03384,Retail,Telangana,11
+CUST_03385,Retail,Karnataka,42
+CUST_03386,Small Business,Maharashtra,2
+CUST_03387,Retail,Rajasthan,26
+CUST_03388,Premium,Karnataka,4
+CUST_03389,Retail,Delhi,17
+CUST_03390,Student,Tamil Nadu,17
+CUST_03391,Retail,Delhi,28
+CUST_03392,Small Business,Tamil Nadu,30
+CUST_03393,Small Business,Uttar Pradesh,40
+CUST_03394,Retail,Gujarat,23
+CUST_03395,Small Business,West Bengal,46
+CUST_03396,Corporate,Gujarat,24
+CUST_03397,Student,Delhi,29
+CUST_03398,Small Business,Maharashtra,4
+CUST_03399,Retail,Telangana,38
+CUST_03400,Premium,Uttar Pradesh,29
+CUST_03401,Retail,Maharashtra,19
+CUST_03402,Retail,Uttar Pradesh,27
+CUST_03403,Corporate,Delhi,29
+CUST_03404,Retail,Delhi,56
+CUST_03405,Student,Maharashtra,36
+CUST_03406,Student,Karnataka,35
+CUST_03407,Small Business,Tamil Nadu,52
+CUST_03408,Corporate,Karnataka,6
+CUST_03409,Retail,Maharashtra,59
+CUST_03410,Retail,Maharashtra,23
+CUST_03411,Retail,Maharashtra,39
+CUST_03412,Retail,Rajasthan,46
+CUST_03413,Retail,Maharashtra,44
+CUST_03414,Retail,Maharashtra,48
+CUST_03415,Student,Tamil Nadu,52
+CUST_03416,Premium,Tamil Nadu,8
+CUST_03417,Retail,West Bengal,55
+CUST_03418,Student,Delhi,2
+CUST_03419,Retail,West Bengal,13
+CUST_03420,Retail,Tamil Nadu,40
+CUST_03421,Student,Delhi,57
+CUST_03422,Premium,Karnataka,21
+CUST_03423,Student,Karnataka,31
+CUST_03424,Retail,Tamil Nadu,52
+CUST_03425,Small Business,Tamil Nadu,48
+CUST_03426,Premium,Karnataka,36
+CUST_03427,Premium,Tamil Nadu,48
+CUST_03428,Premium,Rajasthan,52
+CUST_03429,Small Business,Karnataka,38
+CUST_03430,Premium,Tamil Nadu,27
+CUST_03431,Premium,Karnataka,36
+CUST_03432,Corporate,Delhi,48
+CUST_03433,Student,Tamil Nadu,23
+CUST_03434,Retail,Telangana,55
+CUST_03435,Student,Uttar Pradesh,21
+CUST_03436,Retail,Karnataka,13
+CUST_03437,Retail,Maharashtra,37
+CUST_03438,Premium,Tamil Nadu,47
+CUST_03439,Small Business,Gujarat,26
+CUST_03440,Small Business,Maharashtra,40
+CUST_03441,Retail,Karnataka,7
+CUST_03442,Premium,Karnataka,46
+CUST_03443,Retail,Gujarat,39
+CUST_03444,Corporate,Maharashtra,22
+CUST_03445,Corporate,Tamil Nadu,39
+CUST_03446,Premium,Gujarat,23
+CUST_03447,Student,Delhi,58
+CUST_03448,Student,Telangana,30
+CUST_03449,Premium,Tamil Nadu,18
+CUST_03450,Retail,West Bengal,42
+CUST_03451,Premium,Gujarat,18
+CUST_03452,Student,Tamil Nadu,46
+CUST_03453,Student,Gujarat,10
+CUST_03454,Retail,Maharashtra,39
+CUST_03455,Small Business,Uttar Pradesh,30
+CUST_03456,Retail,Tamil Nadu,26
+CUST_03457,Premium,Gujarat,7
+CUST_03458,Student,Maharashtra,7
+CUST_03459,Student,Uttar Pradesh,5
+CUST_03460,Premium,Karnataka,1
+CUST_03461,Retail,Uttar Pradesh,46
+CUST_03462,Retail,Telangana,18
+CUST_03463,Premium,Karnataka,13
+CUST_03464,Premium,Kerala,25
+CUST_03465,Retail,Rajasthan,40
+CUST_03466,Student,Karnataka,8
+CUST_03467,Premium,Maharashtra,10
+CUST_03468,Student,Delhi,32
+CUST_03469,Small Business,Karnataka,17
+CUST_03470,Retail,Tamil Nadu,38
+CUST_03471,Retail,Karnataka,15
+CUST_03472,Student,Karnataka,15
+CUST_03473,Premium,Maharashtra,57
+CUST_03474,Student,Tamil Nadu,48
+CUST_03475,Small Business,Telangana,40
+CUST_03476,Student,Gujarat,51
+CUST_03477,Corporate,Tamil Nadu,20
+CUST_03478,Premium,Gujarat,15
+CUST_03479,Premium,Gujarat,35
+CUST_03480,Retail,Uttar Pradesh,6
+CUST_03481,Retail,Tamil Nadu,30
+CUST_03482,Premium,Karnataka,57
+CUST_03483,Retail,Uttar Pradesh,8
+CUST_03484,Small Business,Uttar Pradesh,31
+CUST_03485,Premium,West Bengal,48
+CUST_03486,Premium,West Bengal,47
+CUST_03487,Retail,Tamil Nadu,32
+CUST_03488,Retail,Maharashtra,45
+CUST_03489,Retail,Karnataka,58
+CUST_03490,Retail,Karnataka,52
+CUST_03491,Retail,Kerala,15
+CUST_03492,Premium,Tamil Nadu,18
+CUST_03493,Small Business,Maharashtra,13
+CUST_03494,Small Business,Uttar Pradesh,24
+CUST_03495,Student,Karnataka,40
+CUST_03496,Retail,Rajasthan,14
+CUST_03497,Small Business,Rajasthan,28
+CUST_03498,Small Business,Delhi,11
+CUST_03499,Retail,Tamil Nadu,6
+CUST_03500,Student,Karnataka,56
+CUST_03501,Retail,Maharashtra,25
+CUST_03502,Student,Karnataka,1
+CUST_03503,Corporate,Karnataka,25
+CUST_03504,Retail,Rajasthan,2
+CUST_03505,Small Business,Tamil Nadu,32
+CUST_03506,Premium,West Bengal,13
+CUST_03507,Corporate,Tamil Nadu,33
+CUST_03508,Premium,Delhi,32
+CUST_03509,Small Business,Telangana,56
+CUST_03510,Retail,Karnataka,24
+CUST_03511,Retail,Karnataka,27
+CUST_03512,Retail,Gujarat,4
+CUST_03513,Corporate,Gujarat,24
+CUST_03514,Student,Gujarat,23
+CUST_03515,Small Business,Karnataka,29
+CUST_03516,Small Business,Karnataka,34
+CUST_03517,Retail,Uttar Pradesh,21
+CUST_03518,Retail,Uttar Pradesh,30
+CUST_03519,Retail,Maharashtra,26
+CUST_03520,Retail,Kerala,20
+CUST_03521,Retail,Maharashtra,16
+CUST_03522,Premium,Maharashtra,3
+CUST_03523,Retail,Tamil Nadu,49
+CUST_03524,Retail,Maharashtra,37
+CUST_03525,Retail,Delhi,58
+CUST_03526,Retail,Tamil Nadu,40
+CUST_03527,Corporate,Maharashtra,44
+CUST_03528,Student,West Bengal,25
+CUST_03529,Corporate,Gujarat,23
+CUST_03530,Retail,Delhi,44
+CUST_03531,Retail,Telangana,59
+CUST_03532,Student,Tamil Nadu,1
+CUST_03533,Retail,Delhi,33
+CUST_03534,Retail,West Bengal,15
+CUST_03535,Retail,Delhi,17
+CUST_03536,Retail,Karnataka,34
+CUST_03537,Retail,Tamil Nadu,17
+CUST_03538,Retail,Telangana,52
+CUST_03539,Student,Maharashtra,58
+CUST_03540,Retail,Telangana,41
+CUST_03541,Retail,Delhi,44
+CUST_03542,Student,Gujarat,4
+CUST_03543,Retail,Kerala,13
+CUST_03544,Retail,Gujarat,4
+CUST_03545,Small Business,Maharashtra,7
+CUST_03546,Retail,Maharashtra,46
+CUST_03547,Retail,Kerala,59
+CUST_03548,Premium,Maharashtra,9
+CUST_03549,Retail,Maharashtra,23
+CUST_03550,Premium,Tamil Nadu,33
+CUST_03551,Student,Telangana,33
+CUST_03552,Retail,Tamil Nadu,20
+CUST_03553,Premium,Gujarat,4
+CUST_03554,Premium,Maharashtra,1
+CUST_03555,Retail,Maharashtra,54
+CUST_03556,Premium,Gujarat,42
+CUST_03557,Retail,Tamil Nadu,34
+CUST_03558,Premium,Delhi,27
+CUST_03559,Retail,West Bengal,21
+CUST_03560,Premium,Kerala,24
+CUST_03561,Retail,Tamil Nadu,15
+CUST_03562,Student,Telangana,35
+CUST_03563,Retail,Gujarat,25
+CUST_03564,Retail,Telangana,55
+CUST_03565,Premium,Maharashtra,9
+CUST_03566,Student,Delhi,17
+CUST_03567,Premium,Telangana,21
+CUST_03568,Student,Telangana,60
+CUST_03569,Student,Maharashtra,13
+CUST_03570,Small Business,Karnataka,3
+CUST_03571,Retail,Maharashtra,4
+CUST_03572,Premium,Maharashtra,4
+CUST_03573,Small Business,Karnataka,43
+CUST_03574,Corporate,Karnataka,28
+CUST_03575,Small Business,Telangana,7
+CUST_03576,Retail,Tamil Nadu,26
+CUST_03577,Retail,Gujarat,11
+CUST_03578,Premium,Tamil Nadu,24
+CUST_03579,Student,Maharashtra,43
+CUST_03580,Premium,Tamil Nadu,10
+CUST_03581,Premium,Karnataka,37
+CUST_03582,Small Business,West Bengal,13
+CUST_03583,Retail,Telangana,44
+CUST_03584,Small Business,Karnataka,42
+CUST_03585,Retail,Maharashtra,39
+CUST_03586,Retail,Maharashtra,19
+CUST_03587,Premium,Telangana,51
+CUST_03588,Student,West Bengal,19
+CUST_03589,Retail,Maharashtra,12
+CUST_03590,Retail,Gujarat,52
+CUST_03591,Corporate,Kerala,22
+CUST_03592,Retail,Tamil Nadu,47
+CUST_03593,Premium,Maharashtra,37
+CUST_03594,Premium,Telangana,56
+CUST_03595,Premium,West Bengal,30
+CUST_03596,Premium,Delhi,46
+CUST_03597,Retail,Delhi,12
+CUST_03598,Premium,Maharashtra,29
+CUST_03599,Retail,Delhi,21
+CUST_03600,Student,Gujarat,11
+CUST_03601,Retail,Maharashtra,60
+CUST_03602,Premium,Gujarat,37
+CUST_03603,Retail,Telangana,48
+CUST_03604,Retail,Tamil Nadu,58
+CUST_03605,Retail,Maharashtra,18
+CUST_03606,Retail,Maharashtra,44
+CUST_03607,Student,Gujarat,59
+CUST_03608,Retail,Karnataka,27
+CUST_03609,Small Business,Gujarat,37
+CUST_03610,Corporate,Telangana,48
+CUST_03611,Premium,Maharashtra,12
+CUST_03612,Retail,Telangana,23
+CUST_03613,Retail,Rajasthan,34
+CUST_03614,Student,Tamil Nadu,38
+CUST_03615,Retail,Karnataka,23
+CUST_03616,Retail,Uttar Pradesh,53
+CUST_03617,Premium,Uttar Pradesh,25
+CUST_03618,Small Business,Tamil Nadu,4
+CUST_03619,Student,Tamil Nadu,30
+CUST_03620,Retail,Tamil Nadu,30
+CUST_03621,Student,Rajasthan,13
+CUST_03622,Retail,Tamil Nadu,42
+CUST_03623,Retail,Maharashtra,49
+CUST_03624,Small Business,Kerala,14
+CUST_03625,Retail,Tamil Nadu,56
+CUST_03626,Retail,Delhi,47
+CUST_03627,Retail,Karnataka,8
+CUST_03628,Small Business,Telangana,55
+CUST_03629,Student,Karnataka,24
+CUST_03630,Premium,Gujarat,18
+CUST_03631,Student,Gujarat,35
+CUST_03632,Retail,Karnataka,25
+CUST_03633,Premium,Tamil Nadu,17
+CUST_03634,Retail,Maharashtra,32
+CUST_03635,Retail,Karnataka,56
+CUST_03636,Premium,Kerala,24
+CUST_03637,Small Business,Kerala,7
+CUST_03638,Retail,Maharashtra,13
+CUST_03639,Retail,Delhi,27
+CUST_03640,Retail,Delhi,48
+CUST_03641,Retail,Kerala,5
+CUST_03642,Small Business,Maharashtra,36
+CUST_03643,Premium,Karnataka,26
+CUST_03644,Premium,Karnataka,42
+CUST_03645,Student,Delhi,45
+CUST_03646,Retail,Maharashtra,31
+CUST_03647,Premium,Maharashtra,10
+CUST_03648,Retail,Tamil Nadu,46
+CUST_03649,Premium,Gujarat,26
+CUST_03650,Corporate,Karnataka,22
+CUST_03651,Student,Karnataka,12
+CUST_03652,Retail,Maharashtra,32
+CUST_03653,Student,Karnataka,27
+CUST_03654,Retail,Delhi,33
+CUST_03655,Retail,Maharashtra,53
+CUST_03656,Retail,Maharashtra,52
+CUST_03657,Retail,Delhi,20
+CUST_03658,Premium,Karnataka,39
+CUST_03659,Premium,Tamil Nadu,41
+CUST_03660,Small Business,Telangana,40
+CUST_03661,Premium,Maharashtra,59
+CUST_03662,Premium,Maharashtra,13
+CUST_03663,Retail,Tamil Nadu,14
+CUST_03664,Retail,Maharashtra,44
+CUST_03665,Premium,Delhi,40
+CUST_03666,Retail,Delhi,53
+CUST_03667,Small Business,Gujarat,22
+CUST_03668,Retail,Tamil Nadu,18
+CUST_03669,Retail,Karnataka,48
+CUST_03670,Retail,Kerala,29
+CUST_03671,Retail,Uttar Pradesh,43
+CUST_03672,Retail,Tamil Nadu,16
+CUST_03673,Student,Maharashtra,46
+CUST_03674,Retail,Karnataka,35
+CUST_03675,Premium,Tamil Nadu,53
+CUST_03676,Retail,Karnataka,34
+CUST_03677,Retail,Tamil Nadu,3
+CUST_03678,Retail,Gujarat,4
+CUST_03679,Student,Delhi,54
+CUST_03680,Retail,Tamil Nadu,5
+CUST_03681,Student,Tamil Nadu,10
+CUST_03682,Retail,Kerala,52
+CUST_03683,Student,Tamil Nadu,29
+CUST_03684,Retail,Delhi,32
+CUST_03685,Student,Karnataka,31
+CUST_03686,Premium,Delhi,2
+CUST_03687,Small Business,Karnataka,12
+CUST_03688,Retail,Tamil Nadu,27
+CUST_03689,Retail,Karnataka,5
+CUST_03690,Retail,Karnataka,37
+CUST_03691,Student,Maharashtra,27
+CUST_03692,Premium,Gujarat,23
+CUST_03693,Student,Karnataka,33
+CUST_03694,Retail,Tamil Nadu,4
+CUST_03695,Retail,Maharashtra,59
+CUST_03696,Retail,Delhi,21
+CUST_03697,Corporate,Uttar Pradesh,24
+CUST_03698,Student,Delhi,44
+CUST_03699,Small Business,Maharashtra,31
+CUST_03700,Retail,Delhi,44
+CUST_03701,Premium,Uttar Pradesh,48
+CUST_03702,Student,Kerala,24
+CUST_03703,Retail,Karnataka,49
+CUST_03704,Small Business,Karnataka,53
+CUST_03705,Small Business,Karnataka,10
+CUST_03706,Small Business,Maharashtra,49
+CUST_03707,Student,West Bengal,49
+CUST_03708,Retail,Maharashtra,50
+CUST_03709,Retail,Tamil Nadu,2
+CUST_03710,Corporate,West Bengal,31
+CUST_03711,Retail,Kerala,25
+CUST_03712,Student,Karnataka,4
+CUST_03713,Student,Gujarat,51
+CUST_03714,Premium,Maharashtra,11
+CUST_03715,Corporate,Telangana,17
+CUST_03716,Retail,Kerala,44
+CUST_03717,Retail,Delhi,2
+CUST_03718,Retail,Gujarat,6
+CUST_03719,Retail,Telangana,9
+CUST_03720,Retail,Maharashtra,5
+CUST_03721,Retail,Karnataka,20
+CUST_03722,Small Business,West Bengal,29
+CUST_03723,Small Business,Karnataka,21
+CUST_03724,Retail,Maharashtra,9
+CUST_03725,Retail,Telangana,28
+CUST_03726,Small Business,West Bengal,55
+CUST_03727,Retail,Maharashtra,8
+CUST_03728,Retail,Karnataka,31
+CUST_03729,Retail,Maharashtra,20
+CUST_03730,Premium,Karnataka,27
+CUST_03731,Retail,Tamil Nadu,8
+CUST_03732,Corporate,West Bengal,54
+CUST_03733,Retail,Karnataka,21
+CUST_03734,Premium,Maharashtra,28
+CUST_03735,Retail,Maharashtra,23
+CUST_03736,Premium,Rajasthan,6
+CUST_03737,Student,Maharashtra,3
+CUST_03738,Student,Tamil Nadu,5
+CUST_03739,Student,Tamil Nadu,9
+CUST_03740,Premium,Delhi,7
+CUST_03741,Small Business,Delhi,60
+CUST_03742,Student,Maharashtra,4
+CUST_03743,Student,Maharashtra,39
+CUST_03744,Retail,Tamil Nadu,5
+CUST_03745,Retail,Maharashtra,11
+CUST_03746,Retail,Maharashtra,15
+CUST_03747,Student,Tamil Nadu,34
+CUST_03748,Retail,Tamil Nadu,13
+CUST_03749,Retail,Tamil Nadu,54
+CUST_03750,Small Business,Tamil Nadu,48
+CUST_03751,Small Business,Delhi,7
+CUST_03752,Small Business,Karnataka,40
+CUST_03753,Retail,Karnataka,6
+CUST_03754,Student,Tamil Nadu,56
+CUST_03755,Retail,Uttar Pradesh,39
+CUST_03756,Retail,Telangana,50
+CUST_03757,Retail,Karnataka,30
+CUST_03758,Retail,Karnataka,22
+CUST_03759,Retail,Karnataka,25
+CUST_03760,Small Business,Maharashtra,28
+CUST_03761,Retail,Tamil Nadu,54
+CUST_03762,Student,Gujarat,20
+CUST_03763,Premium,Delhi,39
+CUST_03764,Retail,Telangana,3
+CUST_03765,Premium,Tamil Nadu,5
+CUST_03766,Retail,Kerala,1
+CUST_03767,Premium,Kerala,15
+CUST_03768,Retail,Tamil Nadu,26
+CUST_03769,Retail,Maharashtra,3
+CUST_03770,Retail,Tamil Nadu,40
+CUST_03771,Premium,Karnataka,57
+CUST_03772,Small Business,Karnataka,41
+CUST_03773,Retail,Delhi,47
+CUST_03774,Student,Maharashtra,42
+CUST_03775,Student,Uttar Pradesh,34
+CUST_03776,Small Business,Tamil Nadu,52
+CUST_03777,Student,Rajasthan,5
+CUST_03778,Premium,Karnataka,31
+CUST_03779,Student,West Bengal,51
+CUST_03780,Small Business,Karnataka,13
+CUST_03781,Retail,Tamil Nadu,43
+CUST_03782,Retail,Telangana,1
+CUST_03783,Retail,Karnataka,22
+CUST_03784,Student,Gujarat,15
+CUST_03785,Student,Delhi,26
+CUST_03786,Retail,Maharashtra,18
+CUST_03787,Premium,Maharashtra,48
+CUST_03788,Premium,West Bengal,9
+CUST_03789,Retail,Tamil Nadu,1
+CUST_03790,Corporate,Gujarat,43
+CUST_03791,Retail,Telangana,9
+CUST_03792,Retail,Tamil Nadu,23
+CUST_03793,Premium,Tamil Nadu,43
+CUST_03794,Student,Gujarat,45
+CUST_03795,Retail,Maharashtra,58
+CUST_03796,Student,Maharashtra,2
+CUST_03797,Premium,Tamil Nadu,14
+CUST_03798,Retail,Maharashtra,38
+CUST_03799,Retail,Tamil Nadu,40
+CUST_03800,Premium,Maharashtra,18
+CUST_03801,Retail,West Bengal,16
+CUST_03802,Small Business,Karnataka,53
+CUST_03803,Student,Maharashtra,29
+CUST_03804,Corporate,Rajasthan,44
+CUST_03805,Retail,Gujarat,11
+CUST_03806,Corporate,Kerala,6
+CUST_03807,Retail,Maharashtra,3
+CUST_03808,Retail,West Bengal,14
+CUST_03809,Retail,Tamil Nadu,60
+CUST_03810,Retail,Tamil Nadu,2
+CUST_03811,Student,Karnataka,32
+CUST_03812,Premium,Maharashtra,31
+CUST_03813,Retail,Kerala,11
+CUST_03814,Premium,Maharashtra,22
+CUST_03815,Retail,Gujarat,3
+CUST_03816,Premium,Gujarat,50
+CUST_03817,Retail,Delhi,31
+CUST_03818,Student,Maharashtra,33
+CUST_03819,Student,Delhi,24
+CUST_03820,Premium,Maharashtra,1
+CUST_03821,Retail,Tamil Nadu,44
+CUST_03822,Retail,Rajasthan,15
+CUST_03823,Student,Tamil Nadu,37
+CUST_03824,Retail,Tamil Nadu,27
+CUST_03825,Retail,Telangana,38
+CUST_03826,Retail,Karnataka,48
+CUST_03827,Premium,Gujarat,27
+CUST_03828,Premium,Karnataka,44
+CUST_03829,Small Business,Maharashtra,12
+CUST_03830,Retail,Karnataka,3
+CUST_03831,Retail,Maharashtra,30
+CUST_03832,Student,Maharashtra,32
+CUST_03833,Student,West Bengal,23
+CUST_03834,Retail,Maharashtra,2
+CUST_03835,Premium,Uttar Pradesh,7
+CUST_03836,Retail,Tamil Nadu,34
+CUST_03837,Small Business,Maharashtra,32
+CUST_03838,Retail,Delhi,53
+CUST_03839,Small Business,Uttar Pradesh,39
+CUST_03840,Student,Tamil Nadu,32
+CUST_03841,Premium,Delhi,43
+CUST_03842,Retail,Telangana,43
+CUST_03843,Premium,Karnataka,14
+CUST_03844,Retail,Telangana,3
+CUST_03845,Retail,Tamil Nadu,46
+CUST_03846,Student,West Bengal,32
+CUST_03847,Corporate,Uttar Pradesh,43
+CUST_03848,Premium,Gujarat,36
+CUST_03849,Student,Maharashtra,17
+CUST_03850,Retail,Tamil Nadu,48
+CUST_03851,Retail,Uttar Pradesh,3
+CUST_03852,Retail,Maharashtra,57
+CUST_03853,Premium,Tamil Nadu,10
+CUST_03854,Small Business,Gujarat,53
+CUST_03855,Student,Maharashtra,47
+CUST_03856,Retail,Tamil Nadu,40
+CUST_03857,Retail,Karnataka,18
+CUST_03858,Premium,Tamil Nadu,3
+CUST_03859,Retail,Delhi,39
+CUST_03860,Small Business,Delhi,10
+CUST_03861,Student,Maharashtra,52
+CUST_03862,Premium,Kerala,9
+CUST_03863,Retail,Telangana,46
+CUST_03864,Retail,Delhi,55
+CUST_03865,Retail,Tamil Nadu,46
+CUST_03866,Retail,Gujarat,11
+CUST_03867,Retail,Maharashtra,60
+CUST_03868,Student,Delhi,33
+CUST_03869,Student,Gujarat,36
+CUST_03870,Retail,Maharashtra,26
+CUST_03871,Retail,Telangana,27
+CUST_03872,Retail,Tamil Nadu,38
+CUST_03873,Retail,Gujarat,22
+CUST_03874,Student,Tamil Nadu,26
+CUST_03875,Retail,Uttar Pradesh,22
+CUST_03876,Retail,Tamil Nadu,5
+CUST_03877,Retail,Tamil Nadu,35
+CUST_03878,Small Business,Karnataka,2
+CUST_03879,Premium,Maharashtra,35
+CUST_03880,Retail,Karnataka,9
+CUST_03881,Premium,Delhi,51
+CUST_03882,Student,Maharashtra,51
+CUST_03883,Corporate,Tamil Nadu,49
+CUST_03884,Retail,Karnataka,18
+CUST_03885,Small Business,Kerala,43
+CUST_03886,Small Business,Gujarat,12
+CUST_03887,Small Business,West Bengal,3
+CUST_03888,Premium,Gujarat,18
+CUST_03889,Premium,Karnataka,56
+CUST_03890,Retail,Tamil Nadu,38
+CUST_03891,Student,Karnataka,7
+CUST_03892,Premium,Kerala,33
+CUST_03893,Student,Rajasthan,6
+CUST_03894,Retail,Maharashtra,18
+CUST_03895,Student,Tamil Nadu,45
+CUST_03896,Student,Tamil Nadu,22
+CUST_03897,Retail,Karnataka,51
+CUST_03898,Small Business,Delhi,39
+CUST_03899,Premium,Tamil Nadu,51
+CUST_03900,Small Business,Uttar Pradesh,9
+CUST_03901,Retail,Maharashtra,35
+CUST_03902,Retail,Telangana,23
+CUST_03903,Small Business,West Bengal,12
+CUST_03904,Retail,West Bengal,52
+CUST_03905,Small Business,Delhi,24
+CUST_03906,Premium,Delhi,50
+CUST_03907,Premium,Delhi,40
+CUST_03908,Retail,Delhi,9
+CUST_03909,Premium,Delhi,13
+CUST_03910,Retail,Rajasthan,40
+CUST_03911,Retail,West Bengal,54
+CUST_03912,Retail,West Bengal,42
+CUST_03913,Retail,Telangana,17
+CUST_03914,Corporate,Karnataka,7
+CUST_03915,Corporate,Tamil Nadu,17
+CUST_03916,Retail,Maharashtra,55
+CUST_03917,Student,Maharashtra,50
+CUST_03918,Retail,Kerala,24
+CUST_03919,Student,Maharashtra,2
+CUST_03920,Student,Delhi,35
+CUST_03921,Small Business,Delhi,28
+CUST_03922,Retail,Tamil Nadu,19
+CUST_03923,Student,Delhi,33
+CUST_03924,Retail,Kerala,21
+CUST_03925,Corporate,Tamil Nadu,53
+CUST_03926,Retail,Delhi,10
+CUST_03927,Premium,Delhi,53
+CUST_03928,Student,Tamil Nadu,46
+CUST_03929,Student,Tamil Nadu,45
+CUST_03930,Retail,Rajasthan,9
+CUST_03931,Small Business,Maharashtra,38
+CUST_03932,Retail,Karnataka,6
+CUST_03933,Premium,Tamil Nadu,51
+CUST_03934,Retail,Gujarat,53
+CUST_03935,Retail,Delhi,42
+CUST_03936,Premium,Gujarat,55
+CUST_03937,Retail,Tamil Nadu,35
+CUST_03938,Retail,Telangana,18
+CUST_03939,Retail,Maharashtra,53
+CUST_03940,Retail,Karnataka,19
+CUST_03941,Student,Maharashtra,5
+CUST_03942,Small Business,Maharashtra,25
+CUST_03943,Retail,Telangana,11
+CUST_03944,Retail,Uttar Pradesh,10
+CUST_03945,Retail,Karnataka,17
+CUST_03946,Retail,Telangana,36
+CUST_03947,Student,West Bengal,26
+CUST_03948,Premium,Uttar Pradesh,31
+CUST_03949,Retail,Karnataka,32
+CUST_03950,Retail,Delhi,21
+CUST_03951,Retail,Karnataka,18
+CUST_03952,Small Business,Kerala,60
+CUST_03953,Corporate,Tamil Nadu,18
+CUST_03954,Retail,Delhi,1
+CUST_03955,Retail,Karnataka,14
+CUST_03956,Small Business,Karnataka,8
+CUST_03957,Small Business,Gujarat,2
+CUST_03958,Retail,Telangana,51
+CUST_03959,Retail,Delhi,15
+CUST_03960,Retail,Telangana,60
+CUST_03961,Premium,Karnataka,34
+CUST_03962,Retail,Maharashtra,36
+CUST_03963,Retail,Maharashtra,1
+CUST_03964,Premium,Tamil Nadu,51
+CUST_03965,Retail,Delhi,21
+CUST_03966,Student,Gujarat,42
+CUST_03967,Retail,Delhi,1
+CUST_03968,Retail,West Bengal,32
+CUST_03969,Premium,Delhi,20
+CUST_03970,Retail,Tamil Nadu,54
+CUST_03971,Corporate,Tamil Nadu,47
+CUST_03972,Premium,Delhi,36
+CUST_03973,Retail,Karnataka,39
+CUST_03974,Student,Tamil Nadu,30
+CUST_03975,Retail,Maharashtra,7
+CUST_03976,Small Business,Delhi,22
+CUST_03977,Retail,Karnataka,57
+CUST_03978,Premium,West Bengal,50
+CUST_03979,Retail,Gujarat,45
+CUST_03980,Retail,Karnataka,10
+CUST_03981,Small Business,West Bengal,56
+CUST_03982,Student,Gujarat,8
+CUST_03983,Retail,Delhi,27
+CUST_03984,Retail,Delhi,10
+CUST_03985,Student,Tamil Nadu,14
+CUST_03986,Small Business,Gujarat,46
+CUST_03987,Retail,Maharashtra,59
+CUST_03988,Premium,Uttar Pradesh,52
+CUST_03989,Retail,Kerala,54
+CUST_03990,Small Business,Delhi,11
+CUST_03991,Retail,Karnataka,6
+CUST_03992,Retail,Karnataka,21
+CUST_03993,Student,Maharashtra,33
+CUST_03994,Retail,Maharashtra,19
+CUST_03995,Premium,Karnataka,39
+CUST_03996,Retail,Maharashtra,24
+CUST_03997,Retail,Tamil Nadu,18
+CUST_03998,Retail,Rajasthan,35
+CUST_03999,Premium,Tamil Nadu,52
+CUST_04000,Retail,Uttar Pradesh,43
+CUST_04001,Premium,Telangana,37
+CUST_04002,Student,Delhi,19
+CUST_04003,Student,West Bengal,53
+CUST_04004,Retail,Maharashtra,24
+CUST_04005,Retail,Delhi,56
+CUST_04006,Retail,Maharashtra,34
+CUST_04007,Retail,Karnataka,22
+CUST_04008,Retail,Delhi,4
+CUST_04009,Student,Maharashtra,57
+CUST_04010,Retail,Delhi,10
+CUST_04011,Retail,Karnataka,2
+CUST_04012,Retail,Maharashtra,8
+CUST_04013,Student,Tamil Nadu,33
+CUST_04014,Retail,Tamil Nadu,59
+CUST_04015,Premium,Karnataka,38
+CUST_04016,Retail,Tamil Nadu,43
+CUST_04017,Small Business,Tamil Nadu,59
+CUST_04018,Small Business,Kerala,28
+CUST_04019,Retail,Tamil Nadu,10
+CUST_04020,Retail,Gujarat,45
+CUST_04021,Retail,Karnataka,1
+CUST_04022,Retail,Telangana,34
+CUST_04023,Student,Maharashtra,3
+CUST_04024,Student,Karnataka,9
+CUST_04025,Student,Maharashtra,5
+CUST_04026,Student,Maharashtra,42
+CUST_04027,Retail,Delhi,10
+CUST_04028,Retail,Tamil Nadu,12
+CUST_04029,Student,Rajasthan,18
+CUST_04030,Retail,Maharashtra,58
+CUST_04031,Student,Maharashtra,21
+CUST_04032,Retail,Gujarat,21
+CUST_04033,Retail,Maharashtra,1
+CUST_04034,Corporate,Kerala,3
+CUST_04035,Retail,Maharashtra,5
+CUST_04036,Corporate,Gujarat,25
+CUST_04037,Corporate,Tamil Nadu,58
+CUST_04038,Student,Kerala,49
+CUST_04039,Student,West Bengal,8
+CUST_04040,Premium,Karnataka,17
+CUST_04041,Small Business,Tamil Nadu,9
+CUST_04042,Retail,Karnataka,32
+CUST_04043,Premium,Rajasthan,6
+CUST_04044,Premium,Karnataka,49
+CUST_04045,Retail,Maharashtra,40
+CUST_04046,Retail,Tamil Nadu,21
+CUST_04047,Retail,Maharashtra,7
+CUST_04048,Premium,Delhi,7
+CUST_04049,Small Business,Uttar Pradesh,47
+CUST_04050,Retail,Maharashtra,39
+CUST_04051,Small Business,Kerala,54
+CUST_04052,Student,Delhi,27
+CUST_04053,Student,Tamil Nadu,8
+CUST_04054,Premium,Karnataka,9
+CUST_04055,Student,Delhi,28
+CUST_04056,Retail,Uttar Pradesh,15
+CUST_04057,Student,Telangana,2
+CUST_04058,Retail,Karnataka,7
+CUST_04059,Small Business,Karnataka,47
+CUST_04060,Corporate,Karnataka,18
+CUST_04061,Retail,Uttar Pradesh,22
+CUST_04062,Retail,Telangana,50
+CUST_04063,Student,West Bengal,10
+CUST_04064,Retail,Maharashtra,54
+CUST_04065,Small Business,Maharashtra,50
+CUST_04066,Retail,Maharashtra,33
+CUST_04067,Retail,Karnataka,7
+CUST_04068,Corporate,Maharashtra,3
+CUST_04069,Student,Tamil Nadu,14
+CUST_04070,Small Business,Tamil Nadu,44
+CUST_04071,Retail,Telangana,46
+CUST_04072,Student,West Bengal,36
+CUST_04073,Premium,Maharashtra,13
+CUST_04074,Premium,Maharashtra,16
+CUST_04075,Student,Maharashtra,16
+CUST_04076,Premium,West Bengal,54
+CUST_04077,Retail,West Bengal,5
+CUST_04078,Retail,West Bengal,52
+CUST_04079,Student,West Bengal,25
+CUST_04080,Retail,Karnataka,38
+CUST_04081,Student,Karnataka,38
+CUST_04082,Retail,Maharashtra,50
+CUST_04083,Premium,Karnataka,38
+CUST_04084,Student,West Bengal,39
+CUST_04085,Retail,Karnataka,56
+CUST_04086,Retail,Tamil Nadu,56
+CUST_04087,Retail,Maharashtra,48
+CUST_04088,Premium,Rajasthan,41
+CUST_04089,Small Business,Karnataka,26
+CUST_04090,Retail,Delhi,59
+CUST_04091,Student,Maharashtra,13
+CUST_04092,Retail,Tamil Nadu,44
+CUST_04093,Premium,Maharashtra,51
+CUST_04094,Small Business,Gujarat,26
+CUST_04095,Retail,Maharashtra,55
+CUST_04096,Premium,Telangana,55
+CUST_04097,Retail,Karnataka,1
+CUST_04098,Retail,Tamil Nadu,8
+CUST_04099,Retail,Uttar Pradesh,4
+CUST_04100,Retail,Maharashtra,21
+CUST_04101,Premium,Delhi,22
+CUST_04102,Retail,Kerala,51
+CUST_04103,Premium,Karnataka,53
+CUST_04104,Retail,Gujarat,58
+CUST_04105,Retail,Tamil Nadu,37
+CUST_04106,Student,Karnataka,49
+CUST_04107,Corporate,Tamil Nadu,3
+CUST_04108,Retail,Kerala,19
+CUST_04109,Small Business,Karnataka,1
+CUST_04110,Premium,Gujarat,29
+CUST_04111,Premium,Uttar Pradesh,23
+CUST_04112,Premium,Delhi,33
+CUST_04113,Retail,Delhi,55
+CUST_04114,Retail,Maharashtra,52
+CUST_04115,Premium,Karnataka,41
+CUST_04116,Retail,Maharashtra,23
+CUST_04117,Small Business,Delhi,5
+CUST_04118,Retail,Rajasthan,7
+CUST_04119,Retail,Uttar Pradesh,57
+CUST_04120,Student,Telangana,58
+CUST_04121,Retail,Telangana,6
+CUST_04122,Premium,Maharashtra,49
+CUST_04123,Student,Gujarat,22
+CUST_04124,Small Business,Telangana,49
+CUST_04125,Student,Maharashtra,13
+CUST_04126,Student,Uttar Pradesh,12
+CUST_04127,Student,Maharashtra,4
+CUST_04128,Small Business,Delhi,8
+CUST_04129,Retail,Gujarat,37
+CUST_04130,Retail,Uttar Pradesh,31
+CUST_04131,Retail,Karnataka,37
+CUST_04132,Retail,West Bengal,45
+CUST_04133,Student,Delhi,26
+CUST_04134,Premium,Karnataka,43
+CUST_04135,Premium,West Bengal,8
+CUST_04136,Retail,Delhi,40
+CUST_04137,Student,Gujarat,33
+CUST_04138,Retail,Karnataka,45
+CUST_04139,Student,Maharashtra,29
+CUST_04140,Premium,Delhi,5
+CUST_04141,Retail,Maharashtra,28
+CUST_04142,Retail,Karnataka,53
+CUST_04143,Retail,Uttar Pradesh,40
+CUST_04144,Small Business,Maharashtra,17
+CUST_04145,Small Business,West Bengal,55
+CUST_04146,Premium,Maharashtra,23
+CUST_04147,Retail,Maharashtra,45
+CUST_04148,Retail,Maharashtra,9
+CUST_04149,Student,Maharashtra,2
+CUST_04150,Student,Delhi,32
+CUST_04151,Retail,Delhi,51
+CUST_04152,Retail,Maharashtra,52
+CUST_04153,Student,Tamil Nadu,49
+CUST_04154,Retail,Maharashtra,31
+CUST_04155,Retail,Tamil Nadu,7
+CUST_04156,Retail,Tamil Nadu,30
+CUST_04157,Premium,Uttar Pradesh,58
+CUST_04158,Small Business,Delhi,3
+CUST_04159,Corporate,Gujarat,51
+CUST_04160,Premium,Maharashtra,51
+CUST_04161,Premium,Telangana,56
+CUST_04162,Retail,Delhi,9
+CUST_04163,Premium,West Bengal,10
+CUST_04164,Retail,Maharashtra,46
+CUST_04165,Premium,Uttar Pradesh,50
+CUST_04166,Retail,Kerala,58
+CUST_04167,Retail,Telangana,47
+CUST_04168,Retail,Tamil Nadu,26
+CUST_04169,Retail,Karnataka,1
+CUST_04170,Retail,Karnataka,30
+CUST_04171,Retail,Karnataka,57
+CUST_04172,Corporate,Telangana,38
+CUST_04173,Retail,Tamil Nadu,15
+CUST_04174,Premium,Tamil Nadu,25
+CUST_04175,Small Business,Karnataka,6
+CUST_04176,Corporate,Karnataka,18
+CUST_04177,Premium,Karnataka,1
+CUST_04178,Student,Kerala,56
+CUST_04179,Retail,Delhi,3
+CUST_04180,Retail,Tamil Nadu,17
+CUST_04181,Retail,Maharashtra,48
+CUST_04182,Student,Maharashtra,8
+CUST_04183,Student,Tamil Nadu,60
+CUST_04184,Retail,Gujarat,49
+CUST_04185,Retail,Gujarat,40
+CUST_04186,Premium,West Bengal,17
+CUST_04187,Retail,West Bengal,25
+CUST_04188,Premium,Tamil Nadu,41
+CUST_04189,Student,Uttar Pradesh,12
+CUST_04190,Student,Kerala,29
+CUST_04191,Student,Telangana,25
+CUST_04192,Small Business,Tamil Nadu,51
+CUST_04193,Premium,Uttar Pradesh,36
+CUST_04194,Student,Kerala,53
+CUST_04195,Premium,Kerala,54
+CUST_04196,Retail,Tamil Nadu,25
+CUST_04197,Retail,West Bengal,29
+CUST_04198,Retail,Uttar Pradesh,11
+CUST_04199,Retail,Gujarat,60
+CUST_04200,Premium,Delhi,4
+CUST_04201,Small Business,Uttar Pradesh,14
+CUST_04202,Retail,Maharashtra,46
+CUST_04203,Retail,Delhi,38
+CUST_04204,Corporate,Maharashtra,17
+CUST_04205,Retail,Uttar Pradesh,2
+CUST_04206,Premium,Tamil Nadu,8
+CUST_04207,Premium,Maharashtra,36
+CUST_04208,Premium,Gujarat,10
+CUST_04209,Retail,Kerala,7
+CUST_04210,Retail,Delhi,36
+CUST_04211,Retail,Telangana,16
+CUST_04212,Premium,Uttar Pradesh,14
+CUST_04213,Premium,Tamil Nadu,16
+CUST_04214,Retail,Maharashtra,25
+CUST_04215,Premium,Tamil Nadu,41
+CUST_04216,Student,Karnataka,4
+CUST_04217,Retail,Delhi,29
+CUST_04218,Premium,Telangana,56
+CUST_04219,Student,Kerala,6
+CUST_04220,Retail,Tamil Nadu,1
+CUST_04221,Retail,Tamil Nadu,39
+CUST_04222,Premium,Delhi,1
+CUST_04223,Small Business,Delhi,51
+CUST_04224,Student,Karnataka,40
+CUST_04225,Premium,Telangana,57
+CUST_04226,Student,Uttar Pradesh,3
+CUST_04227,Retail,Maharashtra,1
+CUST_04228,Premium,Telangana,1
+CUST_04229,Premium,Maharashtra,39
+CUST_04230,Retail,West Bengal,21
+CUST_04231,Student,Maharashtra,45
+CUST_04232,Premium,Tamil Nadu,30
+CUST_04233,Retail,Uttar Pradesh,32
+CUST_04234,Small Business,Maharashtra,33
+CUST_04235,Retail,West Bengal,48
+CUST_04236,Retail,Maharashtra,22
+CUST_04237,Retail,Tamil Nadu,30
+CUST_04238,Student,Tamil Nadu,54
+CUST_04239,Student,Maharashtra,46
+CUST_04240,Retail,Gujarat,4
+CUST_04241,Student,Karnataka,23
+CUST_04242,Retail,Gujarat,55
+CUST_04243,Student,Gujarat,44
+CUST_04244,Premium,Gujarat,25
+CUST_04245,Retail,Maharashtra,12
+CUST_04246,Small Business,Telangana,17
+CUST_04247,Retail,Maharashtra,53
+CUST_04248,Retail,Maharashtra,15
+CUST_04249,Premium,Karnataka,10
+CUST_04250,Corporate,Karnataka,35
+CUST_04251,Retail,Tamil Nadu,55
+CUST_04252,Retail,Delhi,52
+CUST_04253,Retail,Karnataka,52
+CUST_04254,Premium,Karnataka,29
+CUST_04255,Retail,West Bengal,12
+CUST_04256,Student,Karnataka,1
+CUST_04257,Corporate,Karnataka,1
+CUST_04258,Premium,Tamil Nadu,10
+CUST_04259,Retail,West Bengal,18
+CUST_04260,Retail,Tamil Nadu,47
+CUST_04261,Retail,Maharashtra,2
+CUST_04262,Small Business,Maharashtra,49
+CUST_04263,Retail,Gujarat,8
+CUST_04264,Retail,Delhi,22
+CUST_04265,Student,Kerala,22
+CUST_04266,Retail,Tamil Nadu,26
+CUST_04267,Premium,Karnataka,26
+CUST_04268,Retail,Karnataka,9
+CUST_04269,Student,Tamil Nadu,21
+CUST_04270,Small Business,Karnataka,31
+CUST_04271,Premium,Karnataka,52
+CUST_04272,Corporate,Delhi,43
+CUST_04273,Retail,Gujarat,6
+CUST_04274,Premium,Maharashtra,56
+CUST_04275,Premium,Gujarat,14
+CUST_04276,Premium,Karnataka,33
+CUST_04277,Retail,Karnataka,7
+CUST_04278,Retail,Delhi,24
+CUST_04279,Retail,Tamil Nadu,9
+CUST_04280,Retail,Tamil Nadu,11
+CUST_04281,Retail,Maharashtra,56
+CUST_04282,Student,Uttar Pradesh,23
+CUST_04283,Retail,West Bengal,48
+CUST_04284,Retail,Tamil Nadu,51
+CUST_04285,Premium,Kerala,2
+CUST_04286,Premium,West Bengal,15
+CUST_04287,Small Business,Delhi,35
+CUST_04288,Premium,Kerala,36
+CUST_04289,Retail,Maharashtra,52
+CUST_04290,Student,Karnataka,54
+CUST_04291,Premium,Maharashtra,28
+CUST_04292,Retail,Delhi,39
+CUST_04293,Premium,Delhi,44
+CUST_04294,Small Business,Delhi,4
+CUST_04295,Retail,Uttar Pradesh,10
+CUST_04296,Retail,Telangana,6
+CUST_04297,Retail,Telangana,57
+CUST_04298,Retail,Kerala,30
+CUST_04299,Retail,Uttar Pradesh,54
+CUST_04300,Premium,Tamil Nadu,46
+CUST_04301,Retail,Karnataka,35
+CUST_04302,Small Business,Maharashtra,49
+CUST_04303,Student,Kerala,43
+CUST_04304,Premium,Maharashtra,10
+CUST_04305,Student,West Bengal,58
+CUST_04306,Retail,Tamil Nadu,53
+CUST_04307,Premium,Karnataka,32
+CUST_04308,Premium,West Bengal,42
+CUST_04309,Student,Tamil Nadu,42
+CUST_04310,Student,Maharashtra,3
+CUST_04311,Retail,Karnataka,56
+CUST_04312,Small Business,Maharashtra,26
+CUST_04313,Retail,Gujarat,15
+CUST_04314,Small Business,Maharashtra,17
+CUST_04315,Corporate,Delhi,27
+CUST_04316,Retail,Tamil Nadu,18
+CUST_04317,Student,Kerala,51
+CUST_04318,Retail,Maharashtra,19
+CUST_04319,Retail,Gujarat,12
+CUST_04320,Premium,West Bengal,24
+CUST_04321,Premium,Karnataka,5
+CUST_04322,Small Business,Telangana,24
+CUST_04323,Student,Delhi,27
+CUST_04324,Premium,Maharashtra,48
+CUST_04325,Student,Karnataka,30
+CUST_04326,Corporate,Uttar Pradesh,15
+CUST_04327,Retail,West Bengal,47
+CUST_04328,Corporate,Karnataka,59
+CUST_04329,Retail,Karnataka,38
+CUST_04330,Student,Kerala,44
+CUST_04331,Retail,Gujarat,34
+CUST_04332,Retail,West Bengal,27
+CUST_04333,Retail,Maharashtra,20
+CUST_04334,Premium,Gujarat,41
+CUST_04335,Retail,Maharashtra,32
+CUST_04336,Retail,Karnataka,4
+CUST_04337,Premium,Delhi,5
+CUST_04338,Small Business,Rajasthan,53
+CUST_04339,Retail,Karnataka,58
+CUST_04340,Retail,Maharashtra,8
+CUST_04341,Retail,Gujarat,22
+CUST_04342,Retail,Delhi,42
+CUST_04343,Student,Kerala,7
+CUST_04344,Student,West Bengal,22
+CUST_04345,Premium,Tamil Nadu,46
+CUST_04346,Retail,Rajasthan,30
+CUST_04347,Student,West Bengal,37
+CUST_04348,Premium,Telangana,16
+CUST_04349,Student,Gujarat,15
+CUST_04350,Premium,Telangana,5
+CUST_04351,Student,Tamil Nadu,3
+CUST_04352,Premium,Maharashtra,23
+CUST_04353,Retail,Telangana,10
+CUST_04354,Corporate,Karnataka,5
+CUST_04355,Premium,Tamil Nadu,23
+CUST_04356,Premium,West Bengal,15
+CUST_04357,Retail,Kerala,18
+CUST_04358,Premium,Tamil Nadu,25
+CUST_04359,Premium,Telangana,8
+CUST_04360,Retail,Gujarat,31
+CUST_04361,Retail,Delhi,21
+CUST_04362,Premium,Kerala,2
+CUST_04363,Student,Maharashtra,22
+CUST_04364,Premium,Karnataka,8
+CUST_04365,Retail,Karnataka,23
+CUST_04366,Student,Maharashtra,32
+CUST_04367,Retail,Delhi,8
+CUST_04368,Retail,Kerala,4
+CUST_04369,Retail,Kerala,30
+CUST_04370,Retail,Delhi,19
+CUST_04371,Retail,West Bengal,23
+CUST_04372,Retail,Karnataka,18
+CUST_04373,Retail,Tamil Nadu,53
+CUST_04374,Retail,Telangana,29
+CUST_04375,Premium,Tamil Nadu,23
+CUST_04376,Premium,Karnataka,33
+CUST_04377,Retail,Gujarat,52
+CUST_04378,Small Business,Maharashtra,47
+CUST_04379,Retail,Telangana,18
+CUST_04380,Premium,Karnataka,54
+CUST_04381,Retail,Tamil Nadu,44
+CUST_04382,Retail,Karnataka,33
+CUST_04383,Premium,Delhi,7
+CUST_04384,Premium,Maharashtra,51
+CUST_04385,Small Business,Delhi,28
+CUST_04386,Premium,Telangana,1
+CUST_04387,Corporate,Telangana,56
+CUST_04388,Retail,Karnataka,39
+CUST_04389,Retail,Maharashtra,34
+CUST_04390,Retail,Delhi,39
+CUST_04391,Retail,Uttar Pradesh,19
+CUST_04392,Premium,Rajasthan,31
+CUST_04393,Premium,Karnataka,13
+CUST_04394,Retail,West Bengal,57
+CUST_04395,Small Business,Maharashtra,24
+CUST_04396,Small Business,Tamil Nadu,5
+CUST_04397,Retail,Tamil Nadu,23
+CUST_04398,Retail,Maharashtra,19
+CUST_04399,Retail,Maharashtra,1
+CUST_04400,Retail,Tamil Nadu,33
+CUST_04401,Retail,Gujarat,59
+CUST_04402,Premium,Karnataka,50
+CUST_04403,Retail,Delhi,56
+CUST_04404,Retail,Karnataka,33
+CUST_04405,Corporate,Tamil Nadu,32
+CUST_04406,Student,Maharashtra,59
+CUST_04407,Small Business,Karnataka,28
+CUST_04408,Retail,Delhi,37
+CUST_04409,Retail,Karnataka,41
+CUST_04410,Premium,Maharashtra,12
+CUST_04411,Retail,Tamil Nadu,9
+CUST_04412,Retail,Gujarat,50
+CUST_04413,Student,West Bengal,55
+CUST_04414,Premium,Tamil Nadu,11
+CUST_04415,Retail,Maharashtra,33
+CUST_04416,Premium,Tamil Nadu,19
+CUST_04417,Retail,Delhi,54
+CUST_04418,Retail,Karnataka,57
+CUST_04419,Retail,Delhi,42
+CUST_04420,Retail,Maharashtra,34
+CUST_04421,Retail,Uttar Pradesh,7
+CUST_04422,Corporate,Delhi,31
+CUST_04423,Premium,Delhi,52
+CUST_04424,Student,Maharashtra,2
+CUST_04425,Retail,Uttar Pradesh,19
+CUST_04426,Retail,West Bengal,38
+CUST_04427,Retail,Karnataka,32
+CUST_04428,Retail,Kerala,10
+CUST_04429,Retail,Maharashtra,41
+CUST_04430,Student,Kerala,8
+CUST_04431,Student,Kerala,26
+CUST_04432,Premium,Karnataka,30
+CUST_04433,Premium,Gujarat,11
+CUST_04434,Small Business,Karnataka,41
+CUST_04435,Retail,Karnataka,20
+CUST_04436,Retail,Karnataka,60
+CUST_04437,Retail,West Bengal,20
+CUST_04438,Student,Karnataka,9
+CUST_04439,Corporate,Tamil Nadu,8
+CUST_04440,Retail,Gujarat,60
+CUST_04441,Small Business,Tamil Nadu,15
+CUST_04442,Small Business,Tamil Nadu,34
+CUST_04443,Retail,Karnataka,24
+CUST_04444,Retail,Maharashtra,33
+CUST_04445,Retail,Maharashtra,41
+CUST_04446,Corporate,Tamil Nadu,41
+CUST_04447,Retail,Rajasthan,45
+CUST_04448,Student,Gujarat,40
+CUST_04449,Retail,Karnataka,27
+CUST_04450,Student,Karnataka,21
+CUST_04451,Retail,Maharashtra,5
+CUST_04452,Premium,Delhi,35
+CUST_04453,Small Business,Tamil Nadu,21
+CUST_04454,Student,Karnataka,4
+CUST_04455,Small Business,Telangana,49
+CUST_04456,Retail,Karnataka,48
+CUST_04457,Student,Maharashtra,16
+CUST_04458,Retail,Telangana,57
+CUST_04459,Retail,Gujarat,31
+CUST_04460,Premium,Maharashtra,26
+CUST_04461,Retail,Gujarat,52
+CUST_04462,Premium,Tamil Nadu,35
+CUST_04463,Corporate,West Bengal,6
+CUST_04464,Retail,Maharashtra,33
+CUST_04465,Student,Kerala,21
+CUST_04466,Retail,Uttar Pradesh,16
+CUST_04467,Retail,Uttar Pradesh,47
+CUST_04468,Retail,Telangana,39
+CUST_04469,Small Business,Maharashtra,34
+CUST_04470,Small Business,Maharashtra,42
+CUST_04471,Small Business,Maharashtra,57
+CUST_04472,Corporate,Gujarat,60
+CUST_04473,Retail,Telangana,15
+CUST_04474,Retail,Karnataka,6
+CUST_04475,Student,Telangana,2
+CUST_04476,Premium,Kerala,24
+CUST_04477,Retail,Rajasthan,56
+CUST_04478,Retail,Telangana,49
+CUST_04479,Premium,Karnataka,28
+CUST_04480,Premium,Tamil Nadu,1
+CUST_04481,Retail,Tamil Nadu,1
+CUST_04482,Premium,Karnataka,28
+CUST_04483,Premium,Delhi,36
+CUST_04484,Premium,Kerala,20
+CUST_04485,Retail,Telangana,48
+CUST_04486,Student,Delhi,8
+CUST_04487,Retail,Tamil Nadu,1
+CUST_04488,Retail,Karnataka,26
+CUST_04489,Student,Tamil Nadu,51
+CUST_04490,Premium,Maharashtra,43
+CUST_04491,Retail,Maharashtra,49
+CUST_04492,Student,Tamil Nadu,25
+CUST_04493,Premium,Maharashtra,10
+CUST_04494,Student,Tamil Nadu,12
+CUST_04495,Student,Gujarat,41
+CUST_04496,Premium,Maharashtra,7
+CUST_04497,Premium,Maharashtra,12
+CUST_04498,Retail,Maharashtra,47
+CUST_04499,Retail,Uttar Pradesh,40
+CUST_04500,Retail,Karnataka,17
+CUST_04501,Premium,Maharashtra,5
+CUST_04502,Premium,West Bengal,14
+CUST_04503,Retail,Delhi,34
+CUST_04504,Retail,Uttar Pradesh,48
+CUST_04505,Premium,Maharashtra,17
+CUST_04506,Retail,Maharashtra,35
+CUST_04507,Student,Tamil Nadu,55
+CUST_04508,Retail,Delhi,1
+CUST_04509,Premium,Karnataka,59
+CUST_04510,Small Business,Tamil Nadu,50
+CUST_04511,Retail,Delhi,50
+CUST_04512,Premium,Delhi,36
+CUST_04513,Retail,Tamil Nadu,15
+CUST_04514,Premium,Gujarat,60
+CUST_04515,Premium,Delhi,19
+CUST_04516,Retail,Karnataka,51
+CUST_04517,Premium,Maharashtra,42
+CUST_04518,Small Business,West Bengal,5
+CUST_04519,Retail,Delhi,19
+CUST_04520,Retail,Maharashtra,43
+CUST_04521,Small Business,Karnataka,39
+CUST_04522,Premium,Delhi,5
+CUST_04523,Small Business,Uttar Pradesh,52
+CUST_04524,Premium,Gujarat,12
+CUST_04525,Student,Tamil Nadu,19
+CUST_04526,Retail,Maharashtra,47
+CUST_04527,Student,Telangana,12
+CUST_04528,Small Business,Tamil Nadu,36
+CUST_04529,Premium,Rajasthan,12
+CUST_04530,Retail,Uttar Pradesh,18
+CUST_04531,Retail,Tamil Nadu,49
+CUST_04532,Retail,Uttar Pradesh,51
+CUST_04533,Retail,Maharashtra,48
+CUST_04534,Retail,Kerala,43
+CUST_04535,Premium,Maharashtra,34
+CUST_04536,Premium,Maharashtra,48
+CUST_04537,Retail,Delhi,33
+CUST_04538,Premium,West Bengal,49
+CUST_04539,Retail,Tamil Nadu,18
+CUST_04540,Retail,Delhi,57
+CUST_04541,Retail,Karnataka,29
+CUST_04542,Premium,Maharashtra,45
+CUST_04543,Retail,Maharashtra,5
+CUST_04544,Retail,Maharashtra,25
+CUST_04545,Retail,Karnataka,24
+CUST_04546,Student,Tamil Nadu,29
+CUST_04547,Retail,Tamil Nadu,59
+CUST_04548,Premium,Tamil Nadu,38
+CUST_04549,Student,Maharashtra,33
+CUST_04550,Student,Uttar Pradesh,10
+CUST_04551,Small Business,Tamil Nadu,37
+CUST_04552,Retail,Uttar Pradesh,60
+CUST_04553,Retail,West Bengal,33
+CUST_04554,Small Business,Delhi,23
+CUST_04555,Premium,Gujarat,58
+CUST_04556,Premium,Kerala,11
+CUST_04557,Student,Tamil Nadu,24
+CUST_04558,Student,Maharashtra,24
+CUST_04559,Small Business,Gujarat,7
+CUST_04560,Corporate,Delhi,50
+CUST_04561,Student,Kerala,21
+CUST_04562,Retail,Tamil Nadu,20
+CUST_04563,Small Business,Gujarat,53
+CUST_04564,Retail,Delhi,10
+CUST_04565,Retail,Maharashtra,25
+CUST_04566,Small Business,Maharashtra,47
+CUST_04567,Retail,Delhi,36
+CUST_04568,Retail,Telangana,48
+CUST_04569,Retail,Maharashtra,47
+CUST_04570,Small Business,Kerala,15
+CUST_04571,Premium,Maharashtra,44
+CUST_04572,Student,Tamil Nadu,40
+CUST_04573,Retail,Tamil Nadu,40
+CUST_04574,Student,Tamil Nadu,50
+CUST_04575,Student,Maharashtra,6
+CUST_04576,Retail,Karnataka,37
+CUST_04577,Retail,Gujarat,2
+CUST_04578,Retail,West Bengal,12
+CUST_04579,Corporate,Tamil Nadu,58
+CUST_04580,Premium,Karnataka,4
+CUST_04581,Small Business,Karnataka,23
+CUST_04582,Retail,Delhi,13
+CUST_04583,Student,Tamil Nadu,17
+CUST_04584,Student,Tamil Nadu,31
+CUST_04585,Student,Uttar Pradesh,16
+CUST_04586,Corporate,Kerala,41
+CUST_04587,Retail,Karnataka,26
+CUST_04588,Retail,Maharashtra,28
+CUST_04589,Student,Maharashtra,1
+CUST_04590,Student,Kerala,47
+CUST_04591,Premium,Maharashtra,12
+CUST_04592,Retail,Tamil Nadu,37
+CUST_04593,Premium,West Bengal,55
+CUST_04594,Retail,Maharashtra,56
+CUST_04595,Retail,Karnataka,50
+CUST_04596,Premium,Maharashtra,20
+CUST_04597,Student,Maharashtra,2
+CUST_04598,Retail,Maharashtra,36
+CUST_04599,Retail,Karnataka,15
+CUST_04600,Retail,Maharashtra,38
+CUST_04601,Retail,Tamil Nadu,22
+CUST_04602,Student,West Bengal,44
+CUST_04603,Small Business,Tamil Nadu,50
+CUST_04604,Retail,Tamil Nadu,32
+CUST_04605,Student,Gujarat,59
+CUST_04606,Small Business,West Bengal,20
+CUST_04607,Small Business,Kerala,36
+CUST_04608,Retail,Maharashtra,33
+CUST_04609,Corporate,Karnataka,15
+CUST_04610,Retail,West Bengal,50
+CUST_04611,Retail,Gujarat,46
+CUST_04612,Retail,Karnataka,3
+CUST_04613,Premium,Telangana,29
+CUST_04614,Retail,Tamil Nadu,47
+CUST_04615,Retail,Rajasthan,27
+CUST_04616,Retail,Telangana,5
+CUST_04617,Student,Gujarat,59
+CUST_04618,Small Business,Uttar Pradesh,56
+CUST_04619,Retail,West Bengal,31
+CUST_04620,Small Business,Karnataka,22
+CUST_04621,Small Business,Maharashtra,35
+CUST_04622,Student,Tamil Nadu,54
+CUST_04623,Retail,Maharashtra,7
+CUST_04624,Student,West Bengal,6
+CUST_04625,Small Business,Maharashtra,26
+CUST_04626,Student,Karnataka,54
+CUST_04627,Retail,Delhi,1
+CUST_04628,Premium,Telangana,19
+CUST_04629,Premium,Tamil Nadu,7
+CUST_04630,Premium,Maharashtra,36
+CUST_04631,Retail,Tamil Nadu,12
+CUST_04632,Retail,Gujarat,20
+CUST_04633,Student,Tamil Nadu,23
+CUST_04634,Small Business,Gujarat,25
+CUST_04635,Retail,Karnataka,30
+CUST_04636,Corporate,Karnataka,59
+CUST_04637,Retail,Uttar Pradesh,29
+CUST_04638,Student,Tamil Nadu,31
+CUST_04639,Student,Maharashtra,18
+CUST_04640,Student,Tamil Nadu,41
+CUST_04641,Small Business,Maharashtra,19
+CUST_04642,Retail,Maharashtra,54
+CUST_04643,Small Business,Karnataka,4
+CUST_04644,Retail,Tamil Nadu,1
+CUST_04645,Student,Maharashtra,41
+CUST_04646,Student,Gujarat,59
+CUST_04647,Student,West Bengal,15
+CUST_04648,Retail,Delhi,54
+CUST_04649,Small Business,Delhi,8
+CUST_04650,Retail,Karnataka,15
+CUST_04651,Retail,Karnataka,15
+CUST_04652,Student,Tamil Nadu,50
+CUST_04653,Premium,Karnataka,39
+CUST_04654,Small Business,Karnataka,22
+CUST_04655,Retail,Maharashtra,18
+CUST_04656,Retail,Delhi,16
+CUST_04657,Small Business,Uttar Pradesh,2
+CUST_04658,Premium,Karnataka,36
+CUST_04659,Retail,Gujarat,20
+CUST_04660,Student,Kerala,16
+CUST_04661,Premium,Delhi,3
+CUST_04662,Premium,Karnataka,56
+CUST_04663,Premium,Karnataka,30
+CUST_04664,Student,Tamil Nadu,55
+CUST_04665,Student,Karnataka,2
+CUST_04666,Student,West Bengal,35
+CUST_04667,Retail,Tamil Nadu,26
+CUST_04668,Small Business,Karnataka,57
+CUST_04669,Student,Gujarat,5
+CUST_04670,Student,West Bengal,2
+CUST_04671,Retail,Maharashtra,51
+CUST_04672,Small Business,Gujarat,56
+CUST_04673,Student,Maharashtra,20
+CUST_04674,Retail,Tamil Nadu,34
+CUST_04675,Retail,Maharashtra,34
+CUST_04676,Small Business,Delhi,54
+CUST_04677,Retail,Uttar Pradesh,56
+CUST_04678,Corporate,Tamil Nadu,55
+CUST_04679,Student,Maharashtra,20
+CUST_04680,Premium,Karnataka,50
+CUST_04681,Retail,Maharashtra,25
+CUST_04682,Retail,Tamil Nadu,20
+CUST_04683,Small Business,Karnataka,25
+CUST_04684,Retail,Kerala,53
+CUST_04685,Student,Delhi,14
+CUST_04686,Retail,Maharashtra,60
+CUST_04687,Retail,Karnataka,47
+CUST_04688,Retail,Karnataka,44
+CUST_04689,Premium,Maharashtra,43
+CUST_04690,Corporate,Kerala,43
+CUST_04691,Retail,Uttar Pradesh,39
+CUST_04692,Retail,Maharashtra,12
+CUST_04693,Retail,Maharashtra,48
+CUST_04694,Premium,Kerala,5
+CUST_04695,Retail,Maharashtra,2
+CUST_04696,Small Business,Delhi,54
+CUST_04697,Premium,Karnataka,16
+CUST_04698,Premium,West Bengal,55
+CUST_04699,Retail,Delhi,30
+CUST_04700,Corporate,Kerala,47
+CUST_04701,Retail,West Bengal,43
+CUST_04702,Retail,Karnataka,38
+CUST_04703,Student,Gujarat,45
+CUST_04704,Premium,Kerala,51
+CUST_04705,Retail,Maharashtra,42
+CUST_04706,Retail,Tamil Nadu,24
+CUST_04707,Student,Tamil Nadu,51
+CUST_04708,Retail,Maharashtra,30
+CUST_04709,Student,Maharashtra,37
+CUST_04710,Premium,Delhi,57
+CUST_04711,Retail,Karnataka,59
+CUST_04712,Premium,Telangana,53
+CUST_04713,Retail,Karnataka,39
+CUST_04714,Student,Karnataka,11
+CUST_04715,Premium,Maharashtra,14
+CUST_04716,Retail,Maharashtra,23
+CUST_04717,Premium,Karnataka,53
+CUST_04718,Corporate,Karnataka,16
+CUST_04719,Retail,Tamil Nadu,50
+CUST_04720,Small Business,Gujarat,21
+CUST_04721,Retail,West Bengal,55
+CUST_04722,Retail,Maharashtra,55
+CUST_04723,Retail,Gujarat,4
+CUST_04724,Retail,West Bengal,33
+CUST_04725,Retail,Tamil Nadu,54
+CUST_04726,Retail,Uttar Pradesh,47
+CUST_04727,Small Business,Kerala,14
+CUST_04728,Small Business,Karnataka,19
+CUST_04729,Student,Karnataka,59
+CUST_04730,Retail,Tamil Nadu,5
+CUST_04731,Retail,Tamil Nadu,36
+CUST_04732,Retail,West Bengal,31
+CUST_04733,Student,Maharashtra,45
+CUST_04734,Small Business,West Bengal,18
+CUST_04735,Retail,West Bengal,44
+CUST_04736,Retail,Delhi,31
+CUST_04737,Premium,Gujarat,55
+CUST_04738,Retail,Tamil Nadu,30
+CUST_04739,Retail,Karnataka,21
+CUST_04740,Premium,Delhi,47
+CUST_04741,Student,Tamil Nadu,30
+CUST_04742,Retail,Tamil Nadu,55
+CUST_04743,Retail,Telangana,41
+CUST_04744,Corporate,Gujarat,4
+CUST_04745,Retail,Karnataka,5
+CUST_04746,Retail,Gujarat,41
+CUST_04747,Retail,Kerala,45
+CUST_04748,Retail,Karnataka,10
+CUST_04749,Retail,Tamil Nadu,27
+CUST_04750,Student,Uttar Pradesh,16
+CUST_04751,Retail,Maharashtra,30
+CUST_04752,Retail,Tamil Nadu,13
+CUST_04753,Student,Maharashtra,36
+CUST_04754,Premium,West Bengal,21
+CUST_04755,Small Business,Karnataka,45
+CUST_04756,Small Business,Karnataka,53
+CUST_04757,Retail,Karnataka,40
+CUST_04758,Student,Rajasthan,45
+CUST_04759,Premium,Karnataka,15
+CUST_04760,Corporate,Delhi,20
+CUST_04761,Premium,Uttar Pradesh,20
+CUST_04762,Corporate,Tamil Nadu,45
+CUST_04763,Student,Rajasthan,55
+CUST_04764,Retail,Uttar Pradesh,59
+CUST_04765,Premium,Telangana,5
+CUST_04766,Corporate,Karnataka,54
+CUST_04767,Small Business,Delhi,54
+CUST_04768,Retail,West Bengal,60
+CUST_04769,Student,Rajasthan,32
+CUST_04770,Retail,Karnataka,6
+CUST_04771,Retail,West Bengal,30
+CUST_04772,Retail,Karnataka,26
+CUST_04773,Retail,Tamil Nadu,37
+CUST_04774,Student,Maharashtra,13
+CUST_04775,Retail,Kerala,29
+CUST_04776,Student,Maharashtra,5
+CUST_04777,Retail,Delhi,25
+CUST_04778,Retail,Rajasthan,13
+CUST_04779,Retail,Maharashtra,24
+CUST_04780,Retail,Delhi,31
+CUST_04781,Retail,Maharashtra,20
+CUST_04782,Retail,Maharashtra,55
+CUST_04783,Premium,Gujarat,8
+CUST_04784,Retail,Uttar Pradesh,60
+CUST_04785,Retail,Delhi,9
+CUST_04786,Retail,West Bengal,21
+CUST_04787,Small Business,Tamil Nadu,51
+CUST_04788,Small Business,Karnataka,20
+CUST_04789,Premium,Maharashtra,15
+CUST_04790,Retail,Tamil Nadu,26
+CUST_04791,Retail,Karnataka,54
+CUST_04792,Corporate,Maharashtra,42
+CUST_04793,Retail,Tamil Nadu,11
+CUST_04794,Retail,Karnataka,37
+CUST_04795,Retail,Maharashtra,41
+CUST_04796,Retail,Delhi,11
+CUST_04797,Retail,Uttar Pradesh,27
+CUST_04798,Student,Gujarat,30
+CUST_04799,Retail,Maharashtra,19
+CUST_04800,Premium,Uttar Pradesh,34
+CUST_04801,Retail,West Bengal,38
+CUST_04802,Retail,Karnataka,23
+CUST_04803,Small Business,Tamil Nadu,53
+CUST_04804,Retail,Gujarat,1
+CUST_04805,Student,Delhi,3
+CUST_04806,Premium,West Bengal,3
+CUST_04807,Retail,West Bengal,28
+CUST_04808,Corporate,Delhi,14
+CUST_04809,Retail,Rajasthan,52
+CUST_04810,Small Business,Delhi,30
+CUST_04811,Retail,Tamil Nadu,58
+CUST_04812,Small Business,Kerala,54
+CUST_04813,Retail,Karnataka,5
+CUST_04814,Premium,West Bengal,49
+CUST_04815,Student,Uttar Pradesh,15
+CUST_04816,Small Business,Gujarat,38
+CUST_04817,Small Business,Delhi,14
+CUST_04818,Student,Maharashtra,14
+CUST_04819,Small Business,Maharashtra,57
+CUST_04820,Retail,Maharashtra,59
+CUST_04821,Retail,Delhi,49
+CUST_04822,Retail,West Bengal,8
+CUST_04823,Retail,Gujarat,8
+CUST_04824,Retail,Karnataka,19
+CUST_04825,Premium,Maharashtra,32
+CUST_04826,Retail,Kerala,31
+CUST_04827,Student,Maharashtra,29
+CUST_04828,Retail,Delhi,41
+CUST_04829,Retail,West Bengal,11
+CUST_04830,Premium,Gujarat,45
+CUST_04831,Student,Maharashtra,13
+CUST_04832,Student,Telangana,27
+CUST_04833,Premium,Tamil Nadu,56
+CUST_04834,Retail,Rajasthan,19
+CUST_04835,Premium,Tamil Nadu,26
+CUST_04836,Retail,Tamil Nadu,53
+CUST_04837,Retail,Telangana,51
+CUST_04838,Retail,Karnataka,37
+CUST_04839,Retail,West Bengal,48
+CUST_04840,Retail,Kerala,9
+CUST_04841,Corporate,Telangana,28
+CUST_04842,Corporate,Rajasthan,32
+CUST_04843,Retail,Karnataka,52
+CUST_04844,Retail,Gujarat,54
+CUST_04845,Retail,Tamil Nadu,3
+CUST_04846,Retail,Maharashtra,51
+CUST_04847,Small Business,Kerala,32
+CUST_04848,Retail,Maharashtra,5
+CUST_04849,Student,Delhi,8
+CUST_04850,Retail,Maharashtra,14
+CUST_04851,Corporate,Gujarat,56
+CUST_04852,Retail,Rajasthan,3
+CUST_04853,Student,Tamil Nadu,24
+CUST_04854,Retail,Delhi,13
+CUST_04855,Premium,Telangana,43
+CUST_04856,Retail,Maharashtra,29
+CUST_04857,Retail,Tamil Nadu,8
+CUST_04858,Small Business,Delhi,51
+CUST_04859,Small Business,Karnataka,42
+CUST_04860,Small Business,Tamil Nadu,31
+CUST_04861,Premium,Kerala,26
+CUST_04862,Student,Delhi,18
+CUST_04863,Retail,Uttar Pradesh,58
+CUST_04864,Retail,Kerala,18
+CUST_04865,Retail,Gujarat,57
+CUST_04866,Premium,Tamil Nadu,7
+CUST_04867,Retail,Maharashtra,48
+CUST_04868,Retail,Karnataka,38
+CUST_04869,Premium,Telangana,48
+CUST_04870,Student,Tamil Nadu,16
+CUST_04871,Retail,Karnataka,55
+CUST_04872,Retail,Maharashtra,56
+CUST_04873,Retail,Karnataka,60
+CUST_04874,Retail,Karnataka,33
+CUST_04875,Retail,Delhi,56
+CUST_04876,Premium,Tamil Nadu,51
+CUST_04877,Premium,Tamil Nadu,3
+CUST_04878,Student,Maharashtra,38
+CUST_04879,Retail,West Bengal,4
+CUST_04880,Student,Delhi,36
+CUST_04881,Retail,Maharashtra,4
+CUST_04882,Premium,Delhi,42
+CUST_04883,Student,Maharashtra,9
+CUST_04884,Retail,Uttar Pradesh,40
+CUST_04885,Retail,Tamil Nadu,51
+CUST_04886,Small Business,Gujarat,17
+CUST_04887,Retail,Telangana,17
+CUST_04888,Student,Kerala,33
+CUST_04889,Retail,Karnataka,20
+CUST_04890,Student,Karnataka,14
+CUST_04891,Retail,Gujarat,22
+CUST_04892,Retail,Tamil Nadu,52
+CUST_04893,Premium,Kerala,27
+CUST_04894,Retail,Gujarat,43
+CUST_04895,Retail,West Bengal,3
+CUST_04896,Retail,Tamil Nadu,24
+CUST_04897,Retail,Gujarat,30
+CUST_04898,Retail,Gujarat,8
+CUST_04899,Retail,Kerala,22
+CUST_04900,Small Business,Tamil Nadu,25
+CUST_04901,Retail,Tamil Nadu,60
+CUST_04902,Premium,Maharashtra,10
+CUST_04903,Retail,Tamil Nadu,49
+CUST_04904,Retail,Delhi,29
+CUST_04905,Small Business,Telangana,40
+CUST_04906,Retail,Maharashtra,54
+CUST_04907,Corporate,Kerala,1
+CUST_04908,Retail,Tamil Nadu,52
+CUST_04909,Student,Tamil Nadu,21
+CUST_04910,Premium,Tamil Nadu,39
+CUST_04911,Small Business,Karnataka,24
+CUST_04912,Premium,Telangana,9
+CUST_04913,Premium,Tamil Nadu,60
+CUST_04914,Retail,Delhi,44
+CUST_04915,Retail,Maharashtra,54
+CUST_04916,Small Business,Uttar Pradesh,26
+CUST_04917,Retail,Tamil Nadu,9
+CUST_04918,Retail,Karnataka,20
+CUST_04919,Student,Tamil Nadu,56
+CUST_04920,Retail,Maharashtra,35
+CUST_04921,Corporate,Karnataka,36
+CUST_04922,Student,Telangana,42
+CUST_04923,Premium,Delhi,36
+CUST_04924,Small Business,Delhi,54
+CUST_04925,Retail,Delhi,9
+CUST_04926,Retail,Tamil Nadu,22
+CUST_04927,Premium,Maharashtra,1
+CUST_04928,Retail,Rajasthan,5
+CUST_04929,Student,Kerala,9
+CUST_04930,Small Business,Telangana,37
+CUST_04931,Retail,Kerala,38
+CUST_04932,Retail,Tamil Nadu,19
+CUST_04933,Corporate,Karnataka,8
+CUST_04934,Retail,Tamil Nadu,42
+CUST_04935,Premium,Karnataka,43
+CUST_04936,Retail,Tamil Nadu,32
+CUST_04937,Small Business,Maharashtra,13
+CUST_04938,Premium,Gujarat,20
+CUST_04939,Student,Telangana,36
+CUST_04940,Student,West Bengal,43
+CUST_04941,Retail,Uttar Pradesh,44
+CUST_04942,Retail,Tamil Nadu,37
+CUST_04943,Small Business,Tamil Nadu,30
+CUST_04944,Retail,Gujarat,10
+CUST_04945,Student,Karnataka,31
+CUST_04946,Small Business,Karnataka,25
+CUST_04947,Premium,Karnataka,29
+CUST_04948,Student,Karnataka,24
+CUST_04949,Student,Maharashtra,39
+CUST_04950,Small Business,Maharashtra,21
+CUST_04951,Retail,Maharashtra,41
+CUST_04952,Retail,Gujarat,9
+CUST_04953,Retail,Maharashtra,42
+CUST_04954,Student,Karnataka,42
+CUST_04955,Premium,Tamil Nadu,2
+CUST_04956,Student,Maharashtra,4
+CUST_04957,Retail,West Bengal,8
+CUST_04958,Premium,West Bengal,32
+CUST_04959,Retail,Gujarat,14
+CUST_04960,Student,Karnataka,49
+CUST_04961,Premium,Delhi,13
+CUST_04962,Retail,Delhi,21
+CUST_04963,Retail,Maharashtra,24
+CUST_04964,Student,Delhi,50
+CUST_04965,Premium,Maharashtra,18
+CUST_04966,Retail,Delhi,45
+CUST_04967,Corporate,Gujarat,40
+CUST_04968,Student,Tamil Nadu,26
+CUST_04969,Corporate,West Bengal,32
+CUST_04970,Retail,Tamil Nadu,44
+CUST_04971,Premium,Tamil Nadu,57
+CUST_04972,Small Business,Rajasthan,55
+CUST_04973,Premium,Uttar Pradesh,56
+CUST_04974,Student,Tamil Nadu,53
+CUST_04975,Retail,Maharashtra,33
+CUST_04976,Retail,Karnataka,52
+CUST_04977,Retail,Maharashtra,31
+CUST_04978,Retail,Kerala,18
+CUST_04979,Retail,Uttar Pradesh,35
+CUST_04980,Retail,Delhi,12
+CUST_04981,Corporate,Maharashtra,51
+CUST_04982,Retail,Delhi,25
+CUST_04983,Student,Karnataka,45
+CUST_04984,Small Business,Telangana,31
+CUST_04985,Premium,Telangana,10
+CUST_04986,Retail,Delhi,47
+CUST_04987,Student,Karnataka,52
+CUST_04988,Premium,Karnataka,34
+CUST_04989,Student,Tamil Nadu,51
+CUST_04990,Student,Kerala,3
+CUST_04991,Corporate,Maharashtra,46
+CUST_04992,Premium,Karnataka,39
+CUST_04993,Retail,Maharashtra,8
+CUST_04994,Premium,Kerala,32
+CUST_04995,Retail,Tamil Nadu,43
+CUST_04996,Small Business,Telangana,29
+CUST_04997,Retail,Telangana,22
+CUST_04998,Retail,Uttar Pradesh,20
+CUST_04999,Student,Maharashtra,6
+CUST_05000,Premium,Karnataka,43

@@ -1,0 +1,501 @@
+merchant_id,merchant_category,region
+MERCH_0001,Retail Shopping,Karnataka
+MERCH_0002,Food & Dining,Delhi
+MERCH_0003,Grocery,Gujarat
+MERCH_0004,Grocery,Delhi
+MERCH_0005,Grocery,Maharashtra
+MERCH_0006,Fuel,Maharashtra
+MERCH_0007,Grocery,Kerala
+MERCH_0008,Food & Dining,Karnataka
+MERCH_0009,Retail Shopping,West Bengal
+MERCH_0010,Food & Dining,West Bengal
+MERCH_0011,Retail Shopping,Maharashtra
+MERCH_0012,Retail Shopping,Karnataka
+MERCH_0013,Food & Dining,Maharashtra
+MERCH_0014,Retail Shopping,Tamil Nadu
+MERCH_0015,Retail Shopping,Tamil Nadu
+MERCH_0016,Food & Dining,Tamil Nadu
+MERCH_0017,Grocery,Karnataka
+MERCH_0018,Utilities,Maharashtra
+MERCH_0019,Jewellery,Kerala
+MERCH_0020,Fuel,Karnataka
+MERCH_0021,Grocery,Uttar Pradesh
+MERCH_0022,Retail Shopping,Uttar Pradesh
+MERCH_0023,Utilities,Uttar Pradesh
+MERCH_0024,Fuel,Kerala
+MERCH_0025,Retail Shopping,Maharashtra
+MERCH_0026,Utilities,Tamil Nadu
+MERCH_0027,Electronics,Delhi
+MERCH_0028,Retail Shopping,Delhi
+MERCH_0029,Fuel,Kerala
+MERCH_0030,Grocery,Rajasthan
+MERCH_0031,Electronics,Maharashtra
+MERCH_0032,Jewellery,Maharashtra
+MERCH_0033,Grocery,Karnataka
+MERCH_0034,Utilities,Tamil Nadu
+MERCH_0035,Food & Dining,Maharashtra
+MERCH_0036,Retail Shopping,Delhi
+MERCH_0037,Retail Shopping,Kerala
+MERCH_0038,Grocery,Maharashtra
+MERCH_0039,Travel,Telangana
+MERCH_0040,Grocery,Delhi
+MERCH_0041,Electronics,Kerala
+MERCH_0042,Utilities,Tamil Nadu
+MERCH_0043,Food & Dining,Telangana
+MERCH_0044,Grocery,Gujarat
+MERCH_0045,Grocery,Tamil Nadu
+MERCH_0046,Retail Shopping,Karnataka
+MERCH_0047,Fuel,Uttar Pradesh
+MERCH_0048,Grocery,Tamil Nadu
+MERCH_0049,Grocery,Maharashtra
+MERCH_0050,Grocery,Karnataka
+MERCH_0051,Retail Shopping,Gujarat
+MERCH_0052,Retail Shopping,Kerala
+MERCH_0053,Grocery,Maharashtra
+MERCH_0054,Fuel,Maharashtra
+MERCH_0055,Grocery,Rajasthan
+MERCH_0056,Travel,West Bengal
+MERCH_0057,Travel,Telangana
+MERCH_0058,Retail Shopping,Maharashtra
+MERCH_0059,Jewellery,Karnataka
+MERCH_0060,Electronics,Maharashtra
+MERCH_0061,Electronics,Gujarat
+MERCH_0062,Fuel,Tamil Nadu
+MERCH_0063,Food & Dining,Karnataka
+MERCH_0064,Grocery,Tamil Nadu
+MERCH_0065,Food & Dining,Maharashtra
+MERCH_0066,Fuel,Kerala
+MERCH_0067,Grocery,Tamil Nadu
+MERCH_0068,Food & Dining,Gujarat
+MERCH_0069,Utilities,Uttar Pradesh
+MERCH_0070,Food & Dining,Karnataka
+MERCH_0071,Fuel,Gujarat
+MERCH_0072,Jewellery,Rajasthan
+MERCH_0073,Retail Shopping,Uttar Pradesh
+MERCH_0074,Retail Shopping,Karnataka
+MERCH_0075,Fuel,Tamil Nadu
+MERCH_0076,Utilities,Tamil Nadu
+MERCH_0077,Grocery,Gujarat
+MERCH_0078,Travel,West Bengal
+MERCH_0079,Food & Dining,Gujarat
+MERCH_0080,Grocery,Karnataka
+MERCH_0081,Retail Shopping,Tamil Nadu
+MERCH_0082,Grocery,Delhi
+MERCH_0083,Food & Dining,Maharashtra
+MERCH_0084,Grocery,West Bengal
+MERCH_0085,Grocery,Maharashtra
+MERCH_0086,Grocery,Karnataka
+MERCH_0087,Grocery,Karnataka
+MERCH_0088,Retail Shopping,Karnataka
+MERCH_0089,Electronics,Karnataka
+MERCH_0090,Food & Dining,Tamil Nadu
+MERCH_0091,Travel,Maharashtra
+MERCH_0092,Grocery,Tamil Nadu
+MERCH_0093,Food & Dining,Karnataka
+MERCH_0094,Grocery,West Bengal
+MERCH_0095,Fuel,Karnataka
+MERCH_0096,Food & Dining,Gujarat
+MERCH_0097,Fuel,Gujarat
+MERCH_0098,Retail Shopping,Delhi
+MERCH_0099,Fuel,Uttar Pradesh
+MERCH_0100,Fuel,Tamil Nadu
+MERCH_0101,Jewellery,West Bengal
+MERCH_0102,Food & Dining,Uttar Pradesh
+MERCH_0103,Food & Dining,Telangana
+MERCH_0104,Retail Shopping,Tamil Nadu
+MERCH_0105,Fuel,Karnataka
+MERCH_0106,Grocery,Tamil Nadu
+MERCH_0107,Food & Dining,Delhi
+MERCH_0108,Utilities,Gujarat
+MERCH_0109,Food & Dining,Karnataka
+MERCH_0110,Grocery,Delhi
+MERCH_0111,Jewellery,Gujarat
+MERCH_0112,Retail Shopping,Maharashtra
+MERCH_0113,Utilities,Telangana
+MERCH_0114,Retail Shopping,West Bengal
+MERCH_0115,Travel,Tamil Nadu
+MERCH_0116,Grocery,Delhi
+MERCH_0117,Food & Dining,Karnataka
+MERCH_0118,Fuel,Delhi
+MERCH_0119,Electronics,Uttar Pradesh
+MERCH_0120,Grocery,Telangana
+MERCH_0121,Crypto/Forex,Maharashtra
+MERCH_0122,Utilities,Karnataka
+MERCH_0123,Food & Dining,Karnataka
+MERCH_0124,Food & Dining,Delhi
+MERCH_0125,Grocery,Tamil Nadu
+MERCH_0126,Electronics,Delhi
+MERCH_0127,Jewellery,Tamil Nadu
+MERCH_0128,Food & Dining,Karnataka
+MERCH_0129,Jewellery,Karnataka
+MERCH_0130,Electronics,Rajasthan
+MERCH_0131,Utilities,West Bengal
+MERCH_0132,Retail Shopping,Maharashtra
+MERCH_0133,Utilities,Tamil Nadu
+MERCH_0134,Fuel,Maharashtra
+MERCH_0135,Grocery,Karnataka
+MERCH_0136,Retail Shopping,Delhi
+MERCH_0137,Grocery,Kerala
+MERCH_0138,Electronics,Delhi
+MERCH_0139,Electronics,Delhi
+MERCH_0140,Food & Dining,Delhi
+MERCH_0141,Food & Dining,Uttar Pradesh
+MERCH_0142,Utilities,Uttar Pradesh
+MERCH_0143,Fuel,Maharashtra
+MERCH_0144,Food & Dining,Karnataka
+MERCH_0145,Fuel,Maharashtra
+MERCH_0146,Food & Dining,Karnataka
+MERCH_0147,Grocery,Delhi
+MERCH_0148,Grocery,Maharashtra
+MERCH_0149,Grocery,Tamil Nadu
+MERCH_0150,Electronics,Karnataka
+MERCH_0151,Gaming,Maharashtra
+MERCH_0152,Utilities,Telangana
+MERCH_0153,Utilities,Delhi
+MERCH_0154,Grocery,Gujarat
+MERCH_0155,Fuel,Karnataka
+MERCH_0156,Grocery,Delhi
+MERCH_0157,Fuel,Maharashtra
+MERCH_0158,Jewellery,Gujarat
+MERCH_0159,Grocery,Tamil Nadu
+MERCH_0160,Retail Shopping,Maharashtra
+MERCH_0161,Grocery,Karnataka
+MERCH_0162,Food & Dining,Karnataka
+MERCH_0163,Grocery,Uttar Pradesh
+MERCH_0164,Food & Dining,Karnataka
+MERCH_0165,Grocery,Karnataka
+MERCH_0166,Food & Dining,Maharashtra
+MERCH_0167,Food & Dining,Telangana
+MERCH_0168,Food & Dining,Maharashtra
+MERCH_0169,Retail Shopping,West Bengal
+MERCH_0170,Travel,Telangana
+MERCH_0171,Food & Dining,Karnataka
+MERCH_0172,Grocery,Maharashtra
+MERCH_0173,Food & Dining,Maharashtra
+MERCH_0174,Electronics,Kerala
+MERCH_0175,Fuel,Tamil Nadu
+MERCH_0176,Utilities,Karnataka
+MERCH_0177,Grocery,Gujarat
+MERCH_0178,Utilities,Delhi
+MERCH_0179,Food & Dining,Maharashtra
+MERCH_0180,Jewellery,Delhi
+MERCH_0181,Travel,Karnataka
+MERCH_0182,Grocery,Maharashtra
+MERCH_0183,Utilities,Maharashtra
+MERCH_0184,Food & Dining,Telangana
+MERCH_0185,Food & Dining,Karnataka
+MERCH_0186,Travel,Telangana
+MERCH_0187,Utilities,Gujarat
+MERCH_0188,Food & Dining,Tamil Nadu
+MERCH_0189,Grocery,West Bengal
+MERCH_0190,Electronics,Tamil Nadu
+MERCH_0191,Fuel,Rajasthan
+MERCH_0192,Utilities,Telangana
+MERCH_0193,Grocery,Karnataka
+MERCH_0194,Food & Dining,Karnataka
+MERCH_0195,Jewellery,Maharashtra
+MERCH_0196,Utilities,Maharashtra
+MERCH_0197,Food & Dining,Maharashtra
+MERCH_0198,Utilities,Karnataka
+MERCH_0199,Retail Shopping,Delhi
+MERCH_0200,Food & Dining,Tamil Nadu
+MERCH_0201,Grocery,Kerala
+MERCH_0202,Fuel,Kerala
+MERCH_0203,Retail Shopping,Maharashtra
+MERCH_0204,Retail Shopping,Telangana
+MERCH_0205,Travel,Karnataka
+MERCH_0206,Food & Dining,Tamil Nadu
+MERCH_0207,Grocery,Delhi
+MERCH_0208,Jewellery,Maharashtra
+MERCH_0209,Utilities,Delhi
+MERCH_0210,Fuel,Telangana
+MERCH_0211,Retail Shopping,Uttar Pradesh
+MERCH_0212,Fuel,Delhi
+MERCH_0213,Grocery,West Bengal
+MERCH_0214,Retail Shopping,Tamil Nadu
+MERCH_0215,Electronics,Tamil Nadu
+MERCH_0216,Fuel,West Bengal
+MERCH_0217,Utilities,Maharashtra
+MERCH_0218,Grocery,Maharashtra
+MERCH_0219,Grocery,Karnataka
+MERCH_0220,Food & Dining,Delhi
+MERCH_0221,Food & Dining,Karnataka
+MERCH_0222,Jewellery,Delhi
+MERCH_0223,Electronics,Tamil Nadu
+MERCH_0224,Retail Shopping,Tamil Nadu
+MERCH_0225,Utilities,Karnataka
+MERCH_0226,Grocery,Karnataka
+MERCH_0227,Gaming,Telangana
+MERCH_0228,Food & Dining,Tamil Nadu
+MERCH_0229,Grocery,Tamil Nadu
+MERCH_0230,Utilities,Delhi
+MERCH_0231,Travel,Maharashtra
+MERCH_0232,Travel,Tamil Nadu
+MERCH_0233,Grocery,Tamil Nadu
+MERCH_0234,Travel,Rajasthan
+MERCH_0235,Food & Dining,Gujarat
+MERCH_0236,Grocery,Maharashtra
+MERCH_0237,Electronics,Maharashtra
+MERCH_0238,Travel,Karnataka
+MERCH_0239,Fuel,Maharashtra
+MERCH_0240,Fuel,Gujarat
+MERCH_0241,Electronics,Telangana
+MERCH_0242,Electronics,Karnataka
+MERCH_0243,Travel,Kerala
+MERCH_0244,Fuel,Tamil Nadu
+MERCH_0245,Gaming,Karnataka
+MERCH_0246,Crypto/Forex,Tamil Nadu
+MERCH_0247,Grocery,Tamil Nadu
+MERCH_0248,Electronics,Telangana
+MERCH_0249,Utilities,Maharashtra
+MERCH_0250,Food & Dining,Tamil Nadu
+MERCH_0251,Fuel,Uttar Pradesh
+MERCH_0252,Grocery,Telangana
+MERCH_0253,Utilities,West Bengal
+MERCH_0254,Travel,Uttar Pradesh
+MERCH_0255,Grocery,Karnataka
+MERCH_0256,Utilities,Kerala
+MERCH_0257,Jewellery,Gujarat
+MERCH_0258,Utilities,Telangana
+MERCH_0259,Food & Dining,Kerala
+MERCH_0260,Utilities,Maharashtra
+MERCH_0261,Utilities,West Bengal
+MERCH_0262,Fuel,Karnataka
+MERCH_0263,Electronics,Karnataka
+MERCH_0264,Utilities,Tamil Nadu
+MERCH_0265,Electronics,Uttar Pradesh
+MERCH_0266,Utilities,Karnataka
+MERCH_0267,Food & Dining,Delhi
+MERCH_0268,Retail Shopping,Maharashtra
+MERCH_0269,Retail Shopping,Uttar Pradesh
+MERCH_0270,Fuel,Karnataka
+MERCH_0271,Grocery,West Bengal
+MERCH_0272,Grocery,Telangana
+MERCH_0273,Food & Dining,Maharashtra
+MERCH_0274,Food & Dining,Maharashtra
+MERCH_0275,Retail Shopping,West Bengal
+MERCH_0276,Grocery,Telangana
+MERCH_0277,Retail Shopping,West Bengal
+MERCH_0278,Food & Dining,Karnataka
+MERCH_0279,Food & Dining,Telangana
+MERCH_0280,Utilities,Maharashtra
+MERCH_0281,Grocery,Delhi
+MERCH_0282,Travel,Kerala
+MERCH_0283,Grocery,Karnataka
+MERCH_0284,Utilities,West Bengal
+MERCH_0285,Electronics,Delhi
+MERCH_0286,Fuel,Telangana
+MERCH_0287,Food & Dining,Tamil Nadu
+MERCH_0288,Utilities,Maharashtra
+MERCH_0289,Retail Shopping,Kerala
+MERCH_0290,Gaming,Tamil Nadu
+MERCH_0291,Travel,Tamil Nadu
+MERCH_0292,Food & Dining,Rajasthan
+MERCH_0293,Crypto/Forex,Karnataka
+MERCH_0294,Grocery,Rajasthan
+MERCH_0295,Grocery,Karnataka
+MERCH_0296,Electronics,Maharashtra
+MERCH_0297,Grocery,West Bengal
+MERCH_0298,Grocery,Gujarat
+MERCH_0299,Food & Dining,Delhi
+MERCH_0300,Utilities,Delhi
+MERCH_0301,Retail Shopping,Kerala
+MERCH_0302,Fuel,Karnataka
+MERCH_0303,Food & Dining,Maharashtra
+MERCH_0304,Utilities,Tamil Nadu
+MERCH_0305,Jewellery,Delhi
+MERCH_0306,Electronics,Karnataka
+MERCH_0307,Food & Dining,Karnataka
+MERCH_0308,Crypto/Forex,Maharashtra
+MERCH_0309,Retail Shopping,Tamil Nadu
+MERCH_0310,Grocery,Tamil Nadu
+MERCH_0311,Grocery,Gujarat
+MERCH_0312,Grocery,Maharashtra
+MERCH_0313,Retail Shopping,Telangana
+MERCH_0314,Grocery,Gujarat
+MERCH_0315,Utilities,Tamil Nadu
+MERCH_0316,Grocery,Delhi
+MERCH_0317,Jewellery,Tamil Nadu
+MERCH_0318,Food & Dining,West Bengal
+MERCH_0319,Travel,Rajasthan
+MERCH_0320,Jewellery,Delhi
+MERCH_0321,Grocery,Gujarat
+MERCH_0322,Utilities,Karnataka
+MERCH_0323,Grocery,Maharashtra
+MERCH_0324,Travel,Telangana
+MERCH_0325,Utilities,Tamil Nadu
+MERCH_0326,Grocery,Karnataka
+MERCH_0327,Grocery,Maharashtra
+MERCH_0328,Food & Dining,Gujarat
+MERCH_0329,Jewellery,Maharashtra
+MERCH_0330,Retail Shopping,Uttar Pradesh
+MERCH_0331,Travel,Tamil Nadu
+MERCH_0332,Food & Dining,Maharashtra
+MERCH_0333,Grocery,Gujarat
+MERCH_0334,Gaming,Karnataka
+MERCH_0335,Grocery,Gujarat
+MERCH_0336,Jewellery,Tamil Nadu
+MERCH_0337,Food & Dining,Tamil Nadu
+MERCH_0338,Grocery,Tamil Nadu
+MERCH_0339,Retail Shopping,Uttar Pradesh
+MERCH_0340,Crypto/Forex,Delhi
+MERCH_0341,Gaming,Kerala
+MERCH_0342,Grocery,Karnataka
+MERCH_0343,Grocery,Delhi
+MERCH_0344,Fuel,Maharashtra
+MERCH_0345,Fuel,Uttar Pradesh
+MERCH_0346,Retail Shopping,West Bengal
+MERCH_0347,Grocery,West Bengal
+MERCH_0348,Jewellery,Tamil Nadu
+MERCH_0349,Fuel,Delhi
+MERCH_0350,Electronics,Maharashtra
+MERCH_0351,Fuel,Uttar Pradesh
+MERCH_0352,Food & Dining,Karnataka
+MERCH_0353,Gaming,Karnataka
+MERCH_0354,Fuel,Maharashtra
+MERCH_0355,Travel,Karnataka
+MERCH_0356,Jewellery,Tamil Nadu
+MERCH_0357,Retail Shopping,Telangana
+MERCH_0358,Fuel,Delhi
+MERCH_0359,Grocery,Telangana
+MERCH_0360,Grocery,Kerala
+MERCH_0361,Grocery,Karnataka
+MERCH_0362,Grocery,Delhi
+MERCH_0363,Food & Dining,Tamil Nadu
+MERCH_0364,Food & Dining,Telangana
+MERCH_0365,Food & Dining,Maharashtra
+MERCH_0366,Utilities,Maharashtra
+MERCH_0367,Grocery,Karnataka
+MERCH_0368,Grocery,Maharashtra
+MERCH_0369,Retail Shopping,Karnataka
+MERCH_0370,Utilities,Maharashtra
+MERCH_0371,Utilities,Kerala
+MERCH_0372,Fuel,Kerala
+MERCH_0373,Electronics,Karnataka
+MERCH_0374,Utilities,Maharashtra
+MERCH_0375,Retail Shopping,Telangana
+MERCH_0376,Jewellery,Tamil Nadu
+MERCH_0377,Electronics,Telangana
+MERCH_0378,Utilities,Karnataka
+MERCH_0379,Retail Shopping,Gujarat
+MERCH_0380,Grocery,Delhi
+MERCH_0381,Fuel,Delhi
+MERCH_0382,Crypto/Forex,Telangana
+MERCH_0383,Utilities,Tamil Nadu
+MERCH_0384,Jewellery,Maharashtra
+MERCH_0385,Food & Dining,Delhi
+MERCH_0386,Crypto/Forex,Kerala
+MERCH_0387,Fuel,Karnataka
+MERCH_0388,Grocery,Kerala
+MERCH_0389,Fuel,Maharashtra
+MERCH_0390,Food & Dining,Karnataka
+MERCH_0391,Grocery,West Bengal
+MERCH_0392,Electronics,Tamil Nadu
+MERCH_0393,Food & Dining,Maharashtra
+MERCH_0394,Electronics,Tamil Nadu
+MERCH_0395,Food & Dining,Maharashtra
+MERCH_0396,Grocery,Delhi
+MERCH_0397,Gaming,Delhi
+MERCH_0398,Food & Dining,Maharashtra
+MERCH_0399,Fuel,Maharashtra
+MERCH_0400,Fuel,Karnataka
+MERCH_0401,Fuel,Maharashtra
+MERCH_0402,Travel,Uttar Pradesh
+MERCH_0403,Retail Shopping,Telangana
+MERCH_0404,Food & Dining,Tamil Nadu
+MERCH_0405,Travel,Tamil Nadu
+MERCH_0406,Grocery,Uttar Pradesh
+MERCH_0407,Fuel,Delhi
+MERCH_0408,Jewellery,Delhi
+MERCH_0409,Fuel,West Bengal
+MERCH_0410,Electronics,Karnataka
+MERCH_0411,Retail Shopping,Maharashtra
+MERCH_0412,Electronics,Uttar Pradesh
+MERCH_0413,Jewellery,Gujarat
+MERCH_0414,Food & Dining,Tamil Nadu
+MERCH_0415,Grocery,Tamil Nadu
+MERCH_0416,Utilities,Karnataka
+MERCH_0417,Retail Shopping,West Bengal
+MERCH_0418,Food & Dining,Karnataka
+MERCH_0419,Grocery,Tamil Nadu
+MERCH_0420,Food & Dining,Uttar Pradesh
+MERCH_0421,Gaming,Tamil Nadu
+MERCH_0422,Retail Shopping,Tamil Nadu
+MERCH_0423,Food & Dining,Karnataka
+MERCH_0424,Grocery,Karnataka
+MERCH_0425,Food & Dining,Maharashtra
+MERCH_0426,Grocery,Uttar Pradesh
+MERCH_0427,Grocery,Telangana
+MERCH_0428,Travel,Maharashtra
+MERCH_0429,Crypto/Forex,Maharashtra
+MERCH_0430,Grocery,Delhi
+MERCH_0431,Grocery,Karnataka
+MERCH_0432,Food & Dining,Tamil Nadu
+MERCH_0433,Utilities,Uttar Pradesh
+MERCH_0434,Grocery,Karnataka
+MERCH_0435,Food & Dining,Karnataka
+MERCH_0436,Grocery,Maharashtra
+MERCH_0437,Retail Shopping,Maharashtra
+MERCH_0438,Retail Shopping,Tamil Nadu
+MERCH_0439,Fuel,Tamil Nadu
+MERCH_0440,Food & Dining,Maharashtra
+MERCH_0441,Travel,Gujarat
+MERCH_0442,Gaming,Karnataka
+MERCH_0443,Grocery,Maharashtra
+MERCH_0444,Food & Dining,Delhi
+MERCH_0445,Utilities,Telangana
+MERCH_0446,Grocery,Karnataka
+MERCH_0447,Utilities,Tamil Nadu
+MERCH_0448,Fuel,Maharashtra
+MERCH_0449,Utilities,West Bengal
+MERCH_0450,Food & Dining,Tamil Nadu
+MERCH_0451,Fuel,Maharashtra
+MERCH_0452,Jewellery,Tamil Nadu
+MERCH_0453,Grocery,Tamil Nadu
+MERCH_0454,Retail Shopping,Maharashtra
+MERCH_0455,Grocery,Karnataka
+MERCH_0456,Grocery,Kerala
+MERCH_0457,Fuel,Delhi
+MERCH_0458,Grocery,Maharashtra
+MERCH_0459,Grocery,Maharashtra
+MERCH_0460,Grocery,Maharashtra
+MERCH_0461,Fuel,Tamil Nadu
+MERCH_0462,Retail Shopping,Telangana
+MERCH_0463,Grocery,Rajasthan
+MERCH_0464,Retail Shopping,Karnataka
+MERCH_0465,Grocery,Tamil Nadu
+MERCH_0466,Fuel,Tamil Nadu
+MERCH_0467,Food & Dining,Gujarat
+MERCH_0468,Retail Shopping,Gujarat
+MERCH_0469,Crypto/Forex,Kerala
+MERCH_0470,Jewellery,West Bengal
+MERCH_0471,Grocery,Maharashtra
+MERCH_0472,Travel,Delhi
+MERCH_0473,Grocery,Gujarat
+MERCH_0474,Jewellery,Maharashtra
+MERCH_0475,Food & Dining,Maharashtra
+MERCH_0476,Food & Dining,Gujarat
+MERCH_0477,Grocery,Delhi
+MERCH_0478,Grocery,Gujarat
+MERCH_0479,Retail Shopping,Delhi
+MERCH_0480,Jewellery,Gujarat
+MERCH_0481,Fuel,Gujarat
+MERCH_0482,Retail Shopping,Maharashtra
+MERCH_0483,Retail Shopping,Gujarat
+MERCH_0484,Food & Dining,Maharashtra
+MERCH_0485,Grocery,Karnataka
+MERCH_0486,Grocery,Tamil Nadu
+MERCH_0487,Food & Dining,Delhi
+MERCH_0488,Food & Dining,Delhi
+MERCH_0489,Grocery,Rajasthan
+MERCH_0490,Grocery,Maharashtra
+MERCH_0491,Grocery,Maharashtra
+MERCH_0492,Travel,Karnataka
+MERCH_0493,Grocery,Tamil Nadu
+MERCH_0494,Utilities,West Bengal
+MERCH_0495,Fuel,Karnataka
+MERCH_0496,Fuel,Delhi
+MERCH_0497,Grocery,Gujarat
+MERCH_0498,Food & Dining,Maharashtra
+MERCH_0499,Grocery,Telangana
+MERCH_0500,Food & Dining,Maharashtra

@@ -1,0 +1,94 @@
+{
+    "dataset_shapes": {
+        "transactions_raw": [
+            50700,
+            8
+        ],
+        "customers": [
+            5000,
+            4
+        ],
+        "devices": [
+            8000,
+            4
+        ],
+        "merchants": [
+            500,
+            3
+        ],
+        "alerts": [
+            3850,
+            5
+        ]
+    },
+    "quality_issues": {
+        "missing_merchant_categories": {
+            "count": 2125,
+            "percentage": 4.19
+        },
+        "duplicate_transactions": {
+            "total_rows": 50700,
+            "unique_transaction_ids": 50000,
+            "duplicate_ids_count": 700,
+            "exact_duplicate_rows": 350
+        },
+        "inconsistent_channel_labels": {
+            "unique_labels": [
+                "Upi ",
+                "upi",
+                "UPI",
+                "Mobile App",
+                "mobile_app",
+                "web",
+                "Web",
+                "POS",
+                "pos",
+                "ATM"
+            ],
+            "counts": {
+                "Upi ": 9319,
+                "upi": 9315,
+                "UPI": 9253,
+                "Mobile App": 5089,
+                "mobile_app": 5023,
+                "web": 3081,
+                "Web": 3015,
+                "POS": 2330,
+                "pos": 2269,
+                "ATM": 2006
+            }
+        },
+        "extreme_and_invalid_amounts": {
+            "large_outliers_over_500k": 99,
+            "max_amount": 5001630.91,
+            "zero_amounts": 10,
+            "negative_amounts": 20,
+            "min_amount": -2440.71
+        },
+        "incomplete_device_history": {
+            "missing_device_type_in_devices": 320,
+            "missing_new_device_flag_in_devices": 320,
+            "transactions_with_unregistered_devices": 1270
+        },
+        "alert_distribution": {
+            "total_alerts": 3850,
+            "unique_alerted_transactions": 3850,
+            "alert_rate_pct": 7.7,
+            "review_status_breakdown": {
+                "Under Review": 984,
+                "Confirmed Suspicious": 943,
+                "Pending": 780,
+                "False Positive": 774,
+                "Escalated": 369
+            },
+            "reason_category_breakdown": {
+                "New Device": 2774,
+                "Unusual Merchant": 386,
+                "Unusual Hour": 349,
+                "High Amount": 238,
+                "Region Anomaly": 86,
+                "Velocity Burst": 17
+            }
+        }
+    }
+}
