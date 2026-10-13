@@ -1,0 +1,51 @@
+{
+    "total_transactions": 50000,
+    "total_volume_inr": 685350381.365,
+    "average_amount_inr": 13707.0076273,
+    "median_amount_inr": 2442.65,
+    "total_alerts": 3850,
+    "alert_rate_pct": 7.7,
+    "new_device_txns": 9253,
+    "new_device_txn_pct": 18.506,
+    "unusual_hours_count": 0,
+    "top_risk_category": "Crypto/Forex",
+    "top_risk_category_rate": 22.67924528301887,
+    "top_risk_region": "Maharashtra",
+    "segment_medians": {
+        "Corporate": 67615.78,
+        "Premium": 9115.85,
+        "Retail": 1832.31,
+        "Small Business": 20087.43,
+        "Student": 413.045
+    },
+    "device_comparison": {
+        "known_alert_rate": 2.319189142758976,
+        "new_alert_rate": 31.395223170863503,
+        "known_median_amt": 2322.34,
+        "new_median_amt": 3009.15,
+        "chi2_p_val": 0.0,
+        "mw_p_val": 3.531886500160263e-39
+    },
+    "night_hours_alert_rate": 46.84563758389262,
+    "day_hours_alert_rate": 7.107907826616587,
+    "selected_top_features": [
+        "risk_score",
+        "is_new_device",
+        "amount_winsorized",
+        "log_amount",
+        "merchant_category_Electronics",
+        "is_night",
+        "amount_to_segment_median_ratio",
+        "amount_percentile_in_segment",
+        "amount_zscore_within_segment",
+        "hour",
+        "time_since_last_txn",
+        "amount_vs_customer_avg_ratio",
+        "cust_avg_amount",
+        "merchant_category_Jewellery",
+        "merchant_category_Grocery",
+        "merchant_category_Utilities",
+        "cross_region_flag",
+        "is_extreme_amount"
+    ]
+}
